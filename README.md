@@ -296,12 +296,16 @@ If you use this work, please cite:
 
 ```bibtex
 @article{easin2025dsiqgen,
-  title     = {DSIQ-GEN: Automatic Generation and Classification of Data Science Interview Questions},
-  author    = {Easin, Arafat Md},
-  journal   = {Wiley StatsRef: Statistics Reference Online},
-  doi       = {10.1002/ISBN.stat00999.pub9},
+  title     = {DSIQ-GEN: Automatic Generation and Classification 
+               of Data Science Interview Questions},
+  author    = {Easin, Arafat Md and 
+               Barbara, Cs{\'a}sz{\'a}r Fanni and 
+               Farou, Zakarya and 
+               Orosz, Tam{\'a}s},
+  journal   = {Computer Applications in Engineering Education},
   year      = {2025},
-  publisher = {Wiley}
+  publisher = {Wiley},
+  note      = {Submitted}
 }
 ```
 
