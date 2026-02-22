@@ -1,0 +1,381 @@
+question,difficulty
+Which feature selection techniques do you know?,intermediate
+What is a time series?,beginner
+Which hyper-parameter tuning strategies (in general) do you know?,intermediate
+How can we use CNN model for text classification?,advanced
+How to predict the best time series?,beginner
+When do we need random forest?,beginner
+What kind of regularization techniques are applicable to linear models?,intermediate
+Are there any differences between continuous and discrete variables when it comes to feature importance of gradient boosting models?,advanced
+What are the possible solutions to the cold start problem?,intermediate
+Do we want to have a constant learning rate or we better change it throughout training?,intermediate
+What is gradient boosting trees?,intermediate
+Possible approaches to solving the cold start problem?,advanced
+How do you use XGBoost for text classification?,advanced
+How can we use the CNN architecture for text classification?,advanced
+How can we use neural nets for text classification?,advanced
+What is the difference between CNN and RNN for text classification?,advanced
+How do we use decision trees?,beginner
+What are the advantages and disadvantages of bag of words?,intermediate
+How do we evaluate classification models?,beginner
+What is the difference between CNN and RNN architectures for text classification?,advanced
+What is K-fold cross-validation? What can it tell us?,beginner
+What do we do with categorical variables?,intermediate
+What happens when the learning rate is too large? Too small?,beginner
+How can we use CNN for text classification?,advanced
+Can we use L2 regularization for feature selection?,intermediate
+How do you use XGBoost for classification?,advanced
+What is the difference between gradient boosting models and XGBoost?,advanced
+What do we mean by supervised learning?,beginner
+What’s the learning rate?,beginner
+What is bag of words? How we can use it for text classification?,intermediate
+What is the learning rate?,beginner
+Do you know how to use GNNs for text classification?,advanced
+What are the types of regression models?,beginner
+You have a series with a variable “y” and a set of features. How do you predict “y” at t+1? Which approaches would you use?,intermediate
+Which regularization techniques do you know?,intermediate
+What’s singular value decomposition? How is it typically used for machine learning?,intermediate
+How do you use GANs for text classification?,advanced
+How can we use GANs for text classification?,advanced
+What is the curse of dimensionality? Why do we care about it?,intermediate
+What are the problems with using trees for solving time series problems?,intermediate
+"How we can incorporate implicit feedback (clicks, etc) into our recommender systems?",intermediate
+What’s the interpretation of the bias term in linear models?,intermediate
+Do you know any other ways to get word embeddings?,advanced
+Are CNNs resistant to rotations? What happens to the predictions of a CNN if an image is rotated?,advanced
+How does L2 regularization look like in a linear model?,intermediate
+How can we get training data for our ranking algorithms?,intermediate
+How do we use XGBoost models?,advanced
+What is logistic regression?,beginner
+Which metrics for evaluating regression models do you know?,beginner
+"What are the main differences between CNN, RNN and LSTMs for text classification?",advanced
+Feature importance in gradient boosting trees — what are possible options?,intermediate
+What is the difference between linear regression and logistic regression?,beginner
+"How can we use pre-trained language models like BERT, RoBERTa, and GPT-3 to improve the performance of XGBoost?",advanced
+How to select the number of trees in gradient boosting trees model?,intermediate
+What if we want to build a neural network for text classification with bag of words features?,intermediate
+Can we have both L1 and L2 regularization components in a linear model?,intermediate
+How do we choose K in K-fold cross-validation? What’s your favorite K?,beginner
+Possible approaches to solving the cold start problem?,intermediate
+What is TF-IDF? How is it useful for text classification?,intermediate
+How can we use CNNs for text classification?,advanced
+What is normal distribution? When do we use it?,beginner
+What is overfitting?,beginner
+What is the K-fold cross-validation?,beginner
+What is the concept of supervised learning?,beginner
+What is AUC (AU ROC)? When to use it?,intermediate
+How can we use XGBoost for ranking?,advanced
+What if we set all the weights of a neural network to 0?,intermediate
+How do you evaluate the accuracy of your classification models?,beginner
+What is the normal equation?,intermediate
+How can we use word embeddings for NLP tasks?,advanced
+What are word embeddings? Why are they useful? Do you know Word2Vec?,intermediate
+What is precision and recall at k?,intermediate
+Do you know how to use XGBoost or LightGBM for text classification?,advanced
+What is the confusion table?,beginner
+What is Machine learning?,beginner
+What is the bias-variance trade-off?,beginner
+What are good baselines when building a recommender system?,intermediate
+What is object detection? Do you know any architectures for that?,advanced
+Do you know any other ways to use gradient boosting trees for ranking?,advanced
+Do you know how to use CNN for text classification?,advanced
+Do you have any experience in using XGBoost for text classification?,advanced
+How do you decide which clustering algorithms to use?,intermediate
+Which models do you know for solving time series problems?,intermediate
+Can you please tell me how can we use deep learning for anomaly detection?,advanced
+What are the main differences between CNN and RNN?,advanced
+What is K-fold cross-validation?,beginner
+Can you tell me something about your experience in using transformers and how they can be used for text classification?,advanced
+What is linear regression?,beginner
+What is learning rate? What can it tell us?,beginner
+What is random forest? When do we need it?,beginner
+What are good unsupervised baselines for text information retrieval?,intermediate
+What is the difference between regression and classification?,beginner
+What is gradient descent? How does it work?,intermediate
+How do you use XGBoost for feature selection?,advanced
+Do you know how to use XGBoost for ranking?,advanced
+How can we use the text embeddings to identify the relationship between two or more concepts?,advanced
+How do you use transformers for text classification?,advanced
+What are augmentations? Why do we need them?,beginner
+Would you prefer gradient boosting trees model or logistic regression when doing text classification with embeddings?,intermediate
+How can we use machine learning for search?,intermediate
+When would you choose K-means and when DBScan?,intermediate
+How do we use word embeddings?,advanced
+What is k-fold cross validation?,beginner
+How we can use machine learning for text classification with bag of words features?,intermediate
+Can we use machine learning for text classification with bag of words features?,intermediate
+How can we use the pre-trained word embeddings to predict the class labels?,advanced
+Can you explain how cross-validation works?,beginner
+What kind of problems neural nets can solve?,beginner
+How do you know when to use XGBoost or LightGBM for classification?,advanced
+How do you solve this problem?,beginner
+When would you use Adam and when SGD?,intermediate
+What is ReLU? How is it better than sigmoid or tanh?,intermediate
+How do we handle categorical variables in decision trees?,intermediate
+How can we use machine learning for text classification?,intermediate
+Can you please tell me about the importance of using hyperparameter tuning in XGBoost?,advanced
+What are the main parameters of the random forest model?,intermediate
+How can we use CNN for object detection?,advanced
+What is feature selection?,beginner
+"What is the probability that two random numbers chosen from the set {1, 2, 3, 4, 5} will sum to 6?",intermediate
+What are the main parameters of the decision tree model?,beginner
+Can you give an example of how you would use word embeddings for text classification?,advanced
+Do you know how to use pre-trained word embeddings for NLP?,advanced
+What is mean average precision at k?,intermediate
+How can we use word embeddings to improve sentiment classification?,advanced
+How can we know which features are more important for the decision tree model?,intermediate
+Do you know any other ways to use CNNs for ranking?,advanced
+What’s the effect of L2 regularization on the weights of a linear model?,intermediate
+How do you validate your regression models?,beginner
+What is the confusion table? What are the cells in this table?,beginner
+What’s the difference between random forest and gradient boosting?,intermediate
+How do you evaluate the effectiveness of your models?,beginner
+Can you use CNN for text classification?,advanced
+How to handle missing data in machine learning?,beginner
+What is backpropagation? How does it work? Why do we need it?,intermediate
+How do we select the depth of the trees in random forest?,intermediate
+Why do we need one-hot encoding?,intermediate
+How do we use the regression model?,beginner
+How to set the number of trees in gradient boosting trees model?,intermediate
+How do we use SGD (stochastic gradient descent) for training a neural net?,intermediate
+"How do you select the best feature importance metrics for XGBoost or LightGBM in terms of accuracy, F1 score, etc?",advanced
+What’s the difference between grid search parameter tuning strategy and random search? When to use one or another?,intermediate
+How do you test your models?,beginner
+Can you tell us how you approach the model training process?,intermediate
+How does a usual fully-connected feed-forward neural network work?,intermediate
+How do you decide when to stop training?,beginner
+What is the use of CNN in image classification?,advanced
+What is the difference between XGBoost and LightGBM models?,advanced
+How to set the learning rate?,intermediate
+What is Adam? What’s the main difference between Adam and SGD?,intermediate
+Can we use L1 regularization for feature selection?,intermediate
+What if we have a series with only one variable “y” measured at time t+1 and a set of features at time t?,intermediate
+Do you know how to use the gradient boosting trees for text classification?,advanced
+Why do we need activation functions?,beginner
+How do you do an online evaluation of a new ranking algorithm?,intermediate
+Is it easy to parallelize training of a random forest model? How can we do it?,intermediate
+How do you select the number of trees in the gradient boosting model?,intermediate
+What is the ROC curve? When to use it?,intermediate
+What is a recommender system?,beginner
+What is Supervised Learning?,beginner
+Do you know how to use gradient boosting models for ranking?,advanced
+What is regression? Which models can you use to solve a regression problem?,beginner
+How can you use gradient boosting trees for ranking?,advanced
+What happens to our linear regression model if the column z in the data is a sum of columns x and y and some random noise?,intermediate
+How do you evaluate how well your models perform?,intermediate
+"What happens to our linear regression model if we have three columns in our data: x, y, z — and z is a sum of x and y?",intermediate
+Do you know how K-means works?,intermediate
+How to select K for K-means?,intermediate
+What if we want to build a model for predicting prices? Are prices distributed normally? Do we need to do any pre-processing for prices?,intermediate
+What is machine learning?,beginner
+What is the difference between clustering and classification?,beginner
+Do you know how to use XGBoost for text classification?,advanced
+What is the difference between XGBoost and LightGBM?,advanced
+What is SGD — stochastic gradient descent? What’s the difference with the usual gradient descent?,intermediate
+What is the difference between feature importance and feature ranking?,advanced
+How do you evaluate whether two trees are similar?,beginner
+What are the potential problems with many large trees?,intermediate
+What are the different types of models used in machine learning?,beginner
+How can we use machine learning?,beginner
+What is supervised learning?,beginner
+How do you evaluate the following regression models?,beginner
+How can we improve the performance of gradient boosting trees (GBTs) for text classification?,advanced
+How do we interpret weights in linear models?,intermediate
+How can we use clicks data as the training data for ranking algorithms?,advanced
+Can we use word embeddings in text classification?,advanced
+How do you choose K in K-fold cross-validation?,beginner
+When do we need the regression model?,beginner
+What methods for solving linear regression do you know?,intermediate
+Can we use CNN for object detection?,advanced
+What are the advantages of using transformers for text classification?,advanced
+What is the difference between gradient boosting trees (GBTs) and XGBoost?,advanced
+Is it possible to parallelize training of a gradient boosting model? How to do it?,intermediate
+What is the best way to use word embeddings for document classification?,advanced
+What are the different types of machine learning?,beginner
+If a weight for one variable is higher than for another — can we say that this variable is more important?,intermediate
+What are the other clustering algorithms do you know?,intermediate
+What is the difference between XGboost and LightGBM?,advanced
+Precision-recall trade-off,intermediate
+How can you use XGBoost for text classification?,advanced
+How can we improve the performance of XGBoost model on text classification?,advanced
+How do we find the best features to use for classification?,beginner
+How do we know how many trees we need in random forest?,intermediate
+How would you evaluate your ranking algorithms? Which offline metrics would you use?,intermediate
+What is the difference between K-fold cross-validation and Leave-one-out cross-validation?,beginner
+What are the problems with sigmoid as an activation function?,intermediate
+How do you decide when to stop training a neural net?,beginner
+How do you validate regression models?,beginner
+Is logistic regression a linear model? Why?,beginner
+What if we have a series with only one variable “y” measured at time t and a set of features at time t-1?,intermediate
+How do you solve the problem below?,beginner
+"If you have a series with only one variable “y” measured at time t and a set of features at time t-1 and t-2, how to predict “y” at time t+1?",intermediate
+How can you use CNN for text classification?,advanced
+What is the expected value of a random variable?,intermediate
+Do you have any idea how to use CNN for text classification?,advanced
+What happens when we have correlated features in our data?,intermediate
+What is dropout? Why is it useful? How does it work?,intermediate
+What is the difference between gradient boosting trees and XGBoost?,advanced
+How can we use text embeddings for sentiment analysis?,advanced
+How do we decide when to stop training?,beginner
+How do you evaluate the accuracy of regression models?,beginner
+What is the ranking problem? Which models can you use to solve them?,intermediate
+What are the decision trees?,beginner
+What if we want to build a recommender system for movies?,intermediate
+How can we use word embeddings for sentiment analysis?,advanced
+How do you evaluate the accuracy of your models?,beginner
+How is time series different from the usual regression problem?,beginner
+What are the main parameters in the gradient descent algorithm?,intermediate
+What’s the cold start problem?,intermediate
+Do you know how to use gradient boosting trees for ranking?,advanced
+How do you use XGBoost or LightGBM to deal with class imbalance problem?,advanced
+How can we use word embeddings for text classification?,advanced
+What is the difference between classification and regression models?,beginner
+How do you validate your clustering?,beginner
+How do we decide when to stop training a neural net?,beginner
+Can you tell me about your work on the topic of domain adaptation for text classification?,advanced
+What are the problems with the L2 regularization term?,intermediate
+What are the different ways to use gradient boosting trees for text classification?,advanced
+What is clustering? When do we need it?,beginner
+What regularization techniques for neural nets do you know?,intermediate
+What are the most important steps in supervised machine learning?,beginner
+How can we use deep learning approaches for text classification?,advanced
+What are the main parameters in the gradient boosting model?,intermediate
+How do we select the right regularization parameters?,beginner
+What’s the normal distribution? Why do we care about it?,beginner
+Can you tell me about how can we use GANs for text classification?,advanced
+Can you please tell me how to use word embeddings for text classification?,advanced
+How do we check if a variable follows the normal distribution?,intermediate
+How do you evaluate your regression models?,beginner
+How do you use gradient boosting models for ranking?,advanced
+What is the concept of feature selection?,beginner
+Can we have both L2 and L1 regularization components in a linear model?,intermediate
+How can you use neural nets for text classification?,advanced
+What is the impact of feature selection?,beginner
+How do you know how to validate your models?,beginner
+What is K-fold cross validation?,beginner
+How can we use the concept of gradient boosting trees to solve the problem of text classification?,advanced
+How do you validate your models?,beginner
+What is the area under the PR curve? Is it a useful metric?,intermediate
+How we can use neural nets for computer vision?,intermediate
+How to interpret the AU ROC score?,intermediate
+What is model selection?,beginner
+How do you use XGBoost or LightGBM for text classification?,advanced
+How do you improve the performance of XGBoost models?,advanced
+What are the problems with the gradient descent algorithm?,intermediate
+What is collaborative filtering?,intermediate
+What is random forest?,beginner
+Which optimization techniques for training neural nets do you know?,intermediate
+What is transfer learning? How does it work?,intermediate
+What is feature selection? Why do we need it?,beginner
+How can we use CNNs for text classification tasks?,advanced
+What’s the difference between L2 and L1 regularization?,intermediate
+2D Convolutional Neural Network (CNN) for Image Classification with Keras. How to set the number of filters in the first convolutional layer?,intermediate
+How do you know if a regression model is linear?,beginner
+What is accuracy?,beginner
+What are the differences between gradient boosting trees and XGBoost?,advanced
+How do you choose the K in K-fold cross-validation?,beginner
+How we can initialize the weights of a neural network?,intermediate
+What’s pooling in CNN? Why do we need it?,intermediate
+What is the difference between XGBoost and LightGBM in terms of accuracy?,advanced
+Which regularization techniques for neural nets do you know?,intermediate
+What is the difference between XGBoost and LightGBM in terms of performance?,advanced
+Do you know how to use transformers for text classification?,advanced
+How do you solve the following problem?,beginner
+In which cases AU PR is better than AU ROC?,intermediate
+Do you know any ways to use CNN for ranking?,advanced
+When do we need to use text embeddings?,advanced
+What’s the PR (precision-recall) curve?,intermediate
+Can you please tell me how do you use word embeddings for text classification?,advanced
+Can we formulate the search problem as a classification problem? How?,intermediate
+What are the types of machine learning?,beginner
+When do we need to perform feature normalization for linear models? When it’s okay not to do it?,intermediate
+Do you know any dimensionality reduction techniques?,intermediate
+How to choose which augmentations to use?,intermediate
+What are N-grams? How can we use them?,intermediate
+Why do we actually need convolutions? Can’t we use fully-connected layers for that?,intermediate
+How do you use the gradient boosting trees for text classification?,advanced
+What are MSE and RMSE?,beginner
+What kind of augmentations do you know?,beginner
+How to select the depth of the trees in gradient boosting trees model?,intermediate
+What is classification? Which models would you use to solve a classification problem?,beginner
+How do you evaluate your models?,beginner
+How do you decide which clustering algorithm to use?,intermediate
+What are the differences between CNN and RNN architectures?,advanced
+"What are precision, recall, and F1-score?",beginner
+"What is ""curse of dimensionality""? ",intermediate
+What are K-fold cross-validation?,beginner
+What is the linear regression model?,beginner
+How do we use LightGBM models for text classification?,advanced
+Do you know how to use CNNs for text classification?,advanced
+How can we use word embeddings for classification?,advanced
+What are the different types of regression models?,beginner
+How can we use XGBoost for text classification?,advanced
+How can we use XGBoost or LightGBM models for text classification?,advanced
+What kind of CNN architectures for classification do you know?,advanced
+How L1 regularization looks like in a linear model?,intermediate
+Can you please tell me how do you use CNNs for text classification?,advanced
+What is the difference between CNN and RNN?,advanced
+Which model would you use for text classification with bag of words features?,intermediate
+What do you know about the use of neural nets for text classification?,advanced
+What do we mean by machine learning?,beginner
+What is k-fold cross-validation?,beginner
+What is the difference between gradient boosting trees (GBT) and XGBoost?,advanced
+What is the difference between linear and logistic regression?,beginner
+Do you know how to use CNNs for ranking?,advanced
+What are the challenges in building an end-to-end pipeline for text classification?,advanced
+What is object segmentation? Do you know any architectures for that?,advanced
+What are the benefits of a single decision tree compared to more complex models?,intermediate
+How do you evaluate the clustering?,beginner
+What is the PR (precision-recall) curve?,intermediate
+What are the differences between CNN and RNN for text classification?,advanced
+Do you know how DBScan works?,intermediate
+What is the difference between CNN and RNN architectures?,advanced
+What is the probability that a random sample of 5 items drawn from a bag will contain at least one red item?,intermediate
+What is a time series? When do we need it?,beginner
+"What if instead of finding the best split, we randomly select a few splits and just select the best from them. Will it work?",advanced
+How do you use XGBoost models in production?,advanced
+What are the steps involved in supervised learning?,beginner
+What is the role of feature importance in XGBoost?,advanced
+Would you prefer gradient boosting trees model or logistic regression when doing text classification with bag of words?,intermediate
+What is logistic regression? When do we need to use it?,beginner
+"If there’s a trend in our series, how we can remove it? And why would we want to do it?",intermediate
+What’s a convolutional layer?,intermediate
+What is Machine Learning?,beginner
+How do we train decision trees?,intermediate
+How does max pooling work? Are there other pooling techniques?,intermediate
+How do you evaluate the performance of a neural net?,beginner
+How large should be N for our bag of words when using N-grams?,intermediate
+What is supervised machine learning?,beginner
+How to validate your models?,beginner
+Is feature selection important for linear models?,intermediate
+Do you know any methods to improve the performance of CNNs for text classification?,advanced
+"Why do we need to split our data into three parts: train, validation, and test?",beginner
+"What is the difference between XGBoost, LightGBM, and Gradient Boosting trees?",advanced
+What are the main assumptions of linear regression?,intermediate
+How can we use the gradient boosting trees for text classification?,advanced
+What is the best way to use word embeddings?,advanced
+How do you approach tuning parameters in XGBoost or LightGBM?,advanced
+What is model checkpointing?,intermediate
+How can we use text embeddings for recommendation systems?,advanced
+"If you have a series with only one variable “y” measured at time t, and a set of features at time t-1 and t-2, how to predict “y” at time t+1?",intermediate
+What is the best way to validate your models?,beginner
+What is the difference between gradient boosting tree and XGBoost?,advanced
+What is the cold start problem?,intermediate
+What is the K-fold Cross-validation?,beginner
+Do you know any other ways to use XGBoost or LightGBM for text classification?,advanced
+Why do we need randomization in random forest?,intermediate
+How do you use gradient boosting trees for text classification?,advanced
+What is unsupervised learning?,beginner
+What is the difference between classification and regression?,beginner
+What is sigmoid? What does it do?,beginner
+Do you know any ways to use gradient boosting trees for ranking?,advanced
+What is regularization? Why do we need it?,beginner
+When do we need to use random forests?,beginner
+What is the best way to get good feature selection?,beginner
+You have a series with only one variable “y” measured at time t. How do predict “y” at time t+1? Which approaches would you use?,intermediate
+How do you evaluate regression models?,beginner
+What are the different types of machine learning models?,beginner
+Is accuracy always a good metric?,beginner
+"If you have a sentence with multiple words, you may need to combine multiple word embeddings into one. How would you do it?",intermediate
+Can you tell us more about how you would use XGBoost or LightGBM to solve the recommendation system problem?,advanced
+What is linear regression? When do we use it?,beginner
