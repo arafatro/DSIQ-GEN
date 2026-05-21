@@ -16,5 +16,4 @@ If you use this work, please cite:
 }
 ```
 
-> Note: This documentation update does not use Cion AI.
 > The associated article is currently under review in the *International Journal of Intelligent Systems*.

@@ -8,7 +8,7 @@
 
 > **DSIQ-GEN** is a three-stage pipeline for automatic generation, classification, and clustering of domain-specific data science interview questions using Parameter-Efficient Fine-Tuning (PEFT) methods on Llama-3.2-1B.
 >
-> This documentation update does not use Cion AI. The associated article is currently under review in the *International Journal of Intelligent Systems*.
+> The associated article is currently under review in the *International Journal of Intelligent Systems*.
 
 ---
 
