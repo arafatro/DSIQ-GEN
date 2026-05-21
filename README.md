@@ -2,11 +2,9 @@
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12-orange.svg)](https://www.tensorflow.org/)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow.svg)](https://huggingface.co/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Paper](https://img.shields.io/badge/Paper-Under%20Review-blue.svg)](#citation)
 
-> **DSIQ-GEN** is a three-stage pipeline for automatic generation, classification, and clustering of domain-specific data science interview questions using Parameter-Efficient Fine-Tuning (PEFT) methods on Llama-3.2-1B.
+> **DSIQ-GEN** is a reproducible research repository for generation, classification, and clustering of data science interview questions.
 >
 > The associated article is currently under review in the *International Journal of Intelligent Systems*.
 
@@ -77,10 +75,11 @@ DSIQ-GEN/
 ├── classification models/            # Saved trained classifier weights
 ├── generated text/                  # Generated question outputs for evaluation
 ├── notebooks/                       # Experiment and evaluation notebooks
+├── environment.txt                  # Python dependency specifications
+├── LICENSE                         # MIT license for the repository
 ├── CITATION.md
 ├── keywords.txt
 ├── question generation models.txt
-├── requirements.txt
 └── README.md
 ```
 
@@ -105,23 +104,25 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install dependencies
-pip install -r requirements.txt
+pip install -r environment.txt
 ```
+
+This repository is licensed under the MIT License. See `LICENSE` for details.
 
 ### Dependencies
 
 ```
-tensorflow==2.12
-scikit-learn==1.2
-transformers==4.30
-peft==0.5
-torch>=2.0
-pandas==1.5
-nltk==3.8
-matplotlib==3.7
-numpy==1.24
-sentence-transformers
-imbalanced-learn
+tensorflow==2.12.0
+scikit-learn==1.2.2
+transformers==4.30.2
+peft==0.5.0
+torch>=2.0.0
+pandas==1.5.3
+nltk==3.8.1
+matplotlib==3.7.1
+numpy==1.24.3
+sentence-transformers==2.2.2
+imbalanced-learn==0.11.0
 ```
 
 ---
