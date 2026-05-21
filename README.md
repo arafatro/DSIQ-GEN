@@ -28,7 +28,7 @@
 
 ---
 
-## 🧠 Overview
+## Overview
 
 DSIQ-GEN addresses the challenge of data scarcity in specialized technical domains by combining:
 
@@ -40,7 +40,7 @@ The framework expands a 167-question seed corpus to **1,011 questions (505.4% in
 
 ---
 
-## 🏆 Key Results
+## Key Results
 
 | Task | Model | Dataset | Accuracy |
 |------|-------|---------|----------|
@@ -58,7 +58,7 @@ The framework expands a 167-question seed corpus to **1,011 questions (505.4% in
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 DSIQ-GEN/
@@ -85,7 +85,7 @@ DSIQ-GEN/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### Prerequisites
 - Python 3.11
@@ -127,7 +127,7 @@ imbalanced-learn==0.11.0
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 All CSV datasets have been moved into the `data/` folder for a cleaner repository layout.
 
@@ -150,7 +150,7 @@ Key data files:
 
 ---
 
-## ▶️ Run the Repository
+## Run the Repository
 
 To run the repo and reproduce difficulty classification results:
 
@@ -180,7 +180,7 @@ The repository is organized so that dataset files are separated from generated o
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ### Question Generation
 
@@ -288,11 +288,11 @@ Three parameter-efficient fine-tuning approaches are implemented on **Llama-3.2-
 | **P-tuning** | 1,024,000 | 0.08% | 500 virtual tokens via LSTM soft prompts |
 | **Prefix Tuning** | 1,441,792 | 0.12% | 88 prefix tokens at each layer input |
 
-> ✅ **LoRA is recommended** for domain-specific generation requiring both diversity and semantic fidelity.
+> **LoRA is recommended** for domain-specific generation requiring both diversity and semantic fidelity.
 
 ---
 
-## 📏 Evaluation Metrics
+## Evaluation Metrics
 
 Five automated metrics assess generated question quality:
 
@@ -308,7 +308,7 @@ Sentence embeddings are computed using `all-MiniLM-L6-v2` from the `sentence-tra
 
 ---
 
-## 📝 Citation
+## Citation
 
 If you use this work, please cite:
 
@@ -328,13 +328,13 @@ If you use this work, please cite:
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 This research was supported by the **Stipendium Hungaricum scholarship**, generously provided by the Hungarian Government through the Tempus Public Foundation. We also thank the **Department of Data Science at Eötvös Loránd University (ELTE)** for their academic guidance and technical support.
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Arafat Md Easin**
 Doctoral Fellow, Data Science and Engineering Department
