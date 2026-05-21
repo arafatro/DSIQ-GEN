@@ -10,7 +10,7 @@
 
 ---
 
-## 📖 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Key Results](#key-results)
@@ -278,7 +278,7 @@ python clustering/evaluate_clustering.py \
 
 ---
 
-## 🔧 PEFT Methods
+## PEFT Methods
 
 Three parameter-efficient fine-tuning approaches are implemented on **Llama-3.2-1B**:
 
