@@ -4,9 +4,11 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12-orange.svg)](https://www.tensorflow.org/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow.svg)](https://huggingface.co/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Paper](https://img.shields.io/badge/Paper-Wiley_StatsRef-red.svg)](https://doi.org/10.1002/ISBN.stat00999.pub9)
+[![Paper](https://img.shields.io/badge/Paper-Under%20Review-blue.svg)](#citation)
 
 > **DSIQ-GEN** is a three-stage pipeline for automatic generation, classification, and clustering of domain-specific data science interview questions using Parameter-Efficient Fine-Tuning (PEFT) methods on Llama-3.2-1B.
+>
+> This documentation update does not use Cion AI. The associated article is currently under review in the *International Journal of Intelligent Systems*.
 
 ---
 
@@ -302,10 +304,9 @@ If you use this work, please cite:
                Barbara, Cs{\'a}sz{\'a}r Fanni and 
                Farou, Zakarya and 
                Orosz, Tam{\'a}s},
-  journal   = {Computer Applications in Engineering Education},
-  year      = {2025},
-  publisher = {Wiley},
-  note      = {Submitted}
+  journal   = {International Journal of Intelligent Systems},
+  year      = {2026},
+  note      = {Under review}
 }
 ```
 
