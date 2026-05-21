@@ -1,0 +1,49 @@
+What do you mean by text classification?
+What are the different types of text classification models?
+How would you deal with unbalanced class labels?
+How can you use text classification for text classification?
+What is NLP?
+What are the different types of neural networks?
+What is the difference between feature engineering and feature extraction?
+What is the difference between bag of words and word embeddings?
+What is the difference between deep learning and convolutional neural networks?
+What is N-grams?
+What is text classification?
+How do we use word embeddings for text classification?
+How can we use Word Embedding for text classification?
+How can we use deep learning to classify images?
+What are text classification tasks?
+How can we use Word Embeddings for text classification?
+How can we use CNN for text classification?
+What is the difference between bag of words and n-grams?
+What is bag of words?
+What is feature engineering in machine learning?
+What is the difference between text classification and text embeddings?
+What is sentiment analysis?
+How can we use deep learning models for text classification?
+How do you deal with imbalanced datasets?
+What is the difference between logistic regression and support vector machine?
+How can we use machine learning for text classification?
+What are N-grams?
+How can we use text classification for sentiment analysis?
+What is the difference between text classification and text embedding?
+What are the types of deep learning models?
+How can we do text classification using word embeddings?
+What are the different types of machine learning algorithms used in text classification?
+What is the difference between supervised and unsupervised learning?
+Can you explain the difference between text classification and text clustering?
+What are embeddings?
+What is machine learning?
+What is the difference between text classification and text categorization?
+What is Text Classification?
+How can we use N-grams for text classification?
+What is deep learning?
+How can you use text classification to solve text classification problems?
+What are text classification models?
+How can we use word embeddings for sentiment analysis?
+What are text classification and text clustering?
+What are the different methods of text classification?
+What is feature engineering?
+How do you perform text classification using Word2Vec?
+What is the difference between text classification and text clustering?
+How can we use word embeddings for text classification?

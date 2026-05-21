@@ -1,0 +1,80 @@
+What is gradient descent?
+What are neural nets?
+What is neural net?
+What is the concept of regularization?
+What is the difference between Keras and Tensorflow?
+What is the gradient descent algorithm?
+What is convolutional layer?
+What is neural nets?
+How to train a neural network?
+Why do we need to use activation functions?
+How do we know when to use convolutional layers and when to use fully connected layers?
+What is CNN (Convolutional Neural Network) and how does it work?
+How does dropout work?
+How can we use Convolutional Neural Networks (CNNs) for image classification?
+Why do we use convolutional layers?
+What is the difference between supervised learning and unsupervised learning?
+What do you mean by gradient decent?
+What are the types of loss functions?
+What is transfer learning?
+What do you mean by transfer learning?
+What is the purpose of dropout layer?
+How to implement RNN?
+What is deep learning and how does it differ from traditional machine learning?
+How do we handle the overfitting problem in neural nets?
+What do we mean by overfitting?
+What is dropout?
+How do we train a neural net?
+Why is the dropout layer important?
+What is the difference between Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs)?
+Why do we need batch normalization?
+What is the difference between batch and mini-batch training?
+What are convolutional neural nets (CNNs)?
+What is the main difference between convolutional layers and fully connected layers?
+How do we initialize weights in neural nets?
+What are the differences between Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs)?
+What is deep learning?
+What are the benefits of using GPUs for training deep neural nets?
+Why do we need to use neural nets for deep learning?
+How does CNN work?
+What do we mean by gradient descent?
+What is the loss function?
+What does RNN mean?
+What is backpropagation?
+How does backpropagation work?
+What are the different types of neural nets?
+What do we mean by “Deep Learning”?
+What is Deep Learning?
+What are the types of neural nets?
+What is CNN?
+Why do we need to use convolutional layers?
+How do we train the neural nets?
+How do we train the model?
+What is the difference between convolutional layers and fully-connected layers?
+How do you train a neural net with backpropagation?
+What is Deep learning?
+What do we mean by deep learning?
+What are the key differences between deep learning and traditional neural nets?
+What is the difference between supervised and unsupervised learning?
+What is the concept of “batch” in machine learning?
+What is an activation function?
+What is the difference between CNN and RNN?
+Why do we need to use dropout layers?
+What is the difference between linear regression and logistic regression?
+What are convolutional layers?
+What is Keras?
+What kind of augmentations do you know?
+What kind of training do you know?
+How do we know what kind of convolutions to use?
+Why do we need batch norm?
+What kind of losses do you know?
+Why do we need dropout?
+Why do we need pooling?
+How do we know when to stop training?
+Why do we need convolutions?
+Why do we need learning rates?
+What kind of architectures do you know?
+What kind of augmentation do you know?
+Why do we need convolutional layers?
+What kind of regularization do you know?
+What kind of learning do you know?

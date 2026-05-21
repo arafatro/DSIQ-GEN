@@ -1,0 +1,8 @@
+How can you use neural nets for classification?
+How do you approach tuning parameters in XGBoost or LightGBM?
+Do you know how to use neural nets for classification?
+How can you use CNN for classification?
+Do you know how to use CNN for classification?
+What kind of CNN architectures for classification do you know?
+Do you know how to get word embeddings?
+How can you use object segmentation for classification?

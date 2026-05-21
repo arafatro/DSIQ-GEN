@@ -1,0 +1,29 @@
+What is K-fold cross-validation?
+What is clustering?
+What is regression?
+What are the different types of classification models?
+What are the different types of feature selection?
+What is the concept of supervised learning?
+What is the difference between linear regression and logistic regression?
+What is linear regression?
+What is the feature selection technique?
+What is k-fold cross-validation?
+What is Random Forest?
+What is the difference between unsupervised and supervised learning?
+What is machine learning?
+What is unsupervised learning?
+What is supervised learning?
+What is regression analysis?
+What is the concept of supervised and unsupervised learning?
+What are the different types of machine learning algorithms?
+What is the difference between classification and regression?
+What are the types of machine learning algorithms?
+What is the difference between Supervised and Unsupervised learning?
+What is Machine Learning?
+What is the difference between supervised and unsupervised machine learning?
+What is K-fold cross validation?
+What is k-fold cross validation?
+What is feature selection?
+What do we need to consider while choosing a feature selection method?
+What is the difference between supervised and unsupervised learning?
+What is classification?

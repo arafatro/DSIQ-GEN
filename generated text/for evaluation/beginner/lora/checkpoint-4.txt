@@ -1,0 +1,37 @@
+What is K-fold cross-validation?
+What is clustering?
+How do you calculate the variance?
+What’s your favorite programming language?
+How do you validate regression models?
+What is the probability that two random numbers drawn from a binomial distribution with parameters n = 10 and p = 0.5 will sum to 7?
+What is the correlation coefficient?
+How do you evaluate the accuracy of your classification models?
+What is your favourite programming language?
+How do you determine when to stop?
+What is the mean absolute error?
+How do you know when to stop?
+How do you choose the right K-fold cross-validation?
+How do you know if your classifier is working?
+What is k-fold cross-validation?
+How do you validate the accuracy of your models?
+What is your name?
+What is your favorite programming language?
+What is the K-fold cross-validation?
+How do you evaluate the quality of your code?
+How do you evaluate the goodness of fit?
+How do you calculate the mean?
+What is the minimum number of samples you need to collect in order to be able to accurately estimate the population proportion?
+What is the probability that two dice will come up with the same sum?
+How do you validate your models?
+How do you evaluate the performance of your models?
+What is the Pearson correlation?
+What is your favorite number?
+What is your favorite color?
+How do you determine whether two points are collinear?
+What is the median?
+How do you decide when to stop?
+What is feature selection?
+What is the variance?
+What is cross-validation?
+How do you evaluate the clustering?
+How do you solve this?

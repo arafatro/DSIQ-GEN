@@ -1,0 +1,24 @@
+How do we know how many trees we need in random forest?
+What are the problems with sigmoid as an activation function?
+How do we know how many trees we need in random forest when using bag of words features?
+Can you explain how K-means works?
+Can you explain how cross-validation works?
+What is logistic regression?
+What happens to our linear regression model if we have three columns in our data: x, y, z — and z is a sum of x and y?
+Can you tell us how you approach the model training process?
+How do we decide when to stop training a neural net?
+What are the advantages and disadvantages of bag of words when using it for text classification?
+What are the main parameters in the gradient boosting model?
+What is gradient descent?
+How do we interpret weights in linear models?
+Can you tell us how you approach model training for your ranking algorithms?
+How can you use neural nets for text classification?
+How do you evaluate classification models?
+What’s the difference between bag of words and bag of features?
+What is the bias-variance trade-off?
+What is feature selection?
+What are the main assumptions of linear regression?
+How do you approach tuning parameters in XGBoost or LightGBM?
+What’s the difference between random forest and gradient boosting trees?
+What are the advantages and disadvantages of bag of words?
+What are precision, recall, and F1-score?

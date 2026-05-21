@@ -1,0 +1,58 @@
+What is the difference between linear regression and logistic regression?
+What is the difference between mean and average in statistics?
+How would you deal with the following problem?
+What are the most common types of machine learning models?
+Today I am going to give you an example of a data science interview question, which I think is very good.
+The question is “What is the most important part of your data science career?
+What do you think is the most important part of your job?
+How do you calculate the variance of a distribution?
+How would you solve this problem?
+What is the difference between feature engineering and feature extraction?
+How would you design a machine learning algorithm to determine which customers are likely to churn (leave your company) in the next 12 months?
+How would you deal with the following situation?
+100,000 records in one column and 10,000 records in another column. What is the most efficient way to sort them?
+5 questions to prepare for your next data science interview
+In this article, we are going to discuss about example of a data science interview question.
+Data Science Interview Questions and Answers:
+1) What is Data Science?
+What is the difference between supervised and unsupervised machine learning?
+What is the probability that a randomly selected person in the U.S. has at least one child with Down’s syndrome?
+Given a dataset, what is the most common value in each column?
+How do you deal with missing values in a dataset?
+What is the best way to store categorical variables in a data science project?
+What is the name of the technique you would use to calculate the correlation between two variables?
+What is the best way to determine the significance of a correlation between two variables?
+What is the name of the file used to store the training data?
+What are the top 5 things to consider when designing a data pipeline?
+5 years ago, you were an analyst. Today, you are a data scientist. What has changed?
+How do you analyze and interpret the results of machine learning algorithms?
+What is the difference between regression analysis and linear regression?
+2D or 3D What is the difference between a 2D and a 3D graph?
+How would you handle this problem?
+What is your approach to the problem?
+If we are given a dataset and want to find the correlation between two variables, how would we do it?
+How would you solve the following problem using Python?
+How would you approach the following problem?
+Given a list of customers, how would you find the top 10 customers who have purchased the most expensive products?
+How to calculate the variance of a set of numbers?
+Given the following code, what is the output?
+What are your plans for the future?
+What does it mean for a model to overfit?
+What is the most common way to compute the variance of a set of numbers?
+You have a dataset with 10,000 rows and 5 features. What is the most efficient way to find the top 10 features that contribute the most to the overall prediction accuracy?
+How do you calculate the correlation coefficient between two variables?
+What is the difference between a regression model and a logistic regression model?
+What is the purpose of your code?
+What is the difference between an API and a service?
+What is the best way to find the maximum value of a function?
+How long does it take to run your code?
+What is the name of this dataset?
+How do you find the maximum value of this function?
+10 questions to ask during an interview
+Data Science Interview Questions and Answers (with examples)
+1. What is your favorite programming language?
+What is your favorite programming language and why?
+What is the difference between regression and classification?
+Which type of regression is used to model the relationship between two categorical variables?
+1/3 + 1/2 + 1/3 =?
+Given a list of integers, how do you find the maximum sum of a contiguous subarray?

@@ -1,0 +1,17 @@
+Why do we need ReLU?
+How do we train neural nets?
+What kind of training do you know?
+How do we know when to stop training?
+What kind of learning do you know?
+Why do we need learning rates?
+What kind of architectures do you know?
+What kind of losses do you know?
+How do we know what kind of convolutions to use?
+What kind of transformations do you know?
+Why do we need batch normalization?
+What kind of augmentations do you know?
+Why do we need dropout?
+What kind of augmentation do you know?
+Why do we need convolutions?
+Why do we need convolutional layers?
+What kind of regularization do you know?

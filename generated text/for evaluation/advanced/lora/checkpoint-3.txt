@@ -1,0 +1,8 @@
+Do you know any ways to use CNNs for ranking?
+Do you know any other ways to use gradient boosting trees for ranking?
+How can you use gradient boosting trees for ranking?
+How can you use CNNs for text classification?
+Do you know how to use CNNs for ranking?
+Do you know how to use CNNs for text classification?
+Do you know how to use gradient boosting trees for ranking?
+Do you know how to use gradient boosting models for ranking?

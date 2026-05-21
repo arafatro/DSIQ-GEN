@@ -1,0 +1,18 @@
+How do we select the number of trees in the gradient boosting model?
+What is the bias-variance trade-off?
+What are the other clustering algorithms do you know?
+What are the main parameters in the gradient boosting model?
+What are the benefits of a single decision tree compared to more complex models?
+What is the area under the PR curve?
+What’s the difference between L1 and L2 regularization?
+What is object detection?
+Can we have both L1 and L2 regularization components in a linear model?
+How do we select the right regularization parameters?
+What is the PR (precision-recall) curve?
+What is the confusion table?
+How can we use machine learning for text classification?
+What is the ranking problem?
+Is it possible to parallelize training of a gradient boosting model?
+What is the ROC curve?
+What are the advantages and disadvantages of bag of words?
+Can we use L1 regularization for feature selection?

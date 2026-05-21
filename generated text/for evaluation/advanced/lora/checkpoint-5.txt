@@ -1,0 +1,1 @@
+How can we use clicks data as the training data for ranking algorithms?

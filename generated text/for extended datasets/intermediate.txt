@@ -1,0 +1,142 @@
+What if we want to build a recommender system for movies?
+2D Convolutional Neural Network (CNN) for Image Classification with Keras. How to set the number of filters in the first convolutional layer?
+If you have a series with only one variable “y” measured at time t and a set of features at time t-1 and t-2, how to predict “y” at time t+1?
+What’s the cold start problem?
+Can we use neural nets for text classification with bag of words features?
+What if we want to build a neural network for text classification with bag of words features?
+How we can use machine learning for text classification with bag of words features?
+What’s the PR (precision-recall) curve?
+What if we have a series with only one variable “y” measured at time t+1 and a set of features at time t?
+What are the main parameters in the gradient descent algorithm?
+How to set the number of trees in gradient boosting trees model?
+Can we have both L2 and L1 regularization components in a linear model?
+How to set the learning rate?
+Which regularization techniques for neural nets do you know?
+What are the problems with the L2 regularization term?
+Can we use machine learning for text classification with bag of words features?
+How to select the number of trees in gradient boosting trees model?
+How to select the depth of the trees in gradient boosting trees model?
+What are the possible solutions to the cold start problem?
+What if we have a series with only one variable “y” measured at time t and a set of features at time t-1?
+What is the cold start problem?
+If you have a series with only one variable “y” measured at time t, and a set of features at time t-1 and t-2, how to predict “y” at time t+1?
+How to interpret the AU ROC score?
+What are the problems with the gradient descent algorithm?
+How do you evaluate how well your models perform?
+How do you evaluate regression models?
+What is the K-fold cross-validation?
+How do you determine whether a function is injective?
+How do you choose the right regularization?
+How do you validate regression models?
+What is logistic regression?
+What do you know about cross-validation?
+What is the probability that two random numbers chosen from the set {1, 2, 3, 4, 5} will sum to 6?
+What is the name of this algorithm?
+How do you know how to validate your models?
+How do you decide how many clusters to use?
+What is cross-validation?
+What is the probability that someone who has read at least one book in each of the last three years will have read at least one book in each of the last five years?
+What is your favorite animal?
+What is your favorite color?
+What is your preferred programming language?
+What is the name of the graph?
+How do you evaluate the following regression models?
+What is the Pearson product-moment correlation coefficient?
+What is your favorite food?
+How do you determine the number of bits required to represent a floating point number?
+How do you find the median?
+What is the probability that a randomly selected male between ages 18 and 25 will be an atheist?
+How do you validate your models?
+How do you decide which metrics to use?
+How do you test your models?
+How do you calculate the mean and standard deviation?
+What is the best way to solve this?
+What is the cross-validation?
+What is K-fold cross-validation?
+How do you know if a regression model is linear?
+What is the expected value?
+What is the probability that two people chosen at random from a population will have the same birthday?
+What is your favorite programming language?
+What is the expected value of a random variable?
+What is the name of your favorite programming language?
+How do you evaluate your models?
+What’s your favorite programming language?
+How do you choose K in K-fold cross-validation?
+What is your favorite Python library?
+How do you evaluate the accuracy of your models?
+How do you decide when to stop iterating?
+What is PCA?
+How do you decide when to use what?
+What is SVM?
+How do you decide when to stop training a neural net?
+How do you solve the following problem?
+How do we decide when to stop training?
+What are K-fold cross-validation?
+How do you assess the quality of an image?
+What is the number of days until Christmas?
+What is the maximum value of x?
+How do you solve this?
+What is the mean?
+How do you decide when to stop training?
+What is the K-fold Cross-validation?
+How do you choose the K in K-fold cross-validation?
+What is the name of your favorite fruit?
+What is an LSTM?
+How do you solve the following?
+How do you determine whether a set of points is convex?
+What is the best way to validate your models?
+What is the Pearson correlation coefficient?
+How do you evaluate the performance of a neural net?
+How do you evaluate your regression models?
+How do you evaluate the accuracy of your classification models?
+How do you evaluate whether two trees are similar?
+How do you handle outliers?
+How do you determine whether two sets are disjoint?
+What is the standard deviation?
+How do you validate your regression models?
+How do you decide when to stop?
+What is your favorite number?
+What is the probability that two randomly chosen numbers from {1,2,3,4,5,6} have a sum greater than 10?
+What is the difference between these two expressions?
+What is the minimum number of times you need to press the button?
+What is the probability that a person with a bachelor’s degree will have a job?
+What is the probability that a random sample of 5 items drawn from a bag will contain at least one red item?
+How do you choose the right K?
+How do you decide whether to use one or two decimal places?
+How do you determine the right number of bins?
+How do you determine whether two matrices are similar?
+What do you consider to be the key metrics for measuring your company’s performance?
+How do you evaluate the effectiveness of your models?
+What is logistic?
+What is clustering?
+What do you know about clustering?
+What is feature selection?
+How do you determine whether an array is sorted?
+How do you choose a K?
+How do you solve the problem below?
+What is the probability that exactly one of the following will occur?
+What is the median?
+What is regression?
+How do you evaluate the clustering?
+What is your name?
+How do you know when to stop?
+What is the probability that at least one of the following events will occur?
+What is the name of the function that takes an integer as input and returns its square?
+How do you decide which clustering algorithm to use?
+How do you choose the right metric?
+How do you choose when to stop?
+What is the number of ways you can choose 2 numbers from 1 to 9, such that the first number is less than or equal to the second?
+How do you decide which clustering algorithms to use?
+What is k-fold cross-validation?
+What is the correlation coefficient?
+How do you find the mean and standard deviation?
+What is the best metric for measuring your company's revenue?
+How do you calculate the variance?
+How do you evaluate whether two numbers are approximately equal?
+What is cluster analysis?
+How do you evaluate the accuracy of regression models?
+How do you validate your clustering?
+What is the probability that a randomly chosen integer between 1 and 10 is divisible by both 3 and 5?
+What is the probability that you will be able to answer at least one question correctly?
+How do you solve this problem?
+What is your favorite Python module?

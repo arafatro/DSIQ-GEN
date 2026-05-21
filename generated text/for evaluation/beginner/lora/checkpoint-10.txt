@@ -1,0 +1,8 @@
+What is the learning rate?
+What is time series?
+What is regression?
+What are augmentations?
+What’s the learning rate?
+What are the main parameters of the decision tree model?
+What is accuracy?
+How do we decide when to stop training a neural net?

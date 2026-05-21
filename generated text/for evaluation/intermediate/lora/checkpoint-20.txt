@@ -1,0 +1,21 @@
+What is backpropagation?
+In which cases AU PR is better than AU ROC?
+Can we use L2 regularization for feature selection?
+How do we train decision trees?
+What are word embeddings?
+Can you tell us how you approach the model training process?
+How would you evaluate your ranking algorithms?
+What is the area under the PR curve?
+What are the main parameters in random forest?
+How to select the depth of the trees in random forest?
+How can we use machine learning for text classification?
+How do we handle categorical variables in decision trees?
+Can we use decision trees for solving time series problems?
+What are the problems with using trees for solving time series problems?
+How do we use SGD (stochastic gradient descent) for training a neural net?
+What are the main parameters of the random forest model?
+What are the main parameters in the random forest model?
+Can we use machine learning for text classification?
+What is bag of words?
+How we can use machine learning for text classification?
+Can we use L1 regularization for feature selection?

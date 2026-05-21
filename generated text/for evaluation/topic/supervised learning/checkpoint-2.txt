@@ -1,0 +1,24 @@
+What is the difference between linear regression and logistic regression?
+What is the concept of cross-validation?
+What is the basic difference between machine learning and deep learning?
+What is linear regression?
+What is the difference between supervised and unsupervised machine learning?
+What is the difference between cross-validation and k-fold cross-validation?
+What are the basic components of machine learning?
+How do we split our data into train and test sets?
+What are the different types of linear regression models?
+What is Machine Learning?
+What are the different types of regression models in machine learning?
+What is K-fold cross-validation?
+What is cross-validation?
+What is the linear regression model?
+What is the K-fold cross-validation?
+What is the difference between supervised and unsupervised learning?
+What is k-fold cross-validation?
+What is machine learning?
+What is feature selection?
+What is regression?
+What is regression analysis?
+What is feature engineering?
+What is the difference between regression and classification?
+What is supervised machine learning?

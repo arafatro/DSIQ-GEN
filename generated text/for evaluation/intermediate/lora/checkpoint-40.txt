@@ -1,0 +1,25 @@
+What is backpropagation?
+How do we know how many trees we need in random forest?
+What are the problems with sigmoid as an activation function?
+Can we use L2 regularization for feature selection?
+What happens to our linear regression model if we have three columns in our data: x, y, z — and z is a sum of x and y?
+Can you tell us how you approach the model training process?
+What is AUC (AU ROC)?
+How do we interpret weights in linear models?
+Can we have both L1 and L2 regularization components in a linear model?
+How do we check if a variable follows the normal distribution?
+How can we use machine learning for text classification?
+What is the ROC curve?
+You have a series with only one variable “y” measured at time t. How do predict “y” at time t+1?
+What is "curse of dimensionality"?
+How do we select the number of trees in the gradient boosting model?
+What are the benefits of a single decision tree compared to more complex models?
+How do we use SGD (stochastic gradient descent) for training a neural net?
+What’s the difference between grid search parameter tuning strategy and random search?
+2 What are the problems with sigmoid as an activation function?
+What are good baselines when building a recommender system?
+What are the other clustering algorithms do you know?
+What are the main assumptions of linear regression?
+What is the PR (precision-recall) curve?
+How to interpret the AU ROC score?
+Can we use L1 regularization for feature selection?

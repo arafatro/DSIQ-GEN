@@ -1,0 +1,33 @@
+How can we use dimensionality reduction for ranking?
+How can we use unsupervised baselines for ranking?
+Do you know how to use K-means for clustering?
+How can we use click data for ranking?
+What is the curse of dimensionality?
+Do you know how to do unsupervised learning?
+How can we use unsupervised baselines for text information retrieval?
+How would you do an online evaluation of your ranking algorithms?
+How can we use K-means for ranking?
+Do you know how to do clustering?
+How would you use K-means?
+How can we use K-means for unsupervised text information retrieval?
+How can we use gradient boosting trees for ranking?
+How can we use K-means for unsupervised learning?
+Do you know how to use K-means for unsupervised learning?
+How can we do unsupervised learning?
+How can we use unsupervised baselines for search?
+How would you evaluate your ranking algorithms?
+How can we use cluster analysis for search?
+How can we use clustering algorithms for search?
+How can we use clicks data for ranking?
+How can we use clicks data for search?
+How can we use unsupervised learning for ranking?
+Do you know how to do k-means?
+Do you know how to do K-means?
+How would you use unsupervised baselines for search?
+What is mean average precision at k?
+How can we use clustering for search?
+How can we use unsupervised learning for search?
+How can we use clicks data for ranking algorithms?
+How would you use K-means for unsupervised text clustering?
+How would you use K-means for unsupervised text information retrieval?
+How can we use clustering algorithms for ranking?

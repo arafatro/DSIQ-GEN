@@ -1,0 +1,8 @@
+If we have a series with a variable “y” and a set of features, how we can predict “y” at t+1?
+You have a series with a variable “y” and a set of features. How do you predict “y” at t+1?
+You have a series with a variable “y” and a set of features. How would you predict “y” at t+1?
+If we have a series with a variable “y” and a set of features, how do we predict “y” at t+1?
+If there’s a trend in our series, how we can remove it?
+What are the problems with using trees for solving time series problems?
+How is time series different from the usual regression problem?
+You have a series with a variable “y” and a set of features. How you would predict “y” at t+1?

@@ -1,0 +1,41 @@
+Do you know any other ways to get the length of a string?
+Do you know any other ways to get the first letter of each word in a string?
+How can we use artificial intelligence for text classification?
+How can we use text classification for text classification?
+How can you use what you know about how people learn to help others learn?
+How can we use neural nets for text classification?
+What if instead of finding the best split, we randomly select a few splits and just select the best from them. Will it work?
+Do you know any other ways to get the number of rows in a table?
+How can we use text analytics to help us with our research?
+How can we use Twitter as a source of information?
+What if instead of getting just one answer to a question, we get multiple answers?
+How can you use text classification for text summarization?
+How can we use social media for marketing?
+How can you use what you know about how people learn to design effective learning experiences?
+How can you use what you know about how people think to get the best from interviews?
+Are there any differences between the ways that people learn?
+Do you know any other ways to get word embeddings?
+How can we use machine learning for text classification?
+What if instead of asking how much money you have, we just ask how much money you want?
+How can you use what you know about how to use spreadsheets for this?
+What if instead of finding the best split, we randomly select a few and just select the best from them. Will it work?
+How can you use what you know about how humans learn to help us use our computers more efficiently?
+How can we use text classification for text summarization?
+How can you use text analytics for text classification?
+How can you use object segmentation for text classification?
+What if instead of just finding the best split, we randomly select a few splits and just select the best from them. Will it work?
+How can you use neural nets for text classification?
+Do you know any other ways to get this value?
+How can you use what you know about how people learn to help us improve our website?
+How can you use your knowledge of how to use spreadsheets for word problems?
+Do you know any other ways to find the area of a triangle?
+How can you use text classification for text categorization?
+How can you use your knowledge of how to use Google Analytics for SEO?
+How can you use your knowledge of statistics to find the best split for X?
+How can we use what we know about how people learn to help them learn better?
+How can you use your knowledge of statistics to solve this problem?
+What if instead of asking how can we use machine learning for text classification, we just ask how can we use text classification for machine learning?
+How can we use text mining for text classification?
+How can you use what you know about how people work to help improve processes?
+How can we use machine learning to predict the outcome of an election?
+How can we use this information to make better decisions?

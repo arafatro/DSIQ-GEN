@@ -1,0 +1,42 @@
+How do we select the depth of the trees in the random forest model?
+How can we select the number of trees in the random forest model?
+Why do we need to split our data into three parts: train, validation, and test?
+What is mean average precision at k?
+What is the learning rate?
+What’s the effect of L2 regularization on linear regression?
+How do we initialize the weights of a neural network?
+How do we select the number of trees in the random forest model?
+What is the effect of L2 regularization on linear regression?
+What is K-fold cross-validation?
+What is precision and recall at k?
+How to select the number of trees in the random forest model?
+What is the area under the PR curve?
+How do we select the depth of the trees in random forest?
+How can we use neural nets for text classification?
+What is the ranking problem?
+How to set the learning rate?
+What is the precision-recall trade-off?
+How can we incorporate implicit feedback (clicks, etc) into our recommender systems?
+How can we use machine learning for search?
+Can we have both L1 and L2 regularization components in linear models?
+How can we initialize the weights of a neural network?
+What’s the difference between random forest and gradient boosting?
+What is Adam?
+How can we use machine learning for text classification?
+Can we use L2 regularization for feature selection?
+Is it possible to parallelize training of a random forest model?
+What is K-means?
+How can we select the depth of the trees in random forest?
+What is the ROC curve?
+How do we check if a variable follows the normal distribution?
+What is the difference between random forest and gradient boosting?
+How to select the depth of the trees in random forest?
+What is L2 regularization?
+Can we use L1 regularization for feature selection?
+What is the PR (precision-recall) curve?
+How to evaluate your ranking algorithms?
+What is the bias-variance trade-off?
+How to parallelize training of a new model?
+Can we use SGD (stochastic gradient descent) for training a neural net?
+What is the curse of dimensionality?
+What is the confusion table?

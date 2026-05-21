@@ -1,0 +1,10 @@
+How do we choose K in K-fold cross-validation?
+What’s your favorite K-fold cross-validation?
+What is gradient descent?
+What’s your favorite linear regression model?
+What is regression?
+What is K-fold cross-validation?
+How do we check if a variable follows the normal distribution?
+How do we validate our models?
+What’s your favorite K-fold cross-validation method?
+What is linear regression?

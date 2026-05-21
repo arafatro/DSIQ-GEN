@@ -1,0 +1,4 @@
+What is the area under the PR curve?
+What is precision-recall trade-off?
+What is the confusion table?
+What is logistic regression?

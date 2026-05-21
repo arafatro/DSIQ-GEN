@@ -1,0 +1,82 @@
+Why do we need to use the regularization?
+How to choose the best machine learning model?
+How do you know if we can use logistic regression?
+How do you know which model selection?
+Why do we need to use it?
+Why do we need to use deep neural networks?
+How do you deal with the bag of type?
+How do you choose the right way to build a predictive model?
+What is the process of gradient descent?
+How do you train a neural network?
+What is the best feature selection technique to use?
+What is the best feature selection?
+How do you choose the best features for training?
+How to train the model?
+How do we use random forests?
+How do we use gradient boosting?
+How do you determine the R?
+How do you deal with the use of L1 regularization?
+How do we train our neural nets?
+What is the linear regression?
+What is the K-means?
+How do we choose the best features?
+What is the difference between random forest trees?
+What is the output?
+Why do we need to use deep neural nets?
+How do we train our neural networks?
+How do we choose the best feature to use for machine learning?
+Do you know how machine learning algorithms?
+What is the reason for gradient boosting?
+Why do we need to use the gradient descent?
+What is the difference between random forest tree ensembles?
+What is the K means to use in this problem?
+How do you choose to determine which model?
+How do we use the gradient boost?
+How do we choose the best features for training?
+What is the relationship between L1 and L?
+What is the difference between support vectorization?
+How do you define a function?
+What is the best algorithm for training?
+How do you know if we have a linear model?
+What is the difference between logistic regression trees?
+How do we use decision tree ensembles?
+How do you choose the right feature selection method?
+What is the problem?
+What is the best way to do it when training a neural network?
+What is the RNN?
+What is the difference between gradient boost?
+How do we choose the best features to be used?
+What is gradient boosting?
+What is the difference between SGD layers?
+What is the difference between K-means?
+How do we use decision trees?
+What is the difference between L2 and L?
+What is the best way to do it?
+How do we train our model to get the result?
+How do we use the gradient boosting?
+How do you train?
+How do you find the best way to use it?
+What is the difference between neural networks?
+How do we use random forest trees?
+How do you find the best features?
+What is the difference between Keras?
+How do we use gradient boosting trees?
+How do you solve it?
+How do we train the model?
+Why do we need gradient boosting?
+How do we use word embeddings?
+How do we need to build a machine learning algorithm?
+Why do we need to use this technique?
+What is the process of feature selection?
+What is the difference between deep neural nets?
+How do you know how to detect the probability of a binary classification problem?
+What is the relationship between the loss function?
+What is the difference between Keras layers?
+How do you train your model?
+What is the loss function?
+What is the difference between KNN?
+Why do we need to use the gradient boosting?
+What is K-means?
+How do you find the best feature?
+Do you know what we mean?
+What is the L2 regularization in scikit-learn?

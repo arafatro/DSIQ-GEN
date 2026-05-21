@@ -1,0 +1,30 @@
+Do you know any other ways to use N-grams?
+How would you use word embeddings for text classification?
+How would you use N-grams?
+How can you use text classification for text classification?
+What is word embeddings?
+How can you use text classification with N-grams?
+How can you use text classification with word embeddings?
+What are word embeddings?
+Do you know any other ways to use word embeddings?
+How would you use text classification with word embeddings?
+What is N-grams?
+How can you use machine learning for text classification with N-grams?
+Would you prefer gradient boosting trees model when doing text classification with bag of words?
+Would you prefer gradient boosting trees model when doing text classification with embeddings?
+Would you prefer gradient boosting trees model when doing text classification with N-grams?
+How can you use text classification for text classification with bag of words?
+How can you use machine learning for text classification?
+How can you use word embeddings for text classification?
+How would you use text classification with N-grams?
+Do you know any other ways we can use word embeddings?
+Would you prefer gradient boosting trees model or logistic regression when doing text classification with N-grams?
+What are N-grams?
+How would you use machine learning for text classification with N-grams?
+How would you use machine learning for text classification?
+How would you use machine learning for text classification with n-grams?
+Would you prefer gradient boosting trees model or logistic regression when doing text classification with embeddings?
+How would you use text classification for text classification with bag of words features?
+How would you use text classification for text classification?
+How would you use text classification with n-grams?
+How would you use N-grams for text classification?

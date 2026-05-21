@@ -1,0 +1,162 @@
+What is supervised learning?
+What is feature engineering?
+What is Machine Learning?
+How do we deal with missing values?
+What is the difference between supervised and unsupervised machine learning?
+What is the purpose of K-fold cross-validation?
+What is feature selection?
+What is linear regression?
+What are the types of regression models?
+What is regression?
+What is the difference between classification and regression?
+What is K-fold cross-validation?
+What is supervised machine learning?
+What are the different types of regression models?
+What is the difference between cross-validation and k-fold cross-validation?
+What is cross-validation?
+What is the difference between supervised and unsupervised learning?
+What is the difference between linear regression and logistic regression?
+What is k-fold cross-validation?
+What is regression analysis?
+What is machine learning?
+What is overfitting?
+What do you know about cross-validation?
+What do we mean by overfitting?
+What’s k-fold cross-validation?
+What do we need to know about regression?
+What do we need to know about bias-variance trade-off?
+What is linear regression?
+How do we choose our K in K-fold cross-validation?
+How do we choose K?
+What is regression?
+What do we want to learn?
+What do we need to know about our models?
+What is K-fold cross-validation?
+What do you know about linear regression?
+How do we choose K in K-fold cross-validation?
+How do we choose our hyperparameters?
+What’s linear regression?
+What is cross-validation?
+What do you know about what regression models are?
+What is gradient descent?
+How do we choose our models?
+What do we need to know about how to choose our models?
+What’s your favorite metric for evaluating regression models?
+What’s your favorite K-fold cross-validation?
+How do we check if a variable follows the normal distribution?
+What is regression?
+What’s your favorite linear regression model?
+What is K-fold cross-validation?
+What if we want to build a model for predicting prices?
+How do we choose K in K-fold cross-validation?
+What is linear regression?
+What is supervised learning?
+What is Machine Learning?
+What is the linear regression model?
+What is the K-fold cross validation?
+What is the difference between supervised and unsupervised machine learning?
+What is the bias-variance trade-off?
+What is linear regression?
+What is regression?
+What is K-fold cross-validation?
+What is supervised machine learning?
+What are the different types of regression models?
+What is the difference between logistic regression and linear regression?
+What is cross-validation?
+What is the difference between supervised and unsupervised learning?
+What are the types of machine learning?
+What is the difference between linear regression and logistic regression?
+What is the k-fold cross-validation?
+What is k-fold cross-validation?
+What is regression analysis?
+What is machine learning?
+What is supervised learning?
+What is Machine Learning?
+What is supervised and unsupervised learning?
+What is the linear regression model?
+What is the difference between supervised and unsupervised machine learning?
+How do we deal with missing values in the dataset?
+What do we mean by regression analysis?
+What is the difference between regression and classification?
+How do we split the data into train, validation and test sets?
+What is linear regression?
+Why do we need to use cross validation?
+What are the types of regression models?
+What is regression?
+How do we choose the best model for our data?
+What is K-fold cross-validation?
+What is supervised machine learning?
+What are the types of machine learning algorithms?
+What is the difference between cross-validation and k-fold cross-validation?
+What is the K-fold cross-validation technique?
+What is regression and how it can be applied in machine learning?
+What is the difference between supervised and unsupervised learning?
+How do we split the dataset into train, validation and test sets?
+What is the principle of linear regression?
+What is the difference between linear regression and logistic regression?
+What is k-fold cross-validation?
+What is regression analysis?
+What is the difference between linear regression and logistic regression?
+What is machine learning?
+What’s linear regression?
+What is cross-validation?
+How do we choose K?
+What do we mean by cross-validation?
+What is overfitting?
+What do you know about cross-validation?
+What is regression?
+What’s K-fold cross-validation?
+What is K-fold cross-validation?
+What is regularization?
+How do we choose K in K-fold cross-validation?
+How do we choose K for K-fold cross-validation?
+What do you know about K-fold cross-validation?
+What do we mean by overfitting?
+How do we choose our models?
+What do we mean by bias-variance trade-off?
+What is the difference between a linear regression model and a logistic regression model?
+What is the best way to represent categorical data in a database?
+How would you solve the following problem?
+What is the most common type of error that you see in machine learning models?
+How do you find the mean and standard deviation of a set of numbers?
+What is the most important thing you need to know as a data scientist?
+Given a dataset, how do you determine the number of unique values in each column?
+What is Data Science?
+What do you mean by “data mining”?
+How do you calculate the mean, variance, standard deviation, skewness and kurtosis of a distribution?
+What is the difference between k-means clustering and hierarchical clustering?
+How do you handle missing data in machine learning?
+What is the difference between linear regression and ridge regression?
+How do I handle missing values in machine learning models?
+What do you see as the biggest challenges and opportunities for data scientists in the next five years?
+How would you use machine learning to solve this problem?
+What are some ways to improve the performance of your model?
+How would you design a machine learning model that predicts the probability of a customer defaulting on their loan?
+How would you approach this problem?
+What is the difference between a linear regression model and a multiple regression model?
+What is the difference between correlation and regression analysis?
+How many unique values does the dataset contain?
+What's the difference between k-means clustering and k-medoids clustering?
+How do you deal with unstructured data, and how do you make use of the information in it?
+How do you calculate the expected value of a random variable, given its probability distribution?
+How would you approach the following scenario?
+If you are an analyst, what is the difference between linear regression and logistic regression?
+What is the difference between linear regression and ordinary least squares regression?
+How do you handle missing data?
+What is your favorite programming language and why?
+What is your understanding of the following problem statement?
+What is the most important thing you’ve learned in your career?
+What is the purpose of your project?
+What is the best way to deal with missing data?
+What is the best way to find outliers in your data?
+How do you find the correlation between two variables in R?
+Can you explain what is the difference between linear regression and logistic regression?
+What are the benefits of using SQL to store and retrieve data?
+What are the top 3 factors that you would look for in a data scientist job?
+What is the difference between linear regression and logistic regression?
+What would be the best way to approach this problem?
+How would you handle the following scenario?
+What do you want to achieve with your solution?
+You are given a list of numbers and you need to find the sum of all positive numbers in the list. How would you do it?
+What is the most important thing you learned in your career as a data scientist?
+What is the difference between a linear regression model and a multivariate linear regression model?

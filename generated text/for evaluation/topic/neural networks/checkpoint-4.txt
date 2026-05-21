@@ -1,0 +1,25 @@
+What’s the most efficient way to set up an Adam optimizer?
+What is CNN?
+What’s the biggest difference between neural nets and CNNs?
+What’s the learning rate?
+How do we know when an object is going to fall?
+What’s the optimal learning rate for neural nets?
+What kind of neural nets do you know?
+What’s the difference between sigmoid and tanh?
+What is pooling?
+What happens to the learning rate when we set it to 0?
+What is convolutional neural nets?
+What’s the best way to use Adam for training neural nets?
+How do we decide when to stop training a neural net?
+What’s the difference between convolutional layers and fully-connected layers?
+What’s the difference between Adam and SGD?
+What’s the best way to use convolutional layers for classification?
+How do we know when to stop training neural nets?
+How do we know when to stop training a neural net?
+What’s the maximum number of neurons in a neural net?
+How can we use CNNs for object segmentation?
+What kind of neural nets for classification do you know?
+What’s the best way to set learning rates for neural nets?
+What kind of augmentations do you know?
+What is backpropagation?
+What kind of CNN architectures for classification do you know?

@@ -1,0 +1,63 @@
+How do we deal with overfitting in neural nets?
+What is dropout?
+How do we train our model?
+What are neural nets and how do they work?
+What are the differences between convolutional layers and fully connected layers?
+What is the difference between linear regression and logistic regression?
+What is CNN and how does it work?
+What is CNN?
+What is the difference between convolutional layers and fully connected layers?
+What is the difference between CNN and RNN?
+What is Deep Learning?
+What do we mean by transfer learning?
+What is the dropout layer?
+What are the basic concepts of Convolutional Neural Networks (CNNs) and how do they work?
+How to get the number of training examples per epoch. What is the batch size?
+What are CNNs?
+How does dropout work?
+What is Gradient Descent?
+How to build a neural net for classification?
+What are the different types of neural nets?
+What is the difference between deep learning and convolutional neural networks?
+What is neural net?
+How do we measure and compare the performance of neural nets?
+How do we train a deep neural net?
+What is CNN (Convolutional Neural Networks)?
+What is Neural Nets?
+What is the difference between deep learning and supervised learning?
+What is Keras?
+What is neural nets?
+Why do we use neural nets?
+What is Keras and how does it work?
+What is the loss function?
+What are CNNs and how do they work?
+How do we evaluate the performance of our model?
+What is the difference between gradient descent and stochastic gradient descent?
+How do we know when the model is overfitting?
+Why do we need to use dropout layer in neural net?
+How do we train neural nets?
+What is the main difference between Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs)?
+How do we know that a model is over-fitted?
+Why do we need to use dropout layer?
+What is transfer learning and how does it work?
+What do we mean by Convolutional layers?
+What is transfer learning?
+What do you mean by overfitting and underfitting?
+What is the gradient descent?
+What is the difference between Keras and Tensorflow?
+What is the difference between training and testing?
+How to train a neural net using backpropagation?
+What is Convolutional Neural Networks (CNNs)?
+What is gradient descent?
+How do we know when to use dropout layers and when not to?
+What is deep learning?
+How to build an ensemble model?
+What are the different ways to train your neural nets?
+What is convolutional layer?
+What is backpropagation?
+What is the difference between Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs)?
+What is CNN (Convolutional Neural Network)?
+Why do we use dropout layers in neural nets?
+How to implement CNN?
+What are the differences between CNN and RNN?
+How do we choose the hyper-parameters?

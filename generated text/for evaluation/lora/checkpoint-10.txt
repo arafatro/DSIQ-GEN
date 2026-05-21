@@ -1,0 +1,38 @@
+What is backpropagation?
+What is object segmentation?
+What are the parameters of the logistic model?
+How do we choose the number of trees in the gradient boosting model?
+What is CNN?
+How we can use L1 regularization for feature selection?
+How we can use neural nets for text classification?
+What is L1 regularization?
+What are the L2 and L1 regularization terms?
+What is the cold start problem?
+What are the main assumptions of linear models?
+How we can use convolutional layers for feature extraction?
+What is the area under the PR curve?
+What are the parameters of the linear model?
+What is gradient boosting?
+How can we use convolutional layers for feature extraction?
+What are the main parameters of random forest?
+How we can use neural nets for computer vision?
+What’s the PR (precision-recall) curve?
+What is the ROC curve?
+What are the problems with bag of words?
+What happens to the weights of a neural net if we have two inputs x1 and x2, and y = f(x1, x2) where f is a nonlinear function?
+What’s the bias-variance trade-off?
+What is the AUC (AU ROC)?
+How do we select the number of trees in the gradient boosting model?
+What happens to the weights of a linear model if one variable is a sum of two other variables?
+How do we choose K in K-means?
+What is L2 regularization?
+What are the parameters in linear models?
+What are the main parameters of the L1 regularization?
+What are the main parameters of the random forest model?
+What is the bias-variance trade-off?
+What is feature selection?
+What is CNN (convolutional neural network)?
+What happens to our linear regression model if we have two columns in the data, x and y, and one column z, where z is a sum of x and y?
+What is the PR (precision-recall) curve?
+What is bag of words?
+What are the main parameters of the gradient boosting model?

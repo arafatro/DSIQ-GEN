@@ -1,0 +1,77 @@
+Do you know bag of words?
+How would you use bag of words for text classification with bag of words?
+How would you use text classification with bag of words?
+How would you use bag of words?
+How can you use bag of words for text classification with N-grams?
+How can you use bag of words for text classification with bag of words?
+What are bag of words?
+How would you use bag of words for text classification?
+How can you use bag of words for text classification?
+How would you use bag of words for text classification with bag of n-grams?
+How can we use bag of words for text classification with bag of words?
+What is bag of words?
+How can you use machine learning for text classification?
+How would you use machine learning for text classification with n-grams?
+Would you prefer gradient boosting trees model or logistic regression when doing text classification with N-grams?
+How can you use N-grams for text classification?
+How would you use machine learning for text classification with word embeddings?
+How would you use N-grams for text classification with bag of words?
+How would you use text classification with N-grams?
+How can we use machine learning for text classification?
+How would you use machine learning for text classification with N-grams?
+How can you use machine learning for text classification with N-grams?
+What are N-grams?
+How would you use word embeddings for text classification with N-grams?
+How would you use machine learning for text classification?
+How would you use text classification for text classification with N-grams?
+What are word embeddings?
+How can we use text classification with N-grams?
+How can you use N-grams?
+How would you use N-grams for text classification?
+Do you know any other ways to use N-grams?
+How would you use N-grams?
+What is text classification?
+How can you use text classification with N-grams?
+How would you use word embeddings for text classification?
+How can you use machine learning for text classification with bag of words?
+How would you use machine learning for text classification with embeddings?
+Do you know any other ways to use word embeddings?
+What are the different types of machine learning algorithms?
+How can we use text classification to classify tweets based on their sentiments?
+How can we use word embeddings for text classification?
+What is the difference between bag of words and n-grams?
+How to perform text classification using word embeddings?
+What is feature engineering?
+What is the difference between bag of words and word embedding?
+How can we do text classification with deep learning?
+What is Text Classification?
+What is the difference between text classification and text embedding?
+How can you use deep learning models for image classification?
+How can we use text embeddings for text classification?
+How can you use word embeddings for text classification?
+Can you explain the use of word embeddings for text classification?
+What is the difference between deep learning and machine learning?
+How can you use Keras to train neural networks for text classification?
+What are the types of NLP models?
+What are text classification models?
+What is machine learning?
+What is N-grams?
+How can we use text classification models like word embedding?
+What are N-grams?
+How can we use N-grams for text classification?
+What is XGBoost?
+What is deep learning?
+What is text classification and what are the applications of text classification?
+What are the advantages of using word embeddings?
+What is Machine Learning?
+How can we use text classification models for sentiment analysis?
+What is the difference between text classification and text clustering?
+What is the difference between text classification and text categorization?
+What are text embeddings?
+What is bag of words?
+How can we use deep learning models for text classification?
+What is NLP?
+How to create a text classification model?
+What is text classification?
+What is the difference between supervised and unsupervised learning?
+What are N-grams? When do we use N-grams?

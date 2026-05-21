@@ -1,0 +1,7 @@
+What is the bias-variance trade-off?
+What is classification?
+What is regression?
+What is logistic regression?
+How do we choose K in K-fold cross-validation?
+What are the main parameters of the decision tree model?
+What is unsupervised learning?

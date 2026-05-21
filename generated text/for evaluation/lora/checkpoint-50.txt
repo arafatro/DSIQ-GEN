@@ -1,0 +1,25 @@
+What is K-fold cross-validation?
+Can we use L2 regularization for feature selection?
+What is logistic regression?
+How can we know which features are more important for the decision tree model?
+What is TF-IDF?
+How do we decide when to stop training a neural net?
+How do we select the depth of the trees in random forest?
+What is gradient descent?
+How do we interpret weights in linear models?
+How can we use machine learning for text classification?
+How do we handle categorical variables in decision trees?
+What’s the effect of L2 regularization on the weights of a linear model?
+What are the decision trees?
+What are the problems with using trees for solving time series problems?
+How do you select the number of trees in the gradient boosting model?
+Can we formulate the search problem as a classification problem?
+What is SGD — stochastic gradient descent?
+How do we use SGD (stochastic gradient descent) for training a neural net?
+What is the curse of dimensionality?
+Why do we need one-hot encoding?
+How do you approach tuning parameters in XGBoost or LightGBM?
+Why do we need to split our data into three parts: train, validation, and test?
+What is transfer learning?
+What are precision, recall, and F1-score?
+Can we use L1 regularization for feature selection?

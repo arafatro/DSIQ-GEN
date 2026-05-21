@@ -1,0 +1,23 @@
+What if we want to build a recommender system for movies?
+Can we use L2 regularization for feature selection?
+What are the main parameters of the gradient descent algorithm?
+Which regularization techniques for neural nets do you know?
+What is the cold start problem?
+What are the main hyper-parameter tuning strategies for neural nets?
+You have a series with only one variable “y” measured at time t. How can you predict “y” at time t+1?
+Can we have multiple decision trees in gradient boosting trees model?
+How to set the number of trees in gradient boosting trees model?
+Can we have both L2 and L1 regularization components in a linear model?
+What’s collaborative filtering?
+What are the main parameters in the gradient descent algorithm?
+How to select the depth of the trees in gradient boosting models?
+Can we use neural nets for text classification with bag of words features?
+How to select the depth of the trees in gradient boosting trees model?
+What are the parameters of the gradient descent algorithm?
+How we can select the depth of the trees in gradient boosting trees model?
+How to interpret the AU ROC score?
+What’s the cold start problem?
+Can we use machine learning for text classification with bag of words features?
+How to select the number of trees in gradient boosting trees model?
+How to set the learning rate?
+What if we want to have a linear model for predicting the price of a product at time t+1?

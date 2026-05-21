@@ -1,0 +1,85 @@
+What is the K-means algorithm?
+How do you select the best K for k-means?
+Do you know any linear models for time series?
+How do you know when to stop training your neural nets?
+How do we know when to stop training our models?
+How do you choose the number of trees for gradient boosting models?
+How to solve the K-means problem?
+How can we select the best k for k-means?
+What are the main challenges in text classification?
+How would you solve the problem of overfitting?
+What happens to your K-means model if you have no prior knowledge of the number of clusters?
+How do you select the regularization parameters for your linear models?
+What’s the main problem with gradient boosting trees?
+How do you deal with categorical variables?
+How would you choose the best parameters for your K-means?
+What is the L1-norm?
+What is the idea of bag of words?
+Do you know how to do feature selection?
+How do you select the K in K-means?
+Do you know how to choose the number of trees for gradient boosting models?
+What’s the difference between L1 and L2 regularization?
+How do you choose the number of trees in random forest?
+Do we need to do feature selection for linear models?
+What are the advantages of L1 regularization?
+How do we know that our linear model is good?
+Do you know any methods for solving linear programs?
+Do you know any methods for selecting variables for linear models?
+How do we choose the number of trees in random forest?
+What are the advantages and disadvantages of using decision trees for text classification?
+How do we choose the number of clusters for K-means?
+How do you know that your random forest model is not overfitting?
+How do you choose the number of trees for random forest?
+What is the ROC curve?
+Do you know any other techniques for feature selection?
+How do you choose your K in K-means?
+How do we know if our linear models are overfit?
+What are the strengths and weaknesses of linear models?
+Do you know any techniques for improving the accuracy of your linear models?
+What’s the difference between gradient boosting trees and XGBoost?
+How to choose the K in K-means?
+What are the advantages and disadvantages of K-means?
+Do you know the concept of gradient boosting trees?
+How do you know when to use L2 regularization?
+How do you choose the random forest model?
+Do you know any linear models for text classification?
+What is the linear model?
+How can we use the K-means algorithm for topic modeling?
+Do you know any methods for selecting the optimal number of K in K-means?
+Do you know how to select K in K-means?
+What is the notion of bias-variance trade-off?
+How do you know when to stop training?
+What is the L1 regularization?
+Do you know any techniques for feature selection?
+How do you know when to stop training a neural net?
+How do we choose the number of trees in a gradient boosting model?
+Do you know any models for time series?
+How do you choose the K in K-means?
+Do you know the AUC (average precision at k) metric?
+Do you know any methods for feature selection?
+How do you know if your linear model works well?
+Do you know K-means?
+How do we know when to stop training?
+Do you know any methods for solving linear programming problems?
+How do you deal with the curse of dimensionality?
+How can we use linear models for text classification?
+What are the most important features for text classification?
+How do we know when to stop training a neural net?
+What are the different types of K-means?
+How do you evaluate your decision trees?
+How do you deal with overfitting?
+How do you know when to stop training your neural net?
+How do you know when to use K-means for clustering?
+How can we use bag of words for text classification?
+Do you know the K-means algorithm?
+What are the advantages and disadvantages of linear models for text classification?
+How do we know that the gradient boosting trees are better than linear models?
+What is the K-fold cross-validation?
+Do you know the ROC curve?
+Do you know about bag of words?
+What is the idea of gradient boosting trees?
+How do you deal with missing values?
+Do you have any ideas how to do this?
+Do you know any techniques for solving linear systems?
+How do you choose the number of trees in a random forest?
+How do we choose the best split for k-means?

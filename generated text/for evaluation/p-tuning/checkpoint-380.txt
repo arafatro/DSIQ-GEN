@@ -1,0 +1,84 @@
+How do we need to select the best features?
+What is the best way to find it?
+How do you train the model?
+Do you know how to use gradient boosting trees?
+How do we choose the best features?
+What is the use of Keras layers?
+What is the best way to do it?
+How do you train your network?
+What is the difference between K-means?
+Why do we need to use them?
+How do you solve this problem?
+How do you know how to evaluate the cost?
+What is the difference between random forest trees?
+How do you deal with word embeddings?
+How do you determine the RNNs?
+How do we use deep neural nets?
+What is the K-means?
+How do we need to use it?
+What is the difference between random forest trees in gradient boosting?
+How do we use feature selection techniques for classification?
+How do we use decision trees?
+Can you tell me the difference between logistic regression trees?
+What is the loss function?
+How do you know what we mean?
+What is the difference between logistic regression trees?
+What is the linear regression?
+How do we train a neural network?
+What is the difference between support vectorization?
+What is the RNN?
+Can we use gradient boosting our decision trees?
+Why do we need to use it in NLP?
+How do we choose it?
+What is the difference between K Neuronal activity?
+What is the difference between L2 regularization?
+What is the difference between L1 and L2 regularization?
+What is the L1 regularization?
+How does it work?
+How do we determine the best feature selection techniques?
+What is the difference between Keras?
+Do you know how to use K means?
+How do we determine the loss functions in scikit-learn?
+Do you know how to use it?
+What is the difference in Keras?
+How to use cross-validation in scikit-learn?
+How do we use gradient boosting?
+Why do we need to be careful about the loss functions?
+What is the process of feature selection?
+How do we train a deep neural network?
+What are the difference between logistic regression trees?
+What is the difference between two deep neural nets?
+What is the use of deep neural nets?
+How do we choose the best features for our model?
+What is the role of gradient boosting?
+How do you know this?
+How do we get the best feature to use it for predicting time series?
+How to use the cross-validation?
+What is the difference between gradient descent?
+Do you know how to deal with NLP?
+What is the best algorithm for training?
+What is the problem?
+What is the best way to optimize for training a machine learning model?
+What is the difference between linear regression?
+What are the difference between bag and not to be so called?
+How do you train your dataset?
+How do we choose model selection methods for regression?
+Why do we need to use it?
+How do you define the performance of deep neural nets?
+Why do you think it’s good?
+How do we use regularization?
+What is the best feature to use?
+How do we train our model?
+How do you train a neural network with Keras?
+What is the difference between gradient boosting?
+Why do we need to use deep neural nets and why they work so well?
+What is the difference between early dropout layers and L1 regularization in Keras?
+What is the best way to use word embeddings?
+How do you know how to detect the number of false positives and false negatives?
+What is gradient descent?
+How do we use neural nets for training?
+What is the difference between L1 and L1 regularization?
+Why do you think it is not good to use this technique?
+What is the use of gradient boosting?
+How do we use word embeddings?
+What is the R?

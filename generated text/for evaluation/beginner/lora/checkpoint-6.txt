@@ -1,0 +1,11 @@
+Which metrics for evaluating regression models do you know?
+What kind of decision trees do you know?
+Can you explain logistic regression?
+How do logistic regressions work?
+What are logistic regressions?
+What is logistic regression?
+What are decision trees?
+How do logistic regression models work?
+What is decision trees?
+How do decision trees work?
+What are logistic regression models?

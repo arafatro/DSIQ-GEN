@@ -1,0 +1,66 @@
+How do we know how to choose the hyper-parameters?
+Why do we need to use one-hot encoding for categorical variables?
+How do we know when we need to use bag of words for text?
+What do we need for bag of words?
+Why do you need to use one-hot encoding for the labels?
+How do we know when to use one-hot encoding?
+How do we know how good is the model?
+How do we know how many trees we need?
+What do we need to know about gradient boosting trees?
+How do we know if our model is overfitting?
+How do we know how many trees we need for bag of words?
+How do we know when we need to choose the best features?
+Why do we need to use bag of words for text?
+How do we know what the labels are?
+How do you know when to stop training?
+What do we need for feature selection?
+What do we need for word2vec?
+Why do we need to select the number of trees in decision trees?
+Why do we need to select our hyperparameters?
+What do we need to know about feature selection?
+How do we know how much we should penalize for overfitting?
+Why do we need to know the weights of our model?
+Why do we need to use one-hot encoding for the labels?
+How do we choose our hyperparameters?
+How do we know which features to use?
+How do we select features?
+How do we know how to choose the number of trees?
+How do we deal with categorical variables?
+How do we know when to use one-hot encoding for labels?
+Why do we need to know what the labels are?
+What do we need to know about our loss function?
+Why do we need to use bag of words?
+How do we know when we need to split our data into train and test?
+How do we know how much to penalize for gradient boosting trees?
+Why do we need to normalize the features?
+How do we know what are our features?
+How do we deal with class imbalance?
+How do we know which features to include in our models?
+Why do we need to choose the number of trees in bag of trees?
+How do we know which features are important?
+How do we know when to stop training in gradient boosting trees?
+How do we know when we need to use early stopping?
+What do we need to know about our models?
+How do we know when to stop training our model?
+Why do we need to normalize our features?
+How do we know when to use bag of words?
+What do we need to do when we want to know what our model is doing?
+How do we know when we should stop training our model?
+How do we know when to stop training?
+How do we choose the number of trees?
+What do we need for training our models?
+What do we want to optimize?
+How do we know how good our models are?
+How do we know when we need to use one hot encoding for our categorical variables?
+How do we know what features are good?
+How do we know how to choose the number of trees in gradient boosting trees?
+What do we need to know about the gradient boosting trees?
+What is gradient boosting trees?
+Why we need to normalize the features?
+Do we need to use one-hot encoding for categorical variables?
+How do we choose the number of trees in gradient boosting trees?
+Why do we need to use dropout?
+How do we know which features to use in our models?
+How do we choose the learning rate?
+How do we know which features to use in our model?
+Why do we need to know what our features are?

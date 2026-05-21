@@ -1,0 +1,56 @@
+What is the most common type of error in statistics?
+What is the difference between categorical and numerical variables in terms of statistical analysis?
+1, 2, or 3?
+What is the difference between linear regression and logistic regression?
+What is the time complexity of this algorithm?
+What is the best way to visualize and explore your data?
+How can you use machine learning to predict the probability of a person being a spammer based on their email address?
+What is the difference between machine learning and deep learning?
+What is the difference between an average and a mean?
+What is the purpose of this algorithm?
+If you were to build a machine learning system that could predict the next move in a game of chess, how would you do it?
+How many unique values are there in a given dataset?
+What is the purpose of this code?
+What is the difference between regression and classification algorithms?
+What is the best way to deal with missing data in a regression model?
+Which of the following statements is true?
+What is your favorite programming language?
+What is the difference between supervised and unsupervised machine learning?
+What is the difference between R and Python?
+What is the difference between cross-validation and k-fold cross-validation?
+What’s the difference between a machine learning model and a computer vision model?
+What is the most important piece of advice you can give to someone who wants to become a data scientist?
+How would you go about solving the following problem?
+Explain how you would approach this problem in R?
+What is the name of this algorithm?
+What is the best way to find outliers in a dataset?
+How do you deal with missing data in a regression model?
+What is the difference between correlation and covariance?
+Can you tell me about yourself and what you’ve accomplished in your career?
+What is the difference between a machine learning model and a statistical model?
+In your opinion, what are the most important skills that a data scientist should have?
+What is the best way to visualize your data?
+What is the best way to calculate the area of a triangle?
+What is the difference between a linear regression model and a logistic regression model?
+What is the output of the following code?
+2D to 3D transformation
+In this post, we will discuss the concept of 2D to 3D transformation and its importance in data science.
+What is 2D to 3D transformation?
+What is the most important thing to consider when choosing a machine learning algorithm?
+How many words are there in the dictionary?
+What is the purpose of this dataset?
+What is the maximum number of nodes in a graph?
+How do you deal with the fact that you don’t have access to all the data?
+How would you find out the number of elements in a set?
+Which is the most important part of the data science process?
+I want to know what type of data you are dealing with in your application and how do you plan to use machine learning techniques to solve the problem?
+What’s the difference between a normal distribution and a log-normal distribution?
+Given a set of n points in the plane, how do you find the convex hull of this set?
+What is the difference between clustering and classification?
+How do you calculate the standard error of the mean (SEM) for a sample?
+What are the differences between linear regression and logistic regression?
+What is the difference between training and testing?
+I've been asked to write up an example of a data science interview question. Here's my attempt:
+Question: What is the difference between feature engineering and feature extraction?
+What is your favorite programming language and why?
+What is the most important thing to learn in Data Science?

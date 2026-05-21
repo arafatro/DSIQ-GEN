@@ -1,0 +1,22 @@
+How do we know how many trees we need in random forest?
+What is random forest?
+What is dropout?
+What is sigmoid?
+What’s the difference between random forest and gradient boosting?
+Can you explain how cross-validation works?
+What’s the normal distribution?
+How do we select the depth of the trees in random forest?
+What’s singular value decomposition?
+What is Adam?
+Can we have both L1 and L2 regularization components in a linear model?
+What is gradient boosting?
+How do we check if a variable follows the normal distribution?
+What’s pooling in CNN?
+How can we use machine learning for text classification?
+Is it easy to parallelize training of a random forest model?
+How do we use SGD (stochastic gradient descent) for training a neural net?
+What’s the difference between grid search parameter tuning strategy and random search?
+Why do we actually need convolutions?
+Why do we need to split our data into three parts: train, validation, and test?
+How do we evaluate classification models?
+How can we use machine learning for search?

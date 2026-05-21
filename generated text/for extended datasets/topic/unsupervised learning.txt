@@ -1,0 +1,141 @@
+How do you evaluate the performance of your machine learning models?
+What are the most common applications of machine learning?
+What is the importance of machine learning algorithms in big data analytics?
+What is the difference between machine learning and deep learning?
+What are the different types of machine learning algorithms?
+How do we use unsupervised learning for ranking?
+What are the key steps in building a machine learning model?
+What are the current approaches to unsupervised learning?
+How can we use unsupervised learning techniques for recommender systems?
+What is the goal of machine learning?
+How can we evaluate the performance of recommender systems?
+What is the difference between supervised and unsupervised machine learning?
+How do you deal with uncertainty in machine learning?
+What are the key differences between supervised and unsupervised machine learning techniques?
+How do we deal with missing values in supervised learning algorithms?
+What are the problems that machine learning algorithms face when applied to real-world data?
+What is the difference between supervised learning and unsupervised learning?
+How can we use unsupervised learning to learn from the unlabeled data?
+What is the difference between unsupervised and supervised learning?
+How can we use machine learning techniques to make recommendations?
+What is the importance of using unsupervised learning algorithms for recommendation systems?
+How can we use machine learning techniques for recommender systems?
+How can we use deep learning for recommender systems?
+How do you deal with the curse of dimensionality in machine learning?
+How do we use deep learning for NLP?
+How do you evaluate the performance of your models?
+How can we use deep neural networks to model high dimensional data?
+How do you measure the performance of an algorithm?
+What are the most popular machine learning techniques?
+What are the most popular machine learning models?
+How do we use deep learning for text classification tasks?
+What are the applications of machine learning?
+How can we use feature engineering techniques to improve the performance of our machine learning models?
+How can we use deep learning for ranking?
+How can we use machine learning to solve real-world problems?
+What is the role of unsupervised learning in data science?
+What are the challenges in designing learning algorithms?
+What is the importance of machine learning in big data analytics?
+How can we leverage the knowledge graph to help us in machine learning?
+What are the main challenges you face in building machine learning systems?
+What are the challenges you face while building machine learning models?
+How can we use unsupervised learning algorithms to build recommender systems?
+What is machine learning?
+What is unsupervised learning?
+How can we use machine learning for recommendation system?
+What are the current trends in Machine Learning?
+What are the different types of feature engineering techniques?
+What are the different ways to evaluate model performance?
+What is the importance of machine learning in data science?
+What are the challenges in using machine learning and deep learning for NLP?
+How do you deal with high dimensional data?
+How do you define the notion of transfer learning?
+What is deep learning?
+What do we mean by regression analysis?
+Which is the most popular machine learning algorithm?
+What would be the best way to approach this problem?
+What's the difference between k-means clustering and k-medoids clustering?
+How do you deal with unstructured data, and how do you make use of the information in it?
+What is the role of machine learning in business intelligence?
+What are some of the most common types of machine learning algorithms used in industry today?
+What do you mean by overfitting?
+What is Machine Learning?
+What do we mean by bias-variance trade-off?
+You are given a set of numbers, and you have to find the sum of the squares of all the numbers in the set. What is the time complexity of this algorithm?
+What do we mean by overfitting?
+What does it mean to train a model?
+How do we compute the mean squared error in linear models?
+How do you find the mean and standard deviation of a set of numbers?
+How do we define machine learning?
+What is supervised and unsupervised learning?
+What is the gradient descent algorithm?
+How would you approach this problem?
+What are the types of machine learning algorithms?
+What do you mean by Big Data?
+What is the difference between a machine learning algorithm and a deep learning algorithm?
+What’s the difference between clustering and dimension reduction?
+What is the difference between k-means clustering and hierarchical clustering?
+What are the advantages and disadvantages of machine learning algorithms?
+What are the benefits of machine learning and how can it be applied to your organization?
+What is the difference between an algorithm and a program?
+What is the difference between mean, median, and mode in descriptive statistics?
+How would you use machine learning to solve this problem?
+What are the benefits of using Python to do machine learning in production?
+How would you use machine learning to predict the value of a stock?
+What is machine learning and how does it differ from deep learning?
+What is machine learning and how does it differ from other forms of AI?
+What do we mean by cross-validation?
+Given a set of observations, how can we compute the mean and standard deviation (or other statistics) of that set?
+What do you mean by “data mining”?
+What are the three pillars of machine learning?
+What do you mean by gradient decent?
+What do we mean by regularization in linear models?
+How would you explain to someone who has no background in machine learning how deep learning works?
+What is machine learning and how does it differ from traditional AI?
+What do you think is the most important thing to know about machine learning?
+What do we mean by classification and what are the different types of classification?
+What is the difference between mean and median?
+What do we mean by deep learning?
+What do you know about machine learning?
+How would you approach the following problem?
+What is the concept of “batch” in machine learning?
+What do we mean by gradient descent?
+How do you calculate the mean, variance, standard deviation, skewness and kurtosis of a distribution?
+What is deep learning and how does it differ from traditional machine learning?
+Possible approaches to solving the problem of unsupervised learning?
+What are the benefits of applying machine learning?
+1,000,000 random numbers between -1 and 1 with mean 0. What is the standard deviation?
+What do we mean by “Deep Learning”?
+What are the types of machine learning?
+What do you mean by transfer learning?
+How do we use machine learning to build models for recommender systems?
+What is the role of unsupervised pre-training?
+What are the unsupervised learning techniques used in recommender systems?
+How do you choose the right machine learning algorithm for your problem?
+How do we measure the quality of our machine learning models?
+What is the state-of-the-art in unsupervised learning?
+What are the unsupervised learning algorithms that can be used for dimensionality reduction?
+What is unsupervised learning and how can we use it for NLP tasks?
+How can we use machine learning techniques to improve our search engine ranking algorithms?
+What is the difference between unsupervised learning and supervised learning?
+How can we apply deep learning for image recognition?
+How do you evaluate the performance of machine learning models?
+What are the key components of unsupervised learning?
+What is the difference between supervised and unsupervised learning?
+What are the problems that can be solved using machine learning techniques?
+How do we define the problem?
+How can we apply machine learning algorithms for recommendation?
+What are the challenges in machine learning?
+What is the role of machine learning in big data?
+What are the different types of algorithms?
+What are the applications of Deep Learning in Data Science?
+How can we use machine learning techniques for ranking?
+How do you deal with large-scale datasets?
+How can we use ranking algorithms for ranking search?
+How do you do ranking?
+What is ranking algorithms?
+What is ranking?
+How can we use ranking algorithms for ranking?
+How do you evaluate ranking algorithms?
+How can we use ranking algorithms for ranking search results?
+How do you use ranking algorithms for ranking?

@@ -1,0 +1,16 @@
+How do we select the number of trees in gradient boosting models?
+How do we know how many trees we need in gradient boosting models?
+How do we know what features are important?
+How do we know what features are important for decision trees?
+How do we know what features to use in gradient boosting trees?
+How do we know how many trees to use in gradient boosting trees?
+How do we know how many trees in gradient boosting model?
+How do we know which features are important?
+How do we know which features are important in gradient boosting trees?
+How do we know how many trees we need in gradient boosting trees?
+How do we know how many trees in gradient boosting trees?
+How do we know how many trees to use in gradient boosting models?
+What are the main differences between gradient boosting trees and gradient boosting models?
+How do we know what features are important in gradient boosting trees?
+How do we know how many trees in gradient boosting models?
+How do we choose the number of trees in gradient boosting models?

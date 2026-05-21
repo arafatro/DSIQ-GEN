@@ -1,0 +1,23 @@
+How do we know how many trees we need in random forest?
+Can we use L2 regularization for feature selection?
+How do we train decision trees?
+What are word embeddings?
+Can you tell us how you approach the model training process?
+You have a series with a variable “y” and a set of features. How do you predict “y” at t+1?
+What is AUC (AU ROC)?
+Can we have both L1 and L2 regularization components in a linear model?
+How we can initialize the weights of a neural network?
+How do we check if a variable follows the normal distribution?
+How can we use machine learning for text classification?
+What’s pooling in CNN?
+What’s the effect of L2 regularization on the weights of a linear model?
+You have a series with only one variable “y” measured at time t. How do predict “y” at time t+1?
+2 What’s pooling in CNN?
+How do we select the number of trees in the gradient boosting model?
+Can we formulate the search problem as a classification problem?
+How do we use SGD (stochastic gradient descent) for training a neural net?
+What are good baselines when building a recommender system?
+What are the other clustering algorithms do you know?
+What are the main assumptions of linear regression?
+What is transfer learning?
+Can we use L1 regularization for feature selection?

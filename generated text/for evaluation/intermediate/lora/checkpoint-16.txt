@@ -1,0 +1,18 @@
+How do we interpret the bias term in linear models?
+How do we know how many trees we need in random forest?
+What are the problems with sigmoid as an activation function?
+What’s the difference between Adam and SGD?
+How do we initialize the weights of a fully-connected feed-forward neural network?
+What are the main assumptions of linear regression?
+How can we know which features are more important?
+What are the potential problems with sigmoid as an activation function?
+What is pooling in CNN?
+What is Adam?
+What happens to our linear regression model if we have three columns in our data: x, y, z — and z is a sum of x and y?
+What is the interpretation of the bias term in linear models?
+What are good unsupervised baselines for text information retrieval?
+How do we initialize the weights of a neural network?
+What is precision and recall?
+What’s pooling in CNN?
+What’s the interpretation of the bias term in linear models?
+What happens to our linear regression model if we set all the weights of our neural network to 0?

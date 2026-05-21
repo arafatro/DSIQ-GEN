@@ -1,0 +1,14 @@
+What is N-grams?
+How can we use machine learning for text classification?
+What are N-grams?
+Do you know any other ways to get word embeddings?
+How can you use N-grams?
+Do you know any other ways to use N-grams?
+How would you use gradient boosting trees model for text classification?
+How would you use machine learning for text classification?
+How would you use N-grams?
+What would you use for text classification with N-grams?
+How can we use neural nets for text classification?
+How can you use machine learning for text classification?
+What are word embeddings?
+Do you know any other ways to use word embeddings?

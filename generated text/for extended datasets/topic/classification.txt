@@ -1,0 +1,164 @@
+What is ROC?
+What is AU ROC?
+What is AU PR?
+What is precision-recall trade-off (PR)?
+What is ROC PR?
+What is precision-recall trade-off?
+What is precision-recall trade-off (PR curve)?
+What is AUC?
+What do we do with AU PR?
+What is the precision-recall trade-off?
+What is logistic regression?
+What is precision-recall trade-off?
+What is classification?
+What is the confusion table?
+What is the area under the PR curve?
+What is the difference between cross validation and k-fold cross validation?
+What is the bias-variance trade-off?
+What is feature selection?
+What is k-fold cross validation?
+What is the confusion matrix?
+What is the difference between classification and regression?
+How to handle categorical features?
+What is the importance of feature selection in machine learning?
+What is logistic regression?
+What is feature engineering?
+What is the difference between feature scaling and feature normalization?
+What is the difference between feature selection and feature extraction?
+What is the feature selection problem?
+What does it mean to train a model?
+What is the K-fold Cross Validation?
+What is the K-fold cross validation?
+What are the types of classification models?
+What is the difference between k-fold cross-validation and Leave One Out (LOO) cross-validation?
+What is k-fold cross-validation?
+What is the concept of bias in machine learning?
+What is cross-validation?
+What is regression?
+What are the different types of classification models?
+What is classification and how it is done?
+What is the purpose of cross-validation?
+What is the cross-validation?
+What is classification?
+What is Random Forest?
+What is the cross validation?
+What is the feature selection method?
+What is the difference between Linear Regression and Logistic Regression?
+What are the different types of regression models?
+What is Linear Regression?
+What are the types of regression models?
+What is the difference between Linear Regression and Ridge Regression?
+How to split the dataset into training and test set?
+What does the confusion matrix tell us about the classification problem?
+What is the purpose of feature scaling?
+What is the linear regression?
+What is cross validation?
+What is the difference between logistic regression and linear regression?
+What is linear regression?
+What is K-fold cross-validation?
+What is the difference between linear regression and logistic regression?
+What is precision-recall trade-off (PR curve)?
+What is ROC?
+What is accuracy?
+Why do we need to use AU PR?
+How do we evaluate classification models?
+What is precision-recall trade-off?
+What is AUC (AU ROC)?
+What is AUC?
+What is AU PR?
+What is ROC (AU PR)?
+What is precision-recall trade-off (PR)?
+What is cross validation?
+How do we deal with categorical variables in logistic regression?
+What is k-fold cross validation?
+Why is it important to have a large number of samples?
+What is feature engineering?
+What is the concept of classification?
+What is the difference between linear and logistic regression?
+What is ROC (Receiver Operating Characteristic) score?
+How do we deal with missing values?
+What do we mean by overfitting?
+What is classification and how it differs from regression?
+What is the ROC AUC score?
+What is decision tree?
+What is Linear Regression?
+What is the difference between Logistic Regression and Linear Regression?
+What is the confusion matrix?
+What is the bias-variance trade-off?
+What do you mean by overfitting?
+What is the bias-variance tradeoff?
+What is feature selection?
+What is the difference between regression and classification?
+What is the importance of feature scaling in machine learning?
+What is Random Forest?
+What is linear regression?
+How to evaluate the performance of a model?
+What is the difference between cross validation and leave one out?
+How to evaluate the model?
+What do we mean by classification and what are the different types of classification?
+What is feature scaling?
+What is the difference between Random Forest and Decision Tree?
+What are classification and regression problems?
+What is classification problem?
+What do we mean by Random Forest?
+Is there any difference between linear regression and logistic regression?
+What are the steps involved in feature engineering?
+What is regression?
+What is random forest?
+What is the difference between classification and regression?
+5-fold cross-validation is used for what purpose?
+Is the random forest better than logistic regression?
+What is the difference between cross-validation and hold-out?
+Which is the most popular machine learning algorithm?
+What is the difference between cross-validation and k-fold cross-validation?
+What is the difference between logistic regression and linear regression?
+What is cross-validation?
+How to evaluate performance of classification models?
+What is classification?
+What is the difference between supervised and unsupervised learning?
+Can we use cross-validation to estimate the test error?
+What are the types of feature scaling?
+How do we evaluate the quality of prediction models?
+What is the difference between linear regression and logistic regression?
+Why do we need feature scaling?
+What is the linear regression?
+Is it possible to have an unbalanced classification model?
+What is linear regression and what are its advantages?
+What is the concept of bias in machine learning?
+What is k-fold cross-validation?
+What is regression analysis?
+How do we perform classification?
+How to deal with outliers?
+What would you do if you had to make a decision about whether or not to take a certain action based on the probability that it will lead to a particular outcome?
+What is the difference between machine learning and deep learning?
+How do you handle missing data in a dataset?
+How to build and maintain a pipeline?
+How do you deal with missing values?
+How do you find the maximum value of a function in a given interval?
+You are building a new machine learning model for your company. What is the first thing you would do to ensure that the model will work well on your data?
+What are the advantages and disadvantages of machine learning algorithms?
+What do you know about machine learning?
+What is the expected value of a random variable?
+What is the most important skill for a data scientist to have?
+What is the difference between machine learning and artificial intelligence?
+Is it possible to create a machine learning model that has no bias?
+What do you think is the hardest part of being a data scientist?
+What’s the difference between 2D and 3D?
+What is the meaning of this equation?
+What do you think are the key skills for a Data Scientist?
+What is the probability that a coin will come up heads twice in a row?
+What is the difference between a linear regression model and a logistic regression model?
+What is the most important skill for a data scientist to learn?
+What are the benefits of machine learning and how can it be applied to your organization?
+How do you deal with missing data?
+What is the difference between mean, median, and mode in descriptive statistics?
+What is the best way to find the correlation between two columns in a dataframe?
+If I give you a list of numbers, and ask you to add them together, how would you go about doing it?
+How do I find the number of unique words in a given text?
+What is the difference between feature engineering and feature extraction?
+What do you think is the most important thing to know about machine learning?
+What is the difference between linear regression and logistic regression?
+What is the difference between linear regression and multiple linear regression, and how are they used in practice?
+Given a dataset, predict the target variable for a new observation. How would you solve this problem?
+What’s the difference between linear regression and logistic regression?
+Given a dataset, how to find the most commonly occurring values?

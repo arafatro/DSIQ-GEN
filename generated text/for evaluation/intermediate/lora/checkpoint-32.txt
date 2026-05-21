@@ -1,0 +1,15 @@
+How do we know how many trees we need in random forest?
+What are the problems with sigmoid as an activation function?
+5 ways to interpret weights in linear models?
+Can we use L2 regularization for feature selection?
+Can we have both L1 and L2 regularization components in a linear model?
+How do we use SGD (stochastic gradient descent) for training a neural net?
+What happens to our linear regression model if we have three columns in our data: x, y, z — and z is a sum of x and y?
+You have a series with a variable “y” and a set of features. How do you predict “y” at t+1?
+What are the potential problems with many large trees?
+What is the PR (precision-recall) curve?
+How do we check if a variable follows the normal distribution?
+What is the ranking problem?
+What is the ROC curve?
+What are good baselines when building a recommender system?
+You have a series with only one variable “y” measured at time t. How do predict “y” at time t+1?

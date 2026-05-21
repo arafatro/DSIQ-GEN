@@ -1,0 +1,24 @@
+What is the Adam optimizer?
+What is the triplet loss?
+What is a pre-trained model?
+What is the pre-training approach?
+What is the pretraining approach?
+What is the pre-training task?
+What is an autoencoder?
+What is the attention mechanism?
+What is a recommender system?
+What is an adversarial example?
+What is pretraining?
+What is the teacher's model?
+What is a pre-training task?
+What is the adversarial example?
+What is the teacher-student method?
+What is the contrastive loss?
+What is the adversarial attack?
+What is the adversarial training?
+What is the contrastive learning?
+What is the meta-learner?
+What is the mini-batch?
+What is a pre-training approach?
+What is pre-training?
+What is the policy gradient?

@@ -1,0 +1,53 @@
+What is the main difference between linear regression and logistic regression?
+How do you find the number of days between two dates?
+What is the difference between linear regression and logistic regression?
+What is the relationship between the following two sets of data?
+In the past few years, what has been the most important development in the field of data science?
+What’s the difference between correlation and causation?
+How would you approach this problem?
+What is the difference between k-means clustering and k-nearest neighbors clustering?
+What is the difference between an algorithm and a program?
+What is the expected return on investment (ROI) for a machine learning model?
+What is the difference between feature engineering and feature extraction?
+How would you recommend addressing this error in Python?
+What is the most important thing to consider when developing a machine learning model?
+What is the purpose of this code?
+1,500 words or less.
+What is the best way to approach this type of question?
+What is your favorite programming language?
+What is the difference between machine learning and artificial intelligence?
+What is the difference between a machine learning model and a deep learning model?
+What is the name of your favorite programming language?
+What is the best way to visualize time series data?
+How do you deal with missing values in your dataset?
+How would you solve this problem using Python?
+What is the difference between a linear regression model and a logistic regression model?
+What is the difference between an R script and a Python script?
+What is the best way to find out if a person is lying?
+How do you find the correlation between two categorical variables?
+How would you calculate the variance of the sum of two independent random variables?
+How would you solve this problem?
+Explain how you would go about solving the following problem?
+How do you solve the following equation?
+If you were to create a new dataset, what would you include in it?
+Let’s say we have a 2D array of size n x m, and we want to find the number of elements that are greater than or equal to k. What is the best way to solve this problem?
+What is the problem that you are trying to solve?
+What is the maximum value of f(x) when x = -2?
+How would you go about finding the average value of an array of values?
+10 Questions to Help You Prepare for Your Next Data Science Job Interview
+What is a data science job interview?
+How do you deal with missing data in your data set?
+Can you explain the difference between regression and classification?
+What are the different types of machine learning algorithms?
+What is the difference between mean and average?
+You are the CEO of a software company and you want to hire a Data Scientist. What would you do?
+How do you find the maximum number of elements in an array?
+What is the best way to visualize and analyze time series data?
+What does it mean for a dataset to be balanced?
+What is the difference between an array and a vector in R?
+How many possible combinations are there if you have 3 sets of 5 items each?
+What is the probability of an event occurring?
+What is the difference between mean and median in statistics?
+How do you deal with missing values in your data?
+What is the difference between mean and median?
+What is the purpose of your analysis?

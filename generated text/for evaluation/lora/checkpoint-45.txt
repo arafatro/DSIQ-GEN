@@ -1,0 +1,21 @@
+How do we know how many trees we need in random forest?
+Can we use L2 regularization for feature selection?
+Can you tell us how you approach the model training process?
+How can we know which features are more important for the decision tree model?
+How do we decide when to stop training a neural net?
+How do we select the depth of the trees in random forest?
+What is gradient descent?
+How do we handle categorical variables in decision trees?
+What’s the effect of L2 regularization on the weights of a linear model?
+What are the problems with using trees for solving time series problems?
+How do you select the number of trees in the gradient boosting model?
+How do we select the number of trees in the gradient boosting model?
+Can we formulate the search problem as a classification problem?
+What is SGD — stochastic gradient descent?
+How do we use SGD (stochastic gradient descent) for training a neural net?
+What is the curse of dimensionality?
+How do you approach tuning parameters in XGBoost or LightGBM?
+Why do we need to split our data into three parts: train, validation, and test?
+What are the potential problems with many large trees?
+What is transfer learning?
+Can we use L1 regularization for feature selection?

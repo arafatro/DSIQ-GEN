@@ -1,0 +1,8 @@
+What is the bias-variance trade-off?
+What is the learning rate?
+Why do we need to split our data into three parts: train, validation, and test?
+What’s the learning rate?
+What are the parameters?
+What are the biases?
+What are the learning rates?
+What are the decision trees?

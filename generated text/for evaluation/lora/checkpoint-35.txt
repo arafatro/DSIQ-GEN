@@ -1,0 +1,26 @@
+What is regression?
+Is it easy to parallelize training of a gradient boosting model?
+Can you explain how cross-validation works?
+What is logistic regression?
+Can you tell us how you approach the model training process?
+How do you evaluate your ranking algorithms?
+How does L1 regularization look like in a linear model?
+How do we decide when to stop training a neural net?
+How does L2 regularization look like in a linear model?
+What is the area under the PR curve?
+What is gradient descent?
+How do we interpret weights in linear models?
+Why do we need activation functions?
+How can we use machine learning for text classification?
+What are the problems with using trees for solving time series problems?
+How do you select the number of trees in the gradient boosting model?
+How do we select the number of trees in the gradient boosting model?
+Can we formulate the search problem as a classification problem?
+How do we use SGD (stochastic gradient descent) for training a neural net?
+What is the bias-variance trade-off?
+How do you approach tuning parameters in XGBoost or LightGBM?
+What is the effect of L2 regularization on the weights of a linear model?
+How do we evaluate classification models?
+What is the PR (precision-recall) curve?
+What are the advantages and disadvantages of bag of words?
+What are the main parameters of the gradient boosting model?

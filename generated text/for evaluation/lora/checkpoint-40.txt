@@ -1,0 +1,26 @@
+What is K-fold cross-validation?
+How do we know how many trees we need in random forest?
+Can you explain how cross-validation works?
+Can we use L2 regularization for feature selection?
+How can we know which features are more important for the decision tree model?
+What is precision and recall at k?
+What is gradient descent?
+How do we interpret weights in linear models?
+How we can incorporate implicit feedback (clicks, etc) into our recommender systems?
+How we can initialize the weights of a neural network?
+How can we use machine learning for text classification?
+What’s the effect of L2 regularization on the weights of a linear model?
+What is the ROC curve?
+What are the decision trees?
+What are the problems with using trees for solving time series problems?
+How do you select the number of trees in the gradient boosting model?
+How do we select the number of trees in the gradient boosting model?
+Can we formulate the search problem as a classification problem?
+How do we use SGD (stochastic gradient descent) for training a neural net?
+What is the curse of dimensionality?
+What is the bias-variance trade-off?
+How do you approach tuning parameters in XGBoost or LightGBM?
+Why do we need to split our data into three parts: train, validation, and test?
+What is the PR (precision-recall) curve?
+How do we evaluate classification models?
+Can we use L1 regularization for feature selection?

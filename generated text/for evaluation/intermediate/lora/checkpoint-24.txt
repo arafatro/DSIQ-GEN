@@ -1,0 +1,20 @@
+What is backpropagation?
+How can we get training data for our ranking algorithms?
+What is ReLU?
+Can you tell us how you approach the model training process?
+What is the difference between grid search parameter tuning strategy and random search?
+How do we select the depth of the trees in random forest?
+What are the main parameters in the gradient boosting model?
+What is gradient descent?
+How to select the depth of the trees in random forest?
+How we can incorporate implicit feedback (clicks, etc) into our recommender systems?
+What’s pooling in CNN?
+How can we use machine learning for text classification?
+You have a series with only one variable “y” measured at time t. How do predict “y” at time t+1?
+Can we formulate the search problem as a classification problem?
+What’s the difference between grid search parameter tuning strategy and random search?
+What’s the difference between L2 and L1 regularization?
+If you have a sentence with multiple words, you may need to combine multiple word embeddings into one. How would you do it?
+What are the other clustering algorithms do you know?
+What is the PR (precision-recall) curve?
+What is bag of words?

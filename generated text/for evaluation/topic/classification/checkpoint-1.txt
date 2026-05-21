@@ -1,0 +1,56 @@
+How many ways can you arrange the digits 1, 2, 3, 4, 5, 6, 7, 8, 9?
+What’s the difference between regression and classification?
+How do you calculate the variance of a random variable?
+How do you deal with missing values?
+What is the difference between linear regression and logistic regression?
+Given the following code, which of the following statements is true?
+How do you find the median of a list of numbers?
+What is the difference between a linear model and a logistic regression model?
+What’s the most important thing to look for in a data science job?
+You are given a list of numbers, and you need to find the sum of all the numbers that are divisible by 3 or 5.  How would you do this in Python?
+What is the probability that a patient with a fever will test positive for MRSA (mrsa)?
+How would you solve this problem?
+2D to 3D Data
+1 Example of a data science interview question: 2D to 3D Data
+2 Question: How do you convert a 2D array into a 3D array?
+What is the purpose of this code?
+How do you choose the most appropriate model for your data?
+You are given the following dataset, and you need to use your statistical knowledge to answer the following questions:
+1. What is the distribution of the number of books read per person?
+What is your favorite programming language?
+How would you solve this problem in Python?
+10 questions and answers
+Data Science Interview Questions & Answers
+What are the types of Data Science?
+Describe the problem you are trying to solve with your dataset. 2. What do you think is the best way to go about solving this problem?
+Given a set of n items, how do you find the top-k most frequently occurring items in an array?
+How do you calculate the mean and standard deviation of a list of numbers?
+What is the difference between regression and prediction?
+You are given a sequence of numbers, and you need to find the first number in the sequence that is divisible by both 2 and 3. How would you do it?
+What is the difference between a linear regression model and a logistic regression model?
+2d array in R
+In this example, you’ll learn how to create a 2d array in R and use it to solve a data science interview question.
+What is a 2d array in R?
+What is the problem that you are trying to solve?
+What is the most common cause of death for people with diabetes?
+What are the different types of regression?
+What are the most important steps in machine learning?
+What are the advantages of using R in machine learning?
+Given the following code, what is the output?
+How do you decide which algorithms to use in a given situation?
+In this blog post, we are going to learn about one of the most common interview questions for data scientists – "what is your favorite dataset and why?
+How do you evaluate the quality of an algorithm?
+What is the best way to deal with missing values in your dataset?
+What are the main components of an R package?
+What is the difference between clustering and classification?
+How do you calculate the confidence interval for a sample mean?
+What is the purpose of your code?
+How can I find the best model for my data?
+What is the difference between linear regression, logistic regression, and multinomial regression?
+I was recently asked this question at an interview:
+What is the difference between machine learning and statistics?
+What was your first programming language?
+How can you use machine learning to make predictions?
+How would you design an algorithm to solve this problem?
+How can we improve the accuracy of this machine learning model?
+What is the most important thing you would want to know about a given dataset before beginning any analysis?

@@ -1,0 +1,7 @@
+How do we choose K in K-fold cross-validation?
+What is gradient descent?
+What is K-fold cross-validation?
+How do we check if a variable follows the normal distribution?
+What if we want to build a model for predicting prices?
+What is the normal equation?
+What is linear regression?

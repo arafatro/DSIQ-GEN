@@ -1,0 +1,16 @@
+How do we know which features are more important for our decision tree model?
+How do we know how many trees we need in decision trees?
+How do we know how many trees to use in random forest?
+What are the main parameters of the random forest model?
+How do we choose the number of trees in random forest?
+How do we know how many trees we need in random forest?
+What are the main differences between random forest and gradient boosting?
+How do we know which features are more important for the decision tree model?
+How do we know which features are important for the decision tree?
+What are the main parameters of random forest?
+How do we know how many trees to select in random forest?
+What are the main parameters in random forest?
+What are the main parameters of the decision tree model?
+How do we know how many trees in random forest?
+How do we select the number of trees in random forest?
+How do we know how many trees to use in decision trees?

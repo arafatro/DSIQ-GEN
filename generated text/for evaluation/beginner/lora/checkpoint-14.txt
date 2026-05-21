@@ -1,0 +1,11 @@
+What is clustering?
+What is the bias-variance trade-off?
+What is regression?
+What is unsupervised learning?
+What are MSE and RMSE?
+How do we choose K in K-fold cross-validation?
+What are the main parameters of the decision tree model?
+What is supervised machine learning?
+What is classification?
+What are precision, recall, and F1-score?
+How do we decide when to stop training a neural net?

@@ -1,0 +1,3 @@
+How do you approach tuning parameters in XGBoost or LightGBM?
+How can we use neural nets for text classification?
+Are CNNs resistant to rotations?

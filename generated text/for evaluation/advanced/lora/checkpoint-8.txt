@@ -1,0 +1,4 @@
+Do you know any other ways to get word embeddings?
+How do you approach tuning parameters in XGBoost or LightGBM?
+What is object segmentation?
+Are CNNs resistant to rotations?

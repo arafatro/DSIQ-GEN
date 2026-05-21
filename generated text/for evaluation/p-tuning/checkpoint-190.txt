@@ -1,0 +1,84 @@
+What is the best way to do you think it?
+How do you train your model?
+How do we train a deep neural net?
+How do you define the cost function?
+What is the relationship between L2 and L?
+What is the relationship between using gradient boosting?
+How do we use random forests?
+How do we choose the best features to use?
+How do you find the best way to train?
+What are the difference between overfitting and regularization?
+What is the best way to do it work in machine learning?
+Why do you have to use K means?
+What is the best algorithm for learning rate function?
+What is the RNN?
+What is the loss function to use?
+Why do we choose this?
+How do you choose?
+What is the problem?
+How do you choose the best features?
+How does it work?
+What are the best features to be used?
+Why do you need to use Bayesian machine learning?
+How to use cross-validation?
+What is the gradient boost?
+How do you train the R?
+What is the loss function that minimization?
+What is the L1DAG?
+How do we choose the best features?
+Do you know why we need to use decision trees?
+How do you determine the best linear regression trees?
+Do you know this?
+What is the best algorithm to use it?
+How do we train a neural network?
+What is the difference between Keras?
+What are the best way to use gradient descent?
+Why do you want to use deep neural nets?
+Why do we use convolutional feature normalization?
+How do we choose this approach the best machine learning algorithm?
+Why do we need to use deep neural nets?
+How do you define the loss function?
+How do we choose the best feature selection technique?
+How do we use decision trees?
+What’s the difference between Keras?
+How do we use Keras?
+What is the relationship between deep neural nets with Keras?
+How do we choose the model?
+How do you know if we have a linear model?
+What is the K-means?
+How do you deal with K means?
+What is the best way to use cross validation?
+Do you know the difference between gradient descent?
+What is the process?
+How do you know if the value of R?
+What is the best way to find the best features for training a neural network?
+How to use random forest trees?
+What is the most important part of machine learning?
+What is the loss function that takes in R?
+What is the difference between L1 and L-regularization?
+What is the best way to use it?
+What is the Keras?
+How do we choose the right model selection?
+What is KLD?
+How do you train your network?
+Do you know what we can use gradient descent?
+What is the best way to perform logistic regression?
+What is the best feature selection?
+Why do we need to use them?
+What is the use of boosting?
+Why do you want to use R?
+What is the best way to find the best features?
+How do we train a neural net?
+What does it take into account?
+what are the following?
+Do you know how to use it?
+What is the best way to do it?
+What is the best way to optimize it?
+What is the best way to deal with Keras?
+How do you know if we want to be able to use?
+Why do you use the same loss functions?
+What is the loss function?
+What is K-means?
+What is the best algorithm for learning?
+What is the process of gradient descent?
+Why do we want to use this technique?

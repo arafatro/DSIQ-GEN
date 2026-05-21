@@ -1,0 +1,52 @@
+How to calculate the standard error of the mean (SE) in R?
+What is the best way to handle missing values in a dataset?
+What is the difference between linear regression and logistic regression?
+1, 2, or 3?
+Given the following dataset, what is the probability that at least one of the two players has more than 10 points?
+How would you approach this problem?
+How would you improve the accuracy of this model?
+What is the most common mistake people make when they first start learning about data science?
+“How do you deal with high variance in the data?
+How would you solve this problem?
+In this article, we will explore the difference between 1.5D and 3D models in the context of data science.
+What is a 1.5D model?
+What is the difference between a regression model and a classification model?
+What is your favorite programming language?
+What is the expected value of a function f(x) = x^2?
+What is the difference between a linear regression and a logistic regression?
+How would you calculate the expected value of a random variable?
+What is the difference between K-means clustering and k-nearest neighbors classification?
+How do you find the correlation between two variables?
+What is the difference between linear and non-linear regression?
+What is the best way to visualize time series data?
+How do you deal with missing values in a dataset?
+What is the best way to determine if a function is continuous?
+How would you deal with missing values in the dataset?
+How to deal with missing values in Python?
+What is the purpose of this program?
+What is the difference between correlation and covariance?
+How many times have you had to use the `map` function?
+In this post, we are going to see an example of a data science interview question: 3 questions and answer. Let’s dive right in!
+What is Data Science?
+What is the most important step to ensure that your code runs on all major operating systems and platforms?
+“Why do you want to work in data science?
+You are given a dataset with 10 columns and 1000 rows. What is the minimum number of queries needed to find the average of each column?
+How do you build a machine learning model to predict the number of people who will vote for a candidate in an election?
+In this example, we will see how to write a data science interview question with the help of examples.
+What is a data science interview question?
+What is the minimum amount of data that should be collected to build an effective model?
+What are the different types of machine learning algorithms?
+What is the expected value of an experiment?
+What is the difference between clustering and classification?
+What is the best way to analyze and visualize categorical data?
+If you had to pick one, what would it be?
+What is the difference between categorical and numerical variables?
+What is your favorite programming language and why?
+What is the difference between regression and classification?
+2d to 3d projection
+What is the formula for 2d to 3d projection?
+How would you use Python to find the maximum value in an array?
+What is the probability that two people picked at random from a group of 100 will have different birthdays?
+What is your approach to solving this problem?
+How do you find the number of rows and columns in a Pandas DataFrame?
+What is the difference between a 2D and a 3D array?

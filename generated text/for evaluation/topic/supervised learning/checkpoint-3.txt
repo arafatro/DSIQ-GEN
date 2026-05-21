@@ -1,0 +1,18 @@
+What do we need to know about our models?
+What do we need to know about cross-validation?
+How do we choose K in K-fold cross-validation?
+What do we need to know about normal distributions?
+What is regression?
+How do we choose K?
+How do we choose our model?
+What do we mean by overfitting?
+What is K-fold cross-validation?
+What’s K-fold cross-validation?
+What is cross-validation?
+How do we check if our models are overfitting?
+How do we choose our hyperparameters?
+What do you know about cross-validation?
+How do we choose our models?
+What do you know about how to split your data into training, validation, and test sets?
+What do you know about K-fold cross-validation?
+What is overfitting?

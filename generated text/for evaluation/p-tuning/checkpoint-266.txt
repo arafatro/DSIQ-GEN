@@ -1,0 +1,81 @@
+What is the difference between RNN and CNN?
+How do you deal with R?
+How do we use it?
+What is the best way to handle categorical variables?
+What is the best way to use feature selection?
+Why do we need to use it?
+What is the relationship between the number of true?
+What is the difference between random forest trees in gradient boosting?
+How do we choose which features to use?
+How do we train a neural network?
+How do we use random forests?
+How do we calculate the RBF?
+How do we use gradient boosting?
+How do you train a model?
+What is the linear regression?
+What is the K-means?
+Why do we need to use deep neural nets?
+How do you deal with K in Python?
+How do we choose the loss function?
+How do we choose feature selection techniques for classification?
+Why do we need to use them?
+What is the most important loss function to use in machine learning?
+What is the difference between support vectorization?
+How do we compute this?
+What is the difference between L1 and L2 loss?
+What are some methods for learning?
+What is the difference between L2DNN?
+What is the difference between logistic regression trees?
+What is the difference between K-means square root?
+How do we use word vectors to represent it?
+Do you know that deep neural nets?
+How do we use decision trees and trees for regression?
+What is the process?
+What is the problem?
+How do you choose the best features?
+What is the relationship between support vectorization and learning rate?
+How can we use gradient boosting trees?
+How do we train our?
+What is the RNN?
+What is the best way to optimize model selection?
+What is the difference between gradient boosted decision trees?
+What is the difference between stochastic gradient descent?
+Do you know how to do it when we need to use gradient boosting?
+What is the L2 regularization?
+What is gradient boosting?
+How do we use decision trees?
+How do you determine which features to use in the model?
+What is the best way to do it?
+What is the best way to build a deep learning model?
+How do we train on the loss functions?
+What is the difference between L2 and L1 regularization?
+How do you know when to use deep neural nets?
+What is the difference between Keras?
+How do we use gradient boosting trees?
+What is the difference between logistic regression?
+How do we train the model?
+How do you determine the RBF?
+How do you determine the best algorithm to find the best model?
+Do you know how to train?
+How do we choose to use it?
+How do you find the best way to initialize?
+What is the difference between linear regression trees?
+What is the process of feature selection?
+What is the difference between deep neural nets?
+What is gradient descent?
+How do we train our neural network?
+How do we train a deep neural net?
+How to use K-means?
+How do you know what we need to do you expect?
+How do you train your model?
+Why do we need to use gradient descent?
+What is the best way to optimize?
+What is the loss function?
+What is the relationship between n-1D and n?
+How do you choose the best model?
+Why do we use deep neural nets?
+Why is it worth using gradient descent?
+How do you solve the linear regression problem?
+How do we determine the best feature selection method?
+What is the difference between L2 and L2 regularization?
+What is the difference between gradient descent?

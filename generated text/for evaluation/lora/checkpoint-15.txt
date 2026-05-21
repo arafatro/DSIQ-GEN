@@ -1,0 +1,28 @@
+What is K-fold cross-validation?
+Can we use L2 regularization for feature selection?
+How can we select the number of trees in the random forest model?
+What is mean average precision at k?
+What is the cold start problem?
+Is it possible to parallelize training of a new gradient boosting model?
+How do we select the depth of the trees in random forest?
+What is the area under the PR curve?
+What is Adam?
+How to select the depth of the trees in random forest?
+What is the confusion table?
+How can we use machine learning for text classification?
+What is the ROC curve?
+How to select the number of trees in the random forest model?
+What is L2 regularization?
+How do we initialize the weights of a neural network?
+What is the ranking problem?
+What is the curse of dimensionality?
+What is the bias-variance trade-off?
+What is the learning rate?
+Can we use L1 regularization for feature selection?
+Why do we need to split our data into three parts: train, validation, and test?
+Can we have both L2 and L1 regularization components in linear models?
+What is the PR (precision-recall) curve?
+Can we have both L1 and L2 regularization components in linear models?
+Can you explain how Adam is better than SGD?
+How can we use machine learning for search?
+How to set the learning rate?

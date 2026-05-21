@@ -1,0 +1,15 @@
+What is object segmentation?
+What’s object segmentation?
+How we can use augmentations for training neural nets?
+How we can use Adam as an alternative to SGD for training neural nets?
+How to set the learning rate for a neural network?
+What are augmentations?
+How to choose which augmentations to use for a neural net?
+How do we decide when to stop training a neural network?
+How to choose which augmentations to use?
+How to use Adam as an optimizer for a CNN?
+What kind of augmentations for CNNs do you know?
+How to set the learning rate?
+How to choose which augmentations to use for a neural network?
+How to choose which augmentations to use for a CNN?
+What is transfer learning?
