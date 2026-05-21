@@ -66,44 +66,20 @@ The framework expands a 167-question seed corpus to **1,011 questions (505.4% in
 DSIQ-GEN/
 │
 ├── data/
-│   ├── original_dataset.csv          # 167 manually curated questions
-│   ├── difficulty_extended.csv       # 380 questions (difficulty-balanced)
-│   ├── topic_extended.csv            # 818 questions (topic-balanced)
-│   └── merged_extended.csv           # 1,011 questions (combined)
+│   ├── dataset_6.csv
+│   ├── dataset_extended_difficulty.csv
+│   ├── dataset_extended_merged.csv
+│   ├── dataset_extended_merged_data_science_only.csv
+│   ├── dataset_extended_topic.csv
+│   ├── dataset_non_data_science.csv
+│   └── question_dataset.csv
 │
-├── generation/
-│   ├── lora_general.py               # General LoRA fine-tuning
-│   ├── lora_difficulty.py            # Difficulty-conditioned LoRA
-│   ├── lora_topic.py                 # Topic-conditioned LoRA
-│   ├── ptuning_general.py            # P-tuning fine-tuning
-│   ├── prefix_tuning_general.py      # Prefix tuning fine-tuning
-│   └── generate_questions.py         # Inference / question generation script
-│
-├── classification/
-│   ├── lstm_classifier.py            # LSTM-based classifier
-│   ├── transformer_classifier.py     # Transformer encoder classifier
-│   ├── feedforward_classifier.py     # Feedforward (BoW/TF-IDF) classifier
-│   ├── domain_classifier.py          # Rule-based domain (DS/non-DS) classifier
-│   └── train_classifiers.py          # Training pipeline for all configurations
-│
-├── clustering/
-│   ├── kmeans_clustering.py          # K-means clustering with cosine distance
-│   ├── pca_reduction.py              # PCA dimensionality reduction
-│   └── evaluate_clustering.py        # Purity, recall, and visualization
-│
-├── utils/
-│   ├── keyword_list.py               # 198 curated data science keywords
-│   ├── evaluation_metrics.py         # Diversity, Uniqueness, Similarity, DS Rate, RCA
-│   ├── text_representations.py       # Tokenization, BoW, TF-IDF encoders
-│   └── data_utils.py                 # Dataset loading and preprocessing
-│
-├── notebooks/
-│   ├── generation_experiments.ipynb  # Question generation experiments
-│   ├── classification_experiments.ipynb # Classification experiments
-│   └── clustering_analysis.ipynb     # Clustering and visualization
-│
-├── checkpoints/                      # Saved PEFT model checkpoints
-│
+├── classification models/            # Saved trained classifier weights
+├── generated text/                  # Generated question outputs for evaluation
+├── notebooks/                       # Experiment and evaluation notebooks
+├── CITATION.md
+├── keywords.txt
+├── question generation models.txt
 ├── requirements.txt
 └── README.md
 ```
@@ -152,6 +128,8 @@ imbalanced-learn
 
 ## 📊 Dataset
 
+All CSV datasets have been moved into the `data/` folder for a cleaner repository layout.
+
 The core dataset comprises **167 manually curated data science interview questions** annotated with:
 
 - **Difficulty labels:** Beginner (24%), Intermediate (68.3%), Advanced (7.8%)
@@ -160,7 +138,44 @@ The core dataset comprises **167 manually curated data science interview questio
   - Recommender Systems, Regularization, Supervised Learning
   - Text Classification, Time Series, Unsupervised Learning
 
-Extended datasets are generated via conditioned PEFT models and stored in `data/`.
+Key data files:
+
+- `data/question_dataset.csv` — original question corpus
+- `data/dataset_extended_difficulty.csv` — difficulty-balanced questions for reproduced difficulty classification
+- `data/dataset_extended_topic.csv` — topic-balanced extended dataset
+- `data/dataset_extended_merged.csv` — merged dataset combining extended samples
+- `data/dataset_extended_merged_data_science_only.csv` — DS-only merged split
+- `data/dataset_non_data_science.csv` — non-data-science examples
+
+---
+
+## ▶️ Run the Repository
+
+To run the repo and reproduce difficulty classification results:
+
+1. Install dependencies described above.
+2. Make sure all CSV datasets are present in `data/`.
+3. Execute the classification training command:
+
+```bash
+python classification/train_classifiers.py \
+    --dataset data/dataset_extended_difficulty.csv \
+    --task difficulty \
+    --architecture transformer \
+    --representation keyword
+```
+
+To reproduce merged dataset results:
+
+```bash
+python classification/train_classifiers.py \
+    --dataset data/dataset_extended_merged.csv \
+    --task difficulty \
+    --architecture transformer \
+    --representation keyword
+```
+
+The repository is organized so that dataset files are separated from generated outputs and saved model weights.
 
 ---
 
@@ -220,7 +235,7 @@ generate_kwargs = {
 **Train all classifier configurations:**
 ```bash
 python classification/train_classifiers.py \
-    --dataset data/merged_extended.csv \
+    --dataset data/dataset_extended_merged.csv \
     --task difficulty \
     --architecture transformer \
     --representation keyword
@@ -249,14 +264,14 @@ result = is_data_science_question(question)  # True/False
 ```bash
 # Run K-means clustering on extended dataset
 python clustering/kmeans_clustering.py \
-    --dataset data/topic_extended.csv \
+    --dataset data/dataset_extended_topic.csv \
     --vectorization tfidf \
     --n_clusters 9 \
     --pca_dims 6
 
 # Evaluate clustering quality
 python clustering/evaluate_clustering.py \
-    --dataset data/topic_extended.csv \
+    --dataset data/dataset_extended_topic.csv \
     --vectorization tfidf
 ```
 

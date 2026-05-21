@@ -1,0 +1,819 @@
+question,topic
+What is collaborative filtering?,recommender systems
+What kind of CNN architectures for classification do you know?,neural networks
+How can we deal with the imbalanced class distribution in machine learning?,supervised learning
+What is time series and how it is different from the regression?,time series
+What’s a convolutional layer?,neural networks
+What is mean average precision at k?,unsupervised learning
+What is neural nets?,neural networks
+What do we need to know about bias-variance trade-off?,supervised learning
+What is the K-fold cross-validation technique?,supervised learning
+"How do you calculate the expected value of a random variable, given its probability distribution?",supervised learning
+What are the advantages of random forest regression model compared to gradient boosting tree model?,feature selection
+What’s your favorite metric for evaluating regression models?,supervised learning
+How do we deal with multicollinearity in linear models?,regularization
+What is time series and what are the different types?,time series
+How do we interpret the weights of linear models?,regularization
+What is the difference between gradient boosting tree and random forest models?,feature selection
+What do we mean by regression analysis?,unsupervised learning
+What are the most common challenges of building recommender systems?,recommender systems
+Which is the most popular machine learning algorithm?,unsupervised learning
+How can we know which features are more important for the decision tree model?,feature selection
+Which feature selection techniques do you know?,feature selection
+Is there a way to evaluate how well our models perform on unseen data?,regularization
+How to select the number of trees in Random Forest?,feature selection
+What is the difference between regression and time series?,time series
+What is precision and recall at k?,unsupervised learning
+What methods for solving linear regression do you know?,supervised learning
+What are the main assumptions of linear regression?,supervised learning
+Why do we need convolutional layers?,neural networks
+How to evaluate the performance of a model?,classification
+What is transfer learning?,neural networks
+What’s the difference between random forest and gradient boosting?,feature selection
+What’s the L2 regularization term in linear models?,regularization
+What would be the best way to approach this problem?,unsupervised learning
+What is regression? Which models can you use to solve a regression problem?,supervised learning
+What is the K-fold Cross Validation?,supervised learning
+What is time series and what are the applications of time series?,time series
+"Given a dataset, how do you determine the number of unique values in each column?",classification
+How do we deal with the overfitting problem in linear models?,supervised learning
+How to choose the best regularization parameter?,regularization
+What is sigmoid? What does it do?,classification
+What is the difference between random forest and gradient boosting tree model?,feature selection
+What is time series analysis?,time series
+What happens to our linear regression model if the column z in the data is a sum of columns x and y and some random noise?,classification
+What is unsupervised learning and how can we use it for NLP tasks?,unsupervised learning
+"If you are an analyst, what is the difference between linear regression and logistic regression?",classification
+What are the tools used for time series analysis?,time series
+What is classification problem?,classification
+What is the difference between bag of words and word embedding?,text classification
+What is bag of words? How we can use it for text classification?,text classification
+What's the difference between k-means clustering and k-medoids clustering?,unsupervised learning
+What is the difference between random forest and gradient boosting tree models?,feature selection
+What is the difference between time series and non time series?,time series
+How can we use machine learning techniques for recommender systems?,recommender systems
+How do I find the minimum and maximum values of a column in Python?,classification
+How do we know when to use convolutional layers and when to use fully connected layers?,neural networks
+What is the bias-variance trade-off?,supervised learning
+What is the importance of using unsupervised learning algorithms for recommendation systems?,unsupervised learning
+What is the difference between linear models and generalized linear models?,regularization
+Can you explain what is the difference between linear regression and logistic regression?,classification
+How do we select the optimal number of trees in Random Forest model?,feature selection
+What is the difference between time series and non-time series?,time series
+What is ReLU? How is it better than sigmoid or tanh?,neural networks
+Cold start problem?,recommender systems
+How do we select the number of trees in random forest model?,feature selection
+What is precision-recall trade-off (PR curve)?,classification
+What’s the difference between L1 and L2 regularization parameters?,regularization
+What’s k-fold cross-validation?,supervised learning
+What are the different approaches to building recommender systems?,recommender systems
+What is the difference between random forest model and gradient boosting tree model?,feature selection
+How do you predict time series?,time series
+What is an activation function?,neural networks
+Is there any difference between random forest model and gradient boosting tree model in terms of feature importance?,feature selection
+What are augmentations? Why do we need them?,neural networks
+What is Linear Regression?,supervised learning
+What is the difference between Linear Regression and Ridge Regression?,supervised learning
+"How do you deal with unstructured data, and how do you make use of the information in it?",unsupervised learning
+How can we deal with categorical features in gradient boosting models?,feature selection
+What is the role of machine learning in business intelligence?,unsupervised learning
+What are some of the most common types of machine learning algorithms used in industry today?,unsupervised learning
+What’s the interpretation of the bias term in linear models?,regularization
+What’s the interpretation of regularization parameters in linear models?,regularization
+What are the main components of gradient boosting trees models?,feature selection
+How can you use neural nets for text classification?,text classification
+What is the difference between statistical learning and machine learning?,supervised learning
+How to evaluate performance of classification models?,classification
+What are the types of time series?,time series
+Which regularization techniques do you know?,regularization
+How can we use deep learning for ranking?,unsupervised learning
+"Can we use linear models to estimate the effect of an independent variable on a response variable. If yes, then how can we do it?",regularization
+What is the difference between Gradient Boosting Trees and Random Forests?,feature selection
+What is recommender systems?,recommender systems
+What is the difference between a linear regression model and a logistic regression model?,classification
+How would you use machine learning for text classification with n-grams?,text classification
+What is the difference between k-fold cross-validation and Leave One Out (LOO) cross-validation?,supervised learning
+How can we use machine learning for text classification?,text classification
+What is the difference between random forest and gradient boosting trees?,feature selection
+"What are precision, recall, and F1-score?",classification
+Tell me about the difference between linear regression and logistic regression?,classification
+What do you mean by overfitting?,unsupervised learning
+How would you use machine learning for text classification with embeddings?,text classification
+What is the difference between Linear Regression and Logistic Regression?,classification
+How do you deal with missing values in time series?,time series
+Is there any difference between linear regression and logistic regression?,classification
+What are the most common approaches to building recommender systems?,recommender systems
+What is convolutional layer?,neural networks
+What are some problems with using trees for solving time series problems?,time series
+What is the area under the PR curve? Is it a useful metric?,classification
+What is Machine Learning?,unsupervised learning
+Why do we use convolutional layers?,neural networks
+How do we solve time series problems?,time series
+Can we use cross-validation to estimate the test error?,supervised learning
+What are the advantages of using word embeddings?,text classification
+What kind of regularization techniques are applicable to linear models?,regularization
+How do we interpret L1 regularization coefficients?,regularization
+What is the difference between bagging and random forest model in gradient boosting trees?,feature selection
+"What is the difference between machine learning, deep learning, and natural language processing?",supervised learning
+What are the problems in time series?,time series
+How to select K for K-means?,unsupervised learning
+How does L2 regularization look like in a linear model?,regularization
+How do we deal with categorical variables in the decision tree?,feature selection
+What are the differences between random forest and gradient boosting trees?,feature selection
+How do we interpret weights in linear models?,regularization
+What is k-fold cross-validation?,supervised learning
+What is the difference between regression analysis and prediction?,supervised learning
+What is the difference between supervised learning and unsupervised learning?,unsupervised learning
+What is the main difference between convolutional layers and fully connected layers?,neural networks
+What's recommender system?,recommender systems
+3 baselines approaches to cold start problem?,recommender systems
+What regularization techniques do we know?,regularization
+How would you evaluate your ranking algorithms? Which offline metrics would you use?,unsupervised learning
+What are the different types of recommender systems and how do they differ from each other?,recommender systems
+Is it possible to have an unbalanced classification model?,classification
+What are the differences between linear models and non-linear models?,regularization
+What are the key components of data science?,supervised learning
+What regularization techniques do we have?,regularization
+What’s the regularization component in linear models?,regularization
+How to choose which augmentations to use?,neural networks
+Precision-recall trade-off,classification
+What are the different types of Machine Learning models?,supervised learning
+Why do we need to use dropout layers?,neural networks
+How do we evaluate classification models?,classification
+Do we want to have a constant learning rate or we better change it throughout training?,neural networks
+What are the main differences between gradient boosting trees and random forests?,feature selection
+What’s linear regression?,supervised learning
+How would you use machine learning for text classification with N-grams?,text classification
+What is data science and what are the key skills required to become a data scientist?,supervised learning
+How do we deal with categorical features in machine learning?,feature selection
+What are different ways to solve the cold start problem?,recommender systems
+What are recommender systems?,recommender systems
+What do we mean by bias-variance trade-off?,unsupervised learning
+When would you use Adam and when SGD?,neural networks
+How do we train the neural nets?,neural networks
+How do we choose the number of features in linear models?,regularization
+What’s the L2 regularization parameter?,regularization
+Can neuro nets be used to build recommender systems?,recommender systems
+"You are given a set of numbers, and you have to find the sum of the squares of all the numbers in the set. What is the time complexity of this algorithm?",unsupervised learning
+What is a recommender system and how does it work?,recommender systems
+How can we use CNN for text classification?,text classification
+Is there a difference between linear models and non-linear models?,regularization
+What are the different types of neural nets?,neural networks
+Would you prefer gradient boosting trees model or logistic regression when doing text classification with N-grams?,text classification
+What is the difference between linear models and nonlinear models in terms of their representations?,regularization
+What if we set all the weights of a neural network to 0?,neural networks
+How do we interpret the regularization parameters in linear models?,regularization
+How can you use deep learning models for image classification?,classification
+How can you use N-grams for text classification?,text classification
+Is it possible to use gradient boosting trees in high dimensional feature spaces?,feature selection
+What are the most popular machine learning models?,supervised learning
+What are the key components of a recommender system?,recommender systems
+What is cold start problem?,recommender systems
+What is overfitting?,supervised learning
+What are the types of neural nets?,neural networks
+What do we mean by overfitting?,unsupervised learning
+What is time series?,time series
+How would you use text classification for text classification with N-grams?,text classification
+"What happens to our linear regression model if we have three columns in our data: x, y, z — and z is a sum of x and y?",classification
+Is there any difference between linear models and logistic regression?,classification
+Can you explain the use of word embeddings for text classification?,text classification
+What is the difference between gradient boosting trees and random forests?,feature selection
+Is it possible to parallelize training of a gradient boosting model? How to do it?,feature selection
+What does it mean to train a model?,unsupervised learning
+"If you have a sentence with multiple words, you may need to combine multiple word embeddings into one. How would you do it?",text classification
+What is the difference between regression and classification?,classification
+How can you use bag of words for text classification with bag of words?,text classification
+What is the difference between linear regression and ridge regression?,supervised learning
+How do you evaluate the performance of your machine learning models?,supervised learning
+How do we compute the mean squared error in linear models?,unsupervised learning
+What is precision-recall trade-off (PR)?,classification
+What is neural net?,neural networks
+What is the ROC AUC score?,classification
+What is the contrastive learning method?,supervised learning
+How to handle missing values in linear models?,regularization
+How do we decide the number of trees in random forest model?,feature selection
+What is the difference between Gradient Boosting Trees and Random Forest?,feature selection
+What is an recommender system?,recommender systems
+"How we can incorporate implicit feedback (clicks, etc) into our recommender systems?",recommender systems
+What is the difference between random forest model and gradient boosting model?,feature selection
+How do we train a neural net?,neural networks
+What is the difference between correlation and regression analysis?,supervised learning
+Possible approaches to solving the problem?,recommender systems
+How do we interpret linear models?,classification
+You are building a new machine learning model for your company. What is the first thing you would do to ensure that the model will work well on your data?,supervised learning
+What’s your favorite linear regression model?,supervised learning
+How would you use text classification with N-grams?,text classification
+What is a time series?,time series
+How do we deal with feature selection in random forest model?,feature selection
+What are the most common problems in time series analysis?,time series
+What is the difference between 2D and 3D data?,supervised learning
+What are the applications of Deep Learning in Data Science?,classification
+What is gradient descent?,supervised learning
+How L1 regularization looks like in a linear model?,regularization
+How can we use ranking algorithms for ranking search results?,unsupervised learning
+What is the role of machine learning in data science?,supervised learning
+What is regression and how it can be applied in machine learning?,supervised learning
+Can you tell me about the time series?,time series
+How do we interpret L2 regularization terms in linear models?,regularization
+What is ROC (AU PR)?,classification
+What are recommender systems? How do they work?,recommender systems
+What is the difference between linear models and logistic models?,classification
+Do you know how to use gradient boosting trees for ranking?,unsupervised learning
+What is k-fold cross validation?,supervised learning
+How can you use machine learning for text classification with bag of words?,text classification
+"Given a matrix, find the sum of all its elements. How would you solve this problem?",classification
+What is the difference between Random Forest and Gradient Boosting Tree?,feature selection
+What are recommender systems? What do we use them for?,recommender systems
+Why do we need to use AU PR?,classification
+What are the different models in gradient boosting trees?,feature selection
+What is backpropagation? How does it work? Why do we need it?,neural networks
+How do we choose the number of trees in random forest model?,feature selection
+What is the difference between supervised and unsupervised machine learning?,unsupervised learning
+How can you use word embeddings for text classification?,text classification
+What is Time Series?,time series
+How do we deal with the imbalanced dataset in classification and regression tasks?,classification
+What is the difference between Random Forest and Gradient Boosting Trees models?,feature selection
+What is the recommender system?,recommender systems
+What is the importance of machine learning algorithms in big data analytics?,unsupervised learning
+How do you deal with the cold start problem in recommender systems?,recommender systems
+What is Data Science and what are its different approaches to solving problems?,recommender systems
+What is the role of AI in recommender systems?,recommender systems
+What if we want to build a model for predicting prices? Are prices distributed normally? Do we need to do any pre-processing for prices?,supervised learning
+Explain the difference between linear regression and logistic regression. 2. How can we use logistic regression to predict whether a customer will purchase a product?,classification
+How do we select the number of trees in random forest models?,feature selection
+How can we use deep learning for recommender systems?,recommender systems
+How do I go about building a recommender system?,recommender systems
+What’s the difference between linear regression and logistic regression?,classification
+What is random forest?,feature selection
+How do you find the mean and standard deviation of a set of numbers?,unsupervised learning
+What is the goal of machine learning?,unsupervised learning
+What is regularization? Why do we need it?,regularization
+What are the different types of recommender systems?,recommender systems
+What is dropout? Why is it useful? How does it work?,neural networks
+How can we perform feature scaling in linear models?,regularization
+What are the main differences between gradient boosting trees and random forest models?,feature selection
+How would you use word embeddings for text classification?,text classification
+How can we use machine learning techniques for ranking?,unsupervised learning
+How do we define machine learning?,unsupervised learning
+What is linear regression? When do we use it?,supervised learning
+Why do we need feature selection?,feature selection
+What are the benefits of a single decision tree compared to more complex models?,feature selection
+What is the importance of machine learning in big data analytics?,unsupervised learning
+What is supervised and unsupervised learning?,unsupervised learning
+What is the gradient descent algorithm?,unsupervised learning
+How can we use text embeddings for text classification?,text classification
+What regularization parameters do we have to tune?,regularization
+What are the different types of feature selection methods available in scikit-learn?,feature selection
+What is text classification?,text classification
+"What are the main difference between gradient boosting trees, random forest and XGBoost models?",feature selection
+What is the difference between deep learning and machine learning?,supervised learning
+What is the difference between linear models and non-linear models?,regularization
+What are the different types of regularization techniques in machine learning?,regularization
+What is the difference between time series and multivariate time series?,time series
+What is the difference between L1 regularization and L2 regularization?,regularization
+How would you approach this problem?,unsupervised learning
+How do we train decision trees?,feature selection
+What are time series and what are the problems with them?,time series
+Do we need to normalize the input features in linear models?,regularization
+What are the problems you can face when building a recommender system?,recommender systems
+What is time series and how it is different from the standard regression?,time series
+Can we have both L1 and L2 regularization components in a linear model?,regularization
+What are recommender systems? Why do we need them?,recommender systems
+How do you deal with time series problems?,time series
+How do we choose the best model for our data?,supervised learning
+How do we choose regularization parameters in linear models?,regularization
+What is the normal equation?,supervised learning
+What is the difference between gradient boosting model and random forest model?,feature selection
+What is the role of Machine Learning in Big Data Analytics?,supervised learning
+What regularization techniques do you know?,regularization
+Do you know how K-means works?,unsupervised learning
+How do we select the depth of the trees in random forest?,feature selection
+Can you explain the concept of recommender systems?,recommender systems
+Why do we need to use convolutional layers?,neural networks
+What is supervised learning?,supervised learning
+Why do we need activation functions?,neural networks
+What is the use of time series?,time series
+What is the difference between text classification and text clustering?,text classification
+How do we select the optimal regularization parameters in linear models?,regularization
+Can we use feature selection techniques in random forest model?,feature selection
+What are the types of machine learning algorithms?,unsupervised learning
+Which metrics for evaluating regression models do you know?,supervised learning
+What is object detection? Do you know any architectures for that?,neural networks
+What is time series and what are its types?,time series
+What is the difference between Random Forest model and Gradient Boosting model?,feature selection
+What is the difference between a recommender system and a chat bot?,recommender systems
+What is the difference between cross validation and k-fold cross validation?,supervised learning
+How do we select the optimal regularization parameter in linear models?,regularization
+How do we deal with overfitting and underfitting in random forest model?,feature selection
+What’s K-fold cross-validation?,supervised learning
+Possible approaches to solving the recommender system problem?,recommender systems
+How would you use bag of words for text classification?,text classification
+How can we use unsupervised learning techniques for recommender systems?,unsupervised learning
+How can we use machine learning to solve real-world problems?,unsupervised learning
+What do you mean by Big Data?,unsupervised learning
+What is the difference between a machine learning algorithm and a deep learning algorithm?,unsupervised learning
+What are the challenges with using trees for solving time series problems?,time series
+What is the main difference between random forest model and gradient boosting model in terms of performance?,feature selection
+How do we interpret the weights in linear models?,regularization
+What is the difference between linear models and non-linear models in machine learning?,supervised learning
+What are the different types of time series analysis?,time series
+What are the current approaches to unsupervised learning?,unsupervised learning
+What is text classification and what are the applications of text classification?,text classification
+Do we need regularization in linear models?,regularization
+How do we select the right regularization parameters?,regularization
+"What is ""curse of dimensionality""? ",classification
+What is the difference between text classification and text categorization?,text classification
+What’s the regularization parameter in linear models?,regularization
+Why do we use random forest model for feature selection?,feature selection
+How do we compute the L2 regularization parameter for linear models?,regularization
+How to set the learning rate?,neural networks
+What’s the regularization parameters for linear models?,regularization
+Are CNNs resistant to rotations? What happens to the predictions of a CNN if an image is rotated?,neural networks
+How would you use bag of words?,text classification
+Why is the dropout layer important?,neural networks
+What’s pooling in CNN? Why do we need it?,neural networks
+What’s the difference between clustering and dimension reduction?,unsupervised learning
+How do you deal with uncertainty in machine learning?,unsupervised learning
+What is the difference between k-means clustering and hierarchical clustering?,unsupervised learning
+What is the difference between supervised and unsupervised learning?,unsupervised learning
+How does time series differ from other types of analysis?,time series
+What do you know about time series analysis?,time series
+What are the advantages and disadvantages of machine learning algorithms?,unsupervised learning
+What is time series and what are the types of time series?,time series
+What is the difference between Random Forest and Gradient Boosting models?,feature selection
+How do you determine which machine learning model is best for the given problem?,supervised learning
+What is K-fold cross-validation?,supervised learning
+What is the difference between bag of words and n-grams?,text classification
+What are the most important steps in feature selection?,feature selection
+What is the state-of-the-art in unsupervised learning?,unsupervised learning
+What is AUC (AU ROC)?,classification
+What are the challenges in using machine learning and deep learning for NLP?,unsupervised learning
+What is a recommender system?,recommender systems
+How to create a text classification model?,text classification
+What are the problems that machine learning algorithms face when applied to real-world data?,unsupervised learning
+What’s your favorite K-fold cross-validation?,supervised learning
+How we can initialize the weights of a neural network?,neural networks
+What are the benefits of machine learning and how can it be applied to your organization?,unsupervised learning
+What do you know about linear regression?,supervised learning
+What are the most common applications of machine learning?,unsupervised learning
+You have a series with a variable “y” and a set of features. How do you predict “y” at t+1?,time series
+What are the challenges in machine learning?,unsupervised learning
+How would you approach the cold start problem in recommender systems?,recommender systems
+What is the difference between Random Forest and Gradient Boosting trees?,feature selection
+How do regularization techniques like L1 and L2 work?,regularization
+How would you use bag of words for text classification with bag of n-grams?,text classification
+How do we use SGD (stochastic gradient descent) for training a neural net?,neural networks
+How can we use text classification to classify tweets based on their sentiments?,text classification
+What is supervised machine learning?,supervised learning
+What do you know about time series?,time series
+Do you know any other ways to use word embeddings?,text classification
+What is the importance of machine learning  in recommender systems?,recommender systems
+How to deal with overfitting and underfitting in gradient boosting models?,feature selection
+What are the potential problems with many large trees?,feature selection
+Can you tell me something about time series?,time series
+What is regularization in linear models?,regularization
+How do you choose the right machine learning algorithm for your problem?,unsupervised learning
+How do we choose the number of trees in random forest models?,feature selection
+How can you use text classification with N-grams?,text classification
+What is the difference between gradient boosting trees and random forest models?,feature selection
+You have a series with only one variable “y” measured at time t. How do predict “y” at time t+1? Which approaches would you use?,time series
+When do we need to perform feature normalization for linear models? When it’s okay not to do it?,regularization
+What is the difference between an algorithm and a program?,unsupervised learning
+What is the difference between Linear models and non-linear models?,regularization
+What is the difference between time series and regression?,time series
+What is the PR (precision-recall) curve?,classification
+"What is the difference between mean, median, and mode in descriptive statistics?",unsupervised learning
+What is the main difference between random forest model and gradient boosting tree model?,feature selection
+How would you approach the cold start problem?,recommender systems
+How do you evaluate ranking algorithms?,unsupervised learning
+What’s the regularization term in L1 and L2 models?,regularization
+Do you know bag of words?,text classification
+How do you solve time series problems?,time series
+How can we use machine learning for recommendation system?,recommender systems
+How do we choose the best number of components to use in linear models?,regularization
+Why do we need to use activation functions?,neural networks
+What is CNN (Convolutional Neural Network) and how does it work?,neural networks
+What are the unsupervised learning algorithms that can be used for dimensionality reduction?,unsupervised learning
+The interviewer wants you to write a program that takes in a 2D array and returns the sum of its elements. How do you solve this problem?,classification
+If a weight for one variable is higher than for another — can we say that this variable is more important?,regularization
+What is the concept of bias in machine learning?,supervised learning
+What are different ways to solve the cold start problem in recommender systems?,recommender systems
+What are the unsupervised learning techniques used in recommender systems?,unsupervised learning
+"If we have a series with a variable “y” and a set of features, how we can predict “y” at t+1?",time series
+What are the key components of a data science pipeline?,supervised learning
+What kind of problems neural nets can solve?,neural networks
+What are the main challenges you face in building machine learning systems?,recommender systems
+How large should be N for our bag of words when using N-grams?,text classification
+What is the difference between recommender systems and collaborative filtering?,recommender systems
+What is the difference between linear models and generalized linear models (GLMs)?,regularization
+What are the different ways to evaluate model performance?,classification
+How would you use N-grams for text classification with bag of words?,text classification
+How would you use machine learning to solve this problem?,unsupervised learning
+How do we interpret the regularization parameters?,regularization
+What are the different types of classification models?,classification
+What is the problem you are trying to solve?,classification
+What is the linear regression?,supervised learning
+How do we initialize weights in neural nets?,neural networks
+What is feature selection? Why do we need it?,feature selection
+What is the most common type of error that you see in machine learning models?,supervised learning
+Can we formulate the search problem as a classification problem? How?,unsupervised learning
+What is the principle of linear regression?,supervised learning
+What is the difference between linear models and nonlinear models?,regularization
+Explain the importance of building a recommender system and how it can help companies to build their business?,recommender systems
+Is it possible to do linear models with more than one feature?,regularization
+What are the benefits of using Python to do machine learning in production?,unsupervised learning
+What are the different types of feature selection methods?,feature selection
+What are the key challenges in building a recommender system?,recommender systems
+What is the difference between Random Forest model and Gradient Boosting Model?,feature selection
+What are the different types of machine learning models and how do they differ from each other?,supervised learning
+What is Text Classification?,text classification
+How would you use machine learning to predict the value of a stock?,unsupervised learning
+What are the types of classification models?,classification
+How do you deal with the curse of dimensionality in machine learning?,unsupervised learning
+How do we handle categorical variables in decision trees?,feature selection
+What are bag of words?,text classification
+What are the benefits of using recommender systems?,recommender systems
+What is AU PR?,classification
+What is machine learning and how does it differ from deep learning?,unsupervised learning
+What is the difference between unsupervised learning and supervised learning?,unsupervised learning
+How do we train the model?,supervised learning
+What is machine learning and how does it differ from other forms of AI?,unsupervised learning
+What is ranking algorithms?,unsupervised learning
+How can we use text classification models like word embedding?,text classification
+What are the key steps in building a machine learning model?,supervised learning
+What are the different approaches that can be used to build recommender systems?,recommender systems
+What are the different types of machine learning algorithms?,unsupervised learning
+What is the difference between linear regression and ordinary least squares regression?,supervised learning
+Can you explain the cold start problem?,recommender systems
+How do we decide when to stop training a neural net?,neural networks
+What do you know about K-fold cross-validation?,supervised learning
+How do we deal with missing values in linear models?,regularization
+What is the role of machine learning in big data?,supervised learning
+What is the confusion table? What are the cells in this table?,classification
+What is gradient descent? How does it work?,supervised learning
+What’s the learning rate?,neural networks
+How can we use word embeddings for text classification?,text classification
+What is big data and what are the different types of big data?,supervised learning
+What are the other clustering algorithms do you know?,unsupervised learning
+What’s the difference between L2 and L1 regularization?,regularization
+What happens when the learning rate is too large? Too small?,neural networks
+What is the K-fold cross validation?,supervised learning
+How does max pooling work? Are there other pooling techniques?,neural networks
+What is model checkpointing?,neural networks
+What is the difference between XGBoost and Gradient Boosting trees?,feature selection
+How do we choose the number of features to include in a linear model?,regularization
+How do we know how many trees we need in random forest?,feature selection
+How do I handle missing values in machine learning models?,supervised learning
+What is time series? What are the types of time series?,time series
+Is logistic regression a linear model? Why?,classification
+What are word embeddings?,text classification
+What is the difference between logistic regression and linear regression?,classification
+How can we use Convolutional Neural Networks (CNNs) for image classification?,neural networks
+How can we use machine learning for search?,unsupervised learning
+Can you explain the concept of the cold start problem?,recommender systems
+How can we use text classification with N-grams?,text classification
+What is the importance of machine learning in data science?,unsupervised learning
+What is the purpose of dropout layer?,neural networks
+What is the precision-recall trade-off?,classification
+What do we mean by cross-validation?,unsupervised learning
+What is the difference between Linear Models and Linear Models?,regularization
+What is the purpose of K-fold cross-validation?,supervised learning
+What do we do with categorical variables?,classification
+How do we perform classification?,classification
+What is feature selection?,feature selection
+What are the most important aspects of building a recommender system?,recommender systems
+Feature importance in gradient boosting trees — what are possible options?,feature selection
+Can we use regularization techniques for linear models in non-linear models?,regularization
+What’s the effect of L2 regularization on the weights of a linear model?,regularization
+What are the key characteristics of a recommender system?,recommender systems
+How do we choose our K in K-fold cross-validation?,supervised learning
+Which model would you use for text classification with bag of words features?,text classification
+What is classification and how it differs from regression?,classification
+How to interpret the AU ROC score?,classification
+What cold start problem?,recommender systems
+How to train a neural network?,neural networks
+What are the main types of regularization techniques in linear models?,regularization
+What are the key components of unsupervised learning?,unsupervised learning
+How can we use deep learning models for text classification?,text classification
+Possible approaches to solving the problem of learning a good policy?,recommender systems
+What are the advantages of time series?,time series
+You have a series with a variable “y” and a set of features. How you would predict “y” at t+1?,time series
+What are the different types of time series?,time series
+"Given a set of observations, how can we compute the mean and standard deviation (or other statistics) of that set?",unsupervised learning
+What is TF-IDF? How is it useful for text classification?,text classification
+How do we deal with missing values in supervised learning algorithms?,unsupervised learning
+What is the difference between Random Forest and Gradient Boosting Trees?,feature selection
+What do you mean by “data mining”?,unsupervised learning
+What is the difference between Random Forest model and Gradient Boosting model in terms of performance?,feature selection
+How do you use ranking algorithms for ranking?,unsupervised learning
+What are the core principles of a good recommender system?,recommender systems
+How can we use text classification models for sentiment analysis?,text classification
+What is the difference between cross-validation and k-fold cross-validation?,supervised learning
+How do you handle missing data in machine learning?,supervised learning
+What is SGD — stochastic gradient descent? What’s the difference with the usual gradient descent?,supervised learning
+What is logistic regression? When do we need to use it?,classification
+What are the problems with using trees for solving time series problems?,time series
+How do we choose the best number of trees in random forest model?,feature selection
+Do you know any other ways to get word embeddings?,text classification
+What is the difference between linear regression and logistic regression?,classification
+How do we choose the regularization parameter for linear models?,regularization
+What are the three pillars of machine learning?,unsupervised learning
+What is the difference between linear regression and time series?,time series
+How do we handle the overfitting problem in neural nets?,neural networks
+What is the area under the PR curve?,classification
+What are the applications of machine learning?,unsupervised learning
+How can we leverage the knowledge graph to help us in machine learning?,unsupervised learning
+What is the difference between “normal” and “skewed” distribution?,supervised learning
+What’s singular value decomposition? How is it typically used for machine learning?,unsupervised learning
+In which cases AU PR is better than AU ROC?,classification
+What is the effect of regularization parameters on linear models?,regularization
+What is Big Data and how does it differ from traditional data?,supervised learning
+What is the difference between a linear regression model and a multivariate linear regression model?,supervised learning
+What are recommender systems? What do they do?,recommender systems
+What are the different types of algorithms that are used for building recommender systems?,recommender systems
+How do we deal with over-fitting in linear models?,regularization
+How do we interpret the coefficient of a linear model?,classification
+How do you select the number of trees in the gradient boosting model?,feature selection
+How do we interpret regularization parameters?,regularization
+How can we use machine learning techniques to make recommendations?,unsupervised learning
+How do we deal with time series problems?,time series
+What does the confusion matrix tell us about the classification problem?,classification
+What are the challenges in designing learning algorithms?,unsupervised learning
+What is the best way to represent a continuous numerical variable in a dataset?,supervised learning
+What is time series and how is it different from the usual regression problem?,time series
+What are the advantages and disadvantages of linear models compared to non-linear models?,regularization
+How can we use ranking algorithms for ranking?,unsupervised learning
+How do you evaluate the performance of machine learning models?,supervised learning
+What is the difference between cross-validation and hold-out?,supervised learning
+What do we do with AU PR?,classification
+What is the difference between a linear regression model and a multiple regression model?,supervised learning
+How do we use the L2 regularization term in linear models?,regularization
+What is the role of unsupervised learning in data science?,unsupervised learning
+What are time series problems?,time series
+How do you use trees for solving time series problems?,time series
+Why do we need one-hot encoding?,classification
+What is clustering? When do we need it?,unsupervised learning
+Why do we need to choose random forest model?,feature selection
+How do we select the best feature importance measures?,feature selection
+Can we use L2 regularization for feature selection?,feature selection
+What is time series and how it is different from the standard regression model?,time series
+What are the most popular machine learning techniques?,unsupervised learning
+"How do we split the dataset into train, validation and test sets?",supervised learning
+How to deal with overfitting in linear models?,supervised learning
+Can we use L1 regularization for feature selection?,feature selection
+How would you design a machine learning model that predicts the probability of a customer defaulting on their loan?,supervised learning
+What regularization techniques do we have in linear models?,regularization
+What are the main parameters of the random forest model?,feature selection
+What do you mean by gradient decent?,unsupervised learning
+Is it possible to use random forest model in the case of imbalanced dataset?,feature selection
+Would you prefer gradient boosting trees model or logistic regression when doing text classification with embeddings?,text classification
+What is recommender system?,recommender systems
+What do we mean by regularization in linear models?,unsupervised learning
+"What is a recommender system, and how does it work?",recommender systems
+How do we choose K in K-fold cross-validation? What’s your favorite K?,supervised learning
+Why do we need randomization in random forest?,feature selection
+How do we check if a variable follows the normal distribution?,supervised learning
+What are the different types of artificial networks to be used in recommender systems?,recommender systems
+How would you use word embeddings for text classification with N-grams?,text classification
+How do we interpret regularization parameters in linear models?,regularization
+What are the types of time series analysis?,time series
+How can we get training data for our ranking algorithms?,unsupervised learning
+What is the difference between CNN and RNN?,neural networks
+What is the difference between batch and mini-batch training?,neural networks
+How does the linear model generalize to new data?,supervised learning
+What’s the interpretation of L1 regularization terms?,regularization
+How would you explain to someone who has no background in machine learning how deep learning works?,unsupervised learning
+What are the benefits of using GPUs for training deep neural nets?,neural networks
+What are the decision trees?,feature selection
+How do we choose K in K-fold cross-validation?,supervised learning
+What is the cold start problem? What can cause it?,recommender systems
+What is machine learning?,unsupervised learning
+How can we use ranking algorithms for ranking search?,unsupervised learning
+What are the problems with sigmoid as an activation function?,neural networks
+What are the key differences between deep learning and traditional neural nets?,neural networks
+What is machine learning and how does it differ from traditional AI?,unsupervised learning
+Would you prefer gradient boosting trees model or logistic regression when doing text classification with bag of words?,text classification
+Can you explain how cross-validation works?,supervised learning
+What is the role of regularization techniques in linear models?,regularization
+What regularization techniques for neural nets do you know?,neural networks
+How would you use bag of words for text classification with bag of words?,text classification
+What is the effect of regularization in linear models?,regularization
+What is the ROC curve? When to use it?,classification
+What’s the regularization term in linear models?,regularization
+"What is the difference between linear regression and multiple linear regression, and how are they used in practice?",supervised learning
+What is cold start?,recommender systems
+What is gradient boosting trees?,feature selection
+What is unsupervised learning?,unsupervised learning
+How to choose the regularization parameter in linear models?,regularization
+What is time series and how does it differ from the usual regression model?,time series
+What are the main components of gradient boosting trees?,feature selection
+What are the steps involved in feature selection?,feature selection
+What are the types of regularization techniques in linear models?,regularization
+How do we know which feature importance measure to use?,feature selection
+Which optimization techniques for training neural nets do you know?,neural networks
+What are the main parameters in the gradient boosting model?,feature selection
+What are the differences between Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs)?,neural networks
+Possible approaches to solving the cold start problem?,recommender systems
+"What would you do if you were asked to build a machine learning system that can accurately predict the number of days until an event (e.g., a person's birthday) based on historical weather data?",recommender systems
+What is transfer learning? How does it work?,neural networks
+How do we measure the quality of our machine learning models?,supervised learning
+What do you think is the most important thing to know about machine learning?,unsupervised learning
+Possible approaches to solving the cold start problem?,recommender systems
+How would you handle the cold start problem?,recommender systems
+What is the best way to solve this type of problem in Python?,classification
+Is it easy to parallelize training of a random forest model? How can we do it?,feature selection
+How do we interpret the coefficients of linear models?,classification
+What are neural nets?,neural networks
+What do we mean by classification and what are the different types of classification?,unsupervised learning
+How can you use bag of words for text classification?,text classification
+What are text embeddings?,text classification
+How would you use N-grams for text classification?,text classification
+Are there any differences between continuous and discrete variables when it comes to feature importance of gradient boosting models?,feature selection
+How do we interpret the coefficients in linear models?,classification
+What is the role of machine learning in recommender systems?,recommender systems
+How do we select the number of trees in Random Forest model?,feature selection
+What is the difference between Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs)?,neural networks
+How do you approach the problem of building recommender systems?,recommender systems
+What is linear regression and what are its advantages?,supervised learning
+How does time series differ from the usual regression problem?,time series
+What is the difference between mean and median?,unsupervised learning
+What do we mean by deep learning?,unsupervised learning
+What is the difference between machine learning and deep learning?,supervised learning
+How can we use N-grams for text classification?,text classification
+What happens when we have correlated features in our data?,feature selection
+Is accuracy always a good metric?,classification
+What are the key steps in building a recommender system?,recommender systems
+How do you build a large-scale recommender system?,recommender systems
+What is time series and how it is different from other time series?,time series
+What is random forest model?,feature selection
+What is ROC PR?,classification
+Possible approaches to solving the problem of building a good baselines?,recommender systems
+When would you choose K-means and when DBScan?,unsupervised learning
+How would you use machine learning for text classification?,text classification
+How can we use clicks data as the training data for ranking algorithms?,unsupervised learning
+What's a recommender system?,recommender systems
+What is the difference between text classification and text embedding?,text classification
+How to validate your models?,supervised learning
+How do we deal with missing values in machine learning models?,supervised learning
+What is the importance of Data Science?,supervised learning
+Possible approaches to solving the problem of constructing a good baseline when building a recommender system?,recommender systems
+What are time series and how do they differ from the traditional regression models?,time series
+What is the difference between Linear models and Nonlinear models?,regularization
+What are the advantages and disadvantages of bag of words?,text classification
+What are the different types of machine learning models?,supervised learning
+How do we handle missing values in linear models?,regularization
+Why do we actually need convolutions? Can’t we use fully-connected layers for that?,neural networks
+Can we apply logistic regression to linear models?,classification
+What is the confusion table?,supervised learning
+What do you know about machine learning?,unsupervised learning
+How do you approach tuning parameters in XGBoost or LightGBM?,feature selection
+How does a usual fully-connected feed-forward neural network work?,neural networks
+Can you tell us how you approach the model training process?,neural networks
+Do you know any dimensionality reduction techniques?,unsupervised learning
+Possible approaches to solving the problem of learning a good initial representation?,recommender systems
+How do regularization techniques work?,regularization
+Is it possible to create a machine learning model that has no bias?,supervised learning
+What are recommender systems and how do they work?,recommender systems
+What are classification and regression problems?,classification
+What are the different techniques used for time series?,time series
+What kind of augmentations do you know?,neural networks
+How can we use machine learning techniques to improve our search engine ranking algorithms?,unsupervised learning
+What is ROC (Receiver Operating Characteristic) score?,classification
+How would you approach the following problem?,unsupervised learning
+What are the key differences between supervised and unsupervised machine learning techniques?,unsupervised learning
+What are recommender systems? What can they do?,recommender systems
+Do you know how DBScan works?,unsupervised learning
+What is the cold start problem?,recommender systems
+"Why do we need to split our data into three parts: train, validation, and test?",supervised learning
+How do we choose the regularization parameter in linear models?,regularization
+How do we deal with categorical variables in logistic regression?,classification
+What is the concept of “batch” in machine learning?,unsupervised learning
+How do we know when to stop training?,neural networks
+How can we use unsupervised learning to learn from the unlabeled data?,unsupervised learning
+How do we interpret the results of linear models in high-dimensional settings?,classification
+What are convolutional layers?,neural networks
+How can we use unsupervised learning algorithms to build recommender systems?,unsupervised learning
+What is the difference between statistical and machine learning?,supervised learning
+What is bag of words?,text classification
+"What if instead of finding the best split, we randomly select a few splits and just select the best from them. Will it work?",feature selection
+What’s the difference between grid search parameter tuning strategy and random search? When to use one or another?,feature selection
+What are the different types of regression models?,supervised learning
+What are text classification models?,text classification
+How do we interpret L1 regularization parameters?,regularization
+What is precision-recall trade-off?,classification
+What do we mean by gradient descent?,unsupervised learning
+What is classification? Which models would you use to solve a classification problem?,classification
+What regularization techniques do we have for linear models?,regularization
+How would you solve the following problem?,classification
+What is accuracy?,classification
+How do you train a neural net with backpropagation?,neural networks
+What are the main parameters of the decision tree model?,feature selection
+Which hyper-parameter tuning strategies (in general) do you know?,feature selection
+What is object segmentation? Do you know any architectures for that?,neural networks
+How can we evaluate the performance of recommender systems?,recommender systems
+What is the curse of dimensionality? Why do we care about it?,unsupervised learning
+What is the difference between machine learning and artificial intelligence?,supervised learning
+What are the different time series techniques used in time series?,time series
+What is the difference between linear and logistic regression?,classification
+What is the linear regression model?,supervised learning
+What are the different kinds of machine learning models?,supervised learning
+What is AUC (AU ROC)? When to use it?,classification
+What is time series and how it differs from other time series?,time series
+How can you use machine learning for text classification?,text classification
+"How do you calculate the mean, variance, standard deviation, skewness and kurtosis of a distribution?",unsupervised learning
+What are the main types of time series?,time series
+What is the difference between unsupervised and supervised learning?,unsupervised learning
+How we can use neural nets for computer vision?,neural networks
+How can you use bag of words for text classification with N-grams?,text classification
+What is time series and how it is different from regression?,time series
+How can we use bag of words for text classification with bag of words?,text classification
+What is the difference between a correlation coefficient and a linear regression coefficient?,supervised learning
+How can you use Keras to train neural networks for text classification?,text classification
+How do you do an online evaluation of a new ranking algorithm?,unsupervised learning
+How to evaluate the model?,classification
+Why do we need learning rates?,neural networks
+Do we need to normalize features before applying linear models in linear models?,regularization
+What are the differences between linear models and generalized linear models?,regularization
+How do we use machine learning to build models for recommender systems?,recommender systems
+Can we use K-fold cross validation to estimate the generalization error of a model?,supervised learning
+What is the k-fold cross-validation?,supervised learning
+How do you go about building a recommender system?,recommender systems
+You have a series with a “y” variable and a set of features. How do you predict “y” at t+1?,time series
+What is the difference between Random Forests and Gradient Boosting Trees?,feature selection
+What is the main difference between Random Forest and Gradient Boosting Model?,feature selection
+What are recommender systems? When do we need them?,recommender systems
+What are good baselines when building a recommender system?,recommender systems
+What is the difference between convolutional layers and fully-connected layers?,neural networks
+What are N-grams? When do we use N-grams?,text classification
+What are N-grams? How can we use them?,text classification
+What is the concept of regularization in linear models?,regularization
+How do we choose the regularization parameters in linear models?,regularization
+How to deal with missing values in linear models?,regularization
+"If there’s a trend in our series, how we can remove it? And why would we want to do it?",time series
+What is deep learning and how does it differ from traditional machine learning?,unsupervised learning
+How would you use text classification with bag of words?,text classification
+What is the effect of regularization parameter on the coefficients in linear models?,regularization
+What’s the normal distribution? Why do we care about it?,supervised learning
+What are the main challenges faced by data scientists today?,supervised learning
+Is it possible to use the random forest model for binary classification?,feature selection
+What is time series and what are its applications?,time series
+What is the difference between classification and regression?,classification
+What are the current trends in Machine Learning?,unsupervised learning
+How can you use machine learning for text classification with N-grams?,text classification
+What is AU ROC?,classification
+How do we deal with time series?,time series
+What are the challenges you face while building machine learning models?,supervised learning
+How can you deal with the cold start problem?,recommender systems
+What are some of the advantages of using time series in modeling?,time series
+What is linear regression?,supervised learning
+How do you deal with cold start problem in recommender system?,recommender systems
+What are the types of regression models?,supervised learning
+What is Time series?,time series
+What is the problem with using trees for solving time series problems?,time series
+What regularization techniques are applicable to linear models?,regularization
+Possible approaches to solving the problem of unsupervised learning?,unsupervised learning
+Can we apply linear models to non-linear problems?,regularization
+What are MSE and RMSE?,supervised learning
+What are word embeddings? Why are they useful? Do you know Word2Vec?,text classification
+What do you know about what regression models are?,supervised learning
+What’s the regularization parameter for linear models?,regularization
+How do we evaluate the performance of a model?,classification
+Is feature selection important for linear models?,feature selection
+What are the problems that can be solved using machine learning techniques?,unsupervised learning
+How do we select the optimal regularization parameters for linear models?,regularization
+How would you approach the cold start problem in a recommender system?,recommender systems
+"How do we split the data into train, validation and test sets?",supervised learning
+How do we use unsupervised learning for ranking?,unsupervised learning
+How do you evaluate the performance of your models?,classification
+What is the ranking problem? Which models can you use to solve them?,unsupervised learning
+How do we choose K for K-fold cross-validation?,supervised learning
+How to perform text classification using word embeddings?,text classification
+What are the benefits of applying machine learning?,unsupervised learning
+You have a series with a variable “y” and a set of features. How do you predict “y” at t+1? Which approaches would you use?,time series
+How to choose the optimal number of trees in random forest model?,feature selection
+What are good unsupervised baselines for text information retrieval?,unsupervised learning
+Which models do you know for solving time series problems?,time series
+What are time series?,time series
+What is the purpose of regularization in linear models?,regularization
+What are the advantages of time series analysis?,time series
+What do you know about time series and how it is used in forecasting?,time series
+How do you approach the cold start problem?,recommender systems
+How can you deal with the cold start problem in recommender systems?,recommender systems
+"1,000,000 random numbers between -1 and 1 with mean 0. What is the standard deviation?",unsupervised learning
+How can we apply machine learning algorithms for recommendation?,unsupervised learning
+What are the challenges you can face when building a recommender system?,recommender systems
+Why do we need to use neural nets for deep learning?,neural networks
+What are convolutional neural nets (CNNs)?,neural networks
+What is the difference between cross validation and leave one out?,supervised learning
+How can we do text classification with deep learning?,text classification
+How would you use machine learning for text classification with word embeddings?,text classification
+How do we choose the number of components in linear models?,regularization
+How is time series different from the usual regression problem?,time series
+What do we mean by “Deep Learning”?,unsupervised learning
+What are the types of machine learning?,unsupervised learning
+1.What is data science and how does it differ from machine learning?,supervised learning
+What do you mean by transfer learning?,unsupervised learning
+What is Adam? What’s the main difference between Adam and SGD?,neural networks
+What is the difference between Logistic Regression and Linear Regression?,classification
+What are the common approaches to building an effective recommender system?,recommender systems
+What is logistic regression?,classification
