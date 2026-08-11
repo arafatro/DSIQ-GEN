@@ -1,8 +1,6 @@
 # DSIQ-GEN: Automatic Generation and Classification of Data Science Interview Questions
 
-[![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12-orange.svg)](https://www.tensorflow.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12-orange.svg)](https://www.tensorflow.org/) [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/arafatro/DSIQ-GEN/blob/main/LICENSE)
 
 > **DSIQ-GEN** is a reproducible research repository for generation, classification, and clustering of data science interview questions.
 >
@@ -17,12 +15,14 @@
 - [Repository Structure](#repository-structure)
 - [Installation](#installation)
 - [Dataset](#dataset)
+- [Run the Repository](#run-the-repository)
 - [Usage](#usage)
-  - [Question Generation](#question-generation)
-  - [Question Classification](#question-classification)
-  - [Clustering Analysis](#clustering-analysis)
+  * [Question Generation](#question-generation)
+  * [Question Classification](#question-classification)
+  * [Clustering Analysis](#clustering-analysis)
 - [PEFT Methods](#peft-methods)
 - [Evaluation Metrics](#evaluation-metrics)
+- [Data Availability](#data-availability)
 - [Citation](#citation)
 - [Acknowledgements](#acknowledgements)
 
@@ -42,15 +42,16 @@ The framework expands a 167-question seed corpus to **1,011 questions (505.4% in
 
 ## Key Results
 
-| Task | Model | Dataset | Accuracy |
-|------|-------|---------|----------|
-| Difficulty Classification | Transformer + Keyword Tokens | Extended | **87.7%** |
-| Topic Classification | Transformer + Keyword Tokens | Extended | **96.7%** |
-| Clustering Purity | TF-IDF (raw) | Extended | **77.3%** |
-| Question Generation (DS Rate) | LoRA CP-5 | — | **87.1%** |
-| Question Generation (Diversity) | LoRA CP-5 | — | **85.0%** |
+| Task                            | Model                        | Dataset  | Accuracy  |
+| -------------------------------- | ----------------------------- | -------- | --------- |
+| Difficulty Classification        | Transformer + Keyword Tokens  | Extended | **87.7%** |
+| Topic Classification             | Transformer + Keyword Tokens  | Extended | **96.7%** |
+| Clustering Purity                | TF-IDF (raw)                  | Extended | **77.3%** |
+| Question Generation (DS Rate)    | LoRA CP-5                     | —        | **87.1%** |
+| Question Generation (Diversity)  | LoRA CP-5                     | —        | **85.0%** |
 
 **Key Findings:**
+
 - LoRA achieves optimal PEFT performance with only **0.9% trainable parameters**
 - Conditioning fails below **8–10% class representation** threshold
 - Curated **198-token keyword vocabulary** matches 357-token full lexicon with **15–18% faster training**
@@ -73,10 +74,23 @@ DSIQ-GEN/
 │   └── question_dataset.csv
 │
 ├── classification models/            # Saved trained classifier weights
-├── generated text/                  # Generated question outputs for evaluation
-├── notebooks/                       # Experiment and evaluation notebooks
-├── environment.txt                  # Python dependency specifications
-├── LICENSE                         # MIT license for the repository
+│   ├── difficulty/
+│   └── topic/
+│
+├── generated text/                   # Generated question outputs
+│   ├── for evaluation/               # Per-checkpoint generation samples
+│   └── for extended datasets/        # Final generated pools used to build data/
+│
+├── notebooks/                        # All experiment code (generation, classification, clustering)
+│   ├── LoRA_models_for_text_generation.ipynb
+│   ├── P_tuning_for_text_generation.ipynb
+│   ├── Prefix_tuning_for_text_generation.ipynb
+│   ├── Evaluation_+_Extended_dataset_creation.ipynb
+│   ├── Classification.ipynb
+│   └── Clustering.ipynb
+│
+├── environment.txt                   # Python dependency specifications
+├── LICENSE                           # MIT license for the repository
 ├── CITATION.md
 ├── keywords.txt
 ├── question generation models.txt
@@ -88,6 +102,7 @@ DSIQ-GEN/
 ## Installation
 
 ### Prerequisites
+
 - Python 3.11
 - NVIDIA GPU with ≥16GB VRAM (tested on RTX 4060 Ti)
 - CUDA-compatible environment
@@ -129,54 +144,42 @@ imbalanced-learn==0.11.0
 
 ## Dataset
 
-All CSV datasets have been moved into the `data/` folder for a cleaner repository layout.
+All CSV datasets are in the `data/` folder.
 
 The core dataset comprises **167 manually curated data science interview questions** annotated with:
 
 - **Difficulty labels:** Beginner (24%), Intermediate (68.3%), Advanced (7.8%)
-- **Topic labels (9 categories):**
-  - Classification, Feature Selection, Neural Networks
-  - Recommender Systems, Regularization, Supervised Learning
-  - Text Classification, Time Series, Unsupervised Learning
+- **Topic labels (9 categories):** Classification, Feature Selection, Neural Networks, Recommender Systems, Regularization, Supervised Learning, Text Classification, Time Series, Unsupervised Learning
 
 Key data files:
 
 - `data/question_dataset.csv` — original question corpus
-- `data/dataset_extended_difficulty.csv` — difficulty-balanced questions for reproduced difficulty classification
+- `data/dataset_extended_difficulty.csv` — difficulty-balanced extended dataset
 - `data/dataset_extended_topic.csv` — topic-balanced extended dataset
-- `data/dataset_extended_merged.csv` — merged dataset combining extended samples
+- `data/dataset_extended_merged.csv` — merged dataset combining both extensions
 - `data/dataset_extended_merged_data_science_only.csv` — DS-only merged split
-- `data/dataset_non_data_science.csv` — non-data-science examples
+- `data/dataset_non_data_science.csv` — non-data-science examples used for domain-classifier evaluation
 
 ---
 
 ## Run the Repository
 
-To run the repo and reproduce difficulty classification results:
+All experiments are implemented as Jupyter notebooks in `notebooks/`. There are no standalone CLI scripts; run the notebooks directly in the order below.
 
 1. Install dependencies described above.
 2. Make sure all CSV datasets are present in `data/`.
-3. Execute the classification training command:
+3. Open and run notebooks in this order:
 
-```bash
-python classification/train_classifiers.py \
-    --dataset data/dataset_extended_difficulty.csv \
-    --task difficulty \
-    --architecture transformer \
-    --representation keyword
-```
+| Step | Notebook | Purpose |
+| ---- | -------- | ------- |
+| 1 | `notebooks/LoRA_models_for_text_generation.ipynb` | Fine-tunes Llama-3.2-1B with LoRA (general, difficulty-conditioned, topic-conditioned) |
+| 2 | `notebooks/P_tuning_for_text_generation.ipynb` | Fine-tunes with P-tuning |
+| 3 | `notebooks/Prefix_tuning_for_text_generation.ipynb` | Fine-tunes with Prefix tuning |
+| 4 | `notebooks/Evaluation_+_Extended_dataset_creation.ipynb` | Computes generation metrics (Diversity, Uniqueness, Similarity, DS Rate, RCA) and builds the extended datasets in `data/` |
+| 5 | `notebooks/Classification.ipynb` | Trains and evaluates all 25 difficulty/topic classifier configurations; saves weights to `classification models/` |
+| 6 | `notebooks/Clustering.ipynb` | Runs K-means clustering (BoW/TF-IDF, with/without PCA) and computes purity/recall |
 
-To reproduce merged dataset results:
-
-```bash
-python classification/train_classifiers.py \
-    --dataset data/dataset_extended_merged.csv \
-    --task difficulty \
-    --architecture transformer \
-    --representation keyword
-```
-
-The repository is organized so that dataset files are separated from generated outputs and saved model weights.
+Trained classifier weights (`.h5`) are already included in `classification models/`, so `Classification.ipynb` and `Clustering.ipynb` can be run for evaluation without retraining from scratch.
 
 ---
 
@@ -184,40 +187,8 @@ The repository is organized so that dataset files are separated from generated o
 
 ### Question Generation
 
-**General (unconditioned) generation:**
-```python
-from generation.generate_questions import generate_new_question
-from peft import PeftModel
-from transformers import AutoModelForCausalLM, AutoTokenizer
+Run `notebooks/LoRA_models_for_text_generation.ipynb` (or the P-tuning / Prefix-tuning equivalents) end to end. Each notebook fine-tunes the base model and saves checkpoints locally, then generates candidate questions using the shared decoding configuration:
 
-model = PeftModel.from_pretrained(base_model, "checkpoints/lora_general/checkpoint-5")
-question = generate_new_question(model, tokenizer)
-print(question)
-```
-
-**Difficulty-conditioned generation:**
-```python
-# Fine-tune on a difficulty subset
-python generation/lora_difficulty.py --difficulty beginner
-
-# Generate beginner-level questions
-python generation/generate_questions.py \
-    --checkpoint checkpoints/lora_beginner/checkpoint-6 \
-    --num_questions 100
-```
-
-**Topic-conditioned generation:**
-```python
-# Fine-tune on a topic subset
-python generation/lora_topic.py --topic "time_series"
-
-# Generate topic-specific questions
-python generation/generate_questions.py \
-    --checkpoint checkpoints/lora_time_series/checkpoint-3 \
-    --num_questions 100
-```
-
-**Generation hyperparameters (used across all models):**
 ```python
 generate_kwargs = {
     "num_beams": 3,
@@ -229,52 +200,17 @@ generate_kwargs = {
 }
 ```
 
----
+Raw generated outputs used for checkpoint evaluation and dataset extension are already provided in `generated text/for evaluation/` and `generated text/for extended datasets/`, so generation does not need to be rerun to reproduce downstream classification/clustering results.
 
 ### Question Classification
 
-**Train all classifier configurations:**
-```bash
-python classification/train_classifiers.py \
-    --dataset data/dataset_extended_merged.csv \
-    --task difficulty \
-    --architecture transformer \
-    --representation keyword
-```
+Run `notebooks/Classification.ipynb`. The notebook trains all combinations of task (`domain`, `difficulty`, `topic`), architecture (`lstm`, `transformer`, `feedforward`), representation (`full_token`, `keyword`, `bow`, `tfidf`), and dataset variant (original, difficulty-extended, topic-extended, merged), and saves weights to `classification models/`.
 
-**Available options:**
-| Argument | Options |
-|----------|---------|
-| `--task` | `domain`, `difficulty`, `topic` |
-| `--architecture` | `lstm`, `transformer`, `feedforward` |
-| `--representation` | `full_token`, `keyword`, `bow`, `tfidf` |
-| `--dataset` | path to any CSV dataset |
-
-**Domain classification (rule-based):**
-```python
-from classification.domain_classifier import is_data_science_question
-
-question = "What is the difference between L1 and L2 regularization?"
-result = is_data_science_question(question)  # True/False
-```
-
----
+Domain classification is rule-based (Equation 1 in the paper) and does not require a trained model; the implementation is in the same notebook.
 
 ### Clustering Analysis
 
-```bash
-# Run K-means clustering on extended dataset
-python clustering/kmeans_clustering.py \
-    --dataset data/dataset_extended_topic.csv \
-    --vectorization tfidf \
-    --n_clusters 9 \
-    --pca_dims 6
-
-# Evaluate clustering quality
-python clustering/evaluate_clustering.py \
-    --dataset data/dataset_extended_topic.csv \
-    --vectorization tfidf
-```
+Run `notebooks/Clustering.ipynb`. The notebook performs K-means clustering (k=9) on BoW and TF-IDF vectorizations, with and without PCA (3D/6D/15D), and reports purity and recall against the manually assigned topic labels.
 
 ---
 
@@ -282,11 +218,11 @@ python clustering/evaluate_clustering.py \
 
 Three parameter-efficient fine-tuning approaches are implemented on **Llama-3.2-1B**:
 
-| Method | Trainable Params | % of Total | Key Configuration |
-|--------|-----------------|------------|-------------------|
-| **LoRA** | 11,272,192 | 0.90% | r=6, α=32, dropout=0, all-linear modules |
-| **P-tuning** | 1,024,000 | 0.08% | 500 virtual tokens via LSTM soft prompts |
-| **Prefix Tuning** | 1,441,792 | 0.12% | 88 prefix tokens at each layer input |
+| Method            | Trainable Params | % of Total | Key Configuration                        |
+| ----------------- | ----------------- | ---------- | ----------------------------------------- |
+| **LoRA**          | 11,272,192        | 0.90%      | r=6, α=32, dropout=0, all-linear modules |
+| **P-tuning**      | 1,024,000          | 0.08%      | 500 virtual tokens via LSTM soft prompts |
+| **Prefix Tuning** | 1,441,792          | 0.12%      | 88 prefix tokens at each layer input     |
 
 > **LoRA is recommended** for domain-specific generation requiring both diversity and semantic fidelity.
 
@@ -296,15 +232,21 @@ Three parameter-efficient fine-tuning approaches are implemented on **Llama-3.2-
 
 Five automated metrics assess generated question quality:
 
-| Metric | Formula | Target |
-|--------|---------|--------|
-| **Diversity** | \|Q_unique\| / \|Q_total\| | ≥ 70% |
-| **Uniqueness** | \|Q_novel\| / \|Q_unique\| × 100% | ≥ 70% |
-| **Similarity** | Mean max cosine sim to training set | < 0.70 |
-| **DS Rate** | % classified as valid DS questions | ≥ 80% |
-| **Right Class Accuracy (RCA)** | % matching conditioning target | ≥ 70% |
+| Metric                         | Formula                              | Target |
+| -------------------------------- | ------------------------------------- | ------ |
+| **Diversity**                  | \|Q_unique\| / \|Q_total\|            | ≥ 70%  |
+| **Uniqueness**                 | \|Q_novel\| / \|Q_unique\| × 100%     | ≥ 70%  |
+| **Similarity**                 | Mean max cosine sim to training set   | < 0.70 |
+| **DS Rate**                    | % classified as valid DS questions    | ≥ 80%  |
+| **Right Class Accuracy (RCA)** | % matching conditioning target        | ≥ 70%  |
 
 Sentence embeddings are computed using `all-MiniLM-L6-v2` from the `sentence-transformers` library.
+
+---
+
+## Data Availability
+
+The core and extended question datasets (167 original questions and all extended variants totaling 1,011 questions), raw generated-question outputs used for checkpoint evaluation and dataset extension, trained classifier weights for all difficulty and topic models, keyword lexicon, and analysis notebooks are all included in this repository. The fine-tuned PEFT adapter checkpoints for the question-generation models (LoRA, P-tuning, and Prefix tuning) are not included due to file size, but are fully reproducible by running the provided fine-tuning notebooks on the released 167-question seed corpus with the configurations listed in the [PEFT Methods](#peft-methods) table above.
 
 ---
 
@@ -314,11 +256,11 @@ If you use this work, please cite:
 
 ```bibtex
 @article{easin2025dsiqgen,
-  title     = {DSIQ-GEN: Automatic Generation and Classification 
+  title     = {DSIQ-GEN: Automatic Generation and Classification
                of Data Science Interview Questions},
-  author    = {Easin, Arafat Md and 
-               Barbara, Cs{\'a}sz{\'a}r Fanni and 
-               Farou, Zakarya and 
+  author    = {Easin, Arafat Md and
+               Barbara, Cs{\'a}sz{\'a}r Fanni and
+               Farou, Zakarya and
                Orosz, Tam{\'a}s},
   journal   = {International Journal of Intelligent Systems},
   year      = {2026},
@@ -344,4 +286,4 @@ Budapest, Hungary
 
 ---
 
-<p align="center">Made with ❤️ at ELTE, Budapest</p>
+Made with ❤️ at ELTE, Budapest
