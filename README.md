@@ -54,7 +54,7 @@ The framework expands a 167-question seed corpus to **1,011 questions (505.4% in
 
 - LoRA achieves optimal PEFT performance with only **0.9% trainable parameters**
 - Conditioning fails below **8–10% class representation** threshold
-- Curated **198-token keyword vocabulary** matches 357-token full lexicon with **15–18% faster training**
+- Curated **198-token keyword vocabulary** matches 357-token full lexicon with **approximately 15% faster training**
 - **6D PCA** projections preserve ~75% of semantic variance for efficient visualization
 
 ---
@@ -220,7 +220,7 @@ Three parameter-efficient fine-tuning approaches are implemented on **Llama-3.2-
 
 | Method            | Trainable Params | % of Total | Key Configuration                        |
 | ----------------- | ----------------- | ---------- | ----------------------------------------- |
-| **LoRA**          | 11,272,192        | 0.90%      | r=6, α=32, dropout=0, all-linear modules |
+| **LoRA**          | 11,272,192        | 0.90%      | r=16, α=32, dropout=0, all-linear modules |
 | **P-tuning**      | 1,024,000          | 0.08%      | 500 virtual tokens via LSTM soft prompts |
 | **Prefix Tuning** | 1,441,792          | 0.12%      | 88 prefix tokens at each layer input     |
 
