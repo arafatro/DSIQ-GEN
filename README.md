@@ -153,12 +153,12 @@ The core dataset comprises **167 manually curated data science interview questio
 
 Key data files:
 
-- `data/question_dataset.csv` — original question corpus
-- `data/dataset_extended_difficulty.csv` — difficulty-balanced extended dataset
-- `data/dataset_extended_topic.csv` — topic-balanced extended dataset
-- `data/dataset_extended_merged.csv` — merged dataset combining both extensions
-- `data/dataset_extended_merged_data_science_only.csv` — DS-only merged split
-- `data/dataset_non_data_science.csv` — non-data-science examples used for domain-classifier evaluation
+- `data/dataset_6.csv` - original 167-question corpus with difficulty and topic labels (question, answer, difficulty, topic)
+- `data/dataset_extended_difficulty.csv` - difficulty-balanced extended dataset
+- `data/dataset_extended_topic.csv` - topic-balanced extended dataset
+- `data/dataset_extended_merged.csv` - merged dataset combining both extensions
+- `data/dataset_extended_merged_data_science_only.csv` - DS-only merged split
+- `data/dataset_non_data_science.csv` - non-data-science examples used for domain-classifier evaluation
 
 ---
 
