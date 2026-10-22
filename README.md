@@ -255,16 +255,15 @@ The core and extended question datasets (167 original questions and all extended
 If you use this work, please cite:
 
 ```bibtex
-@article{easin2025dsiqgen,
-  title     = {DSIQ-GEN: Automatic Generation and Classification
-               of Data Science Interview Questions},
-  author    = {Easin, Arafat Md and
-               Barbara, Cs{\'a}sz{\'a}r Fanni and
-               Farou, Zakarya and
-               Orosz, Tam{\'a}s},
+@article{arafat2026dsiqgen,
+  title     = {{DSIQ-GEN}: Automatic Generation and Classification of Data Science Interview Questions},
+  author    = {Arafat, Md. Easin and Cs{\'a}sz{\'a}r, Fanni Barbara and Farou, Zakarya and Orosz, Tam{\'a}s},
   journal   = {International Journal of Intelligent Systems},
+  volume    = {2026},
+  pages     = {1523398},
   year      = {2026},
-  note      = {Under review}
+  publisher = {Wiley / Hindawi},
+  doi       = {10.1155/int/1523398}
 }
 ```
 
