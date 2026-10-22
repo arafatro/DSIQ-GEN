@@ -269,7 +269,7 @@ If you use this work, please cite:
 
 ## Acknowledgements
 
-This research was supported by the **Stipendium Hungaricum scholarship**, generously provided by the Hungarian Government through the Tempus Public Foundation. We also thank the **Department of Data Science at Eötvös Loránd University (ELTE)** for their academic guidance and technical support.
+This research was supported by the Faculty of Excellence fellowship program at Eötvös Loránd University (Work no. E19019/19) and the **Stipendium Hungaricum scholarship**, provided by the Hungarian Government through the Tempus Public Foundation. We also thank the **Department of Data Science at ELTE** for their academic guidance and technical support.
 
 ---
 
