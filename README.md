@@ -3,8 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12-orange.svg)](https://www.tensorflow.org/) [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/arafatro/DSIQ-GEN/blob/main/LICENSE)
 
 > **DSIQ-GEN** is a reproducible research repository for generation, classification, and clustering of data science interview questions.
->
-> The associated article is currently under review in the *International Journal of Intelligent Systems*.
 
 ---
 
